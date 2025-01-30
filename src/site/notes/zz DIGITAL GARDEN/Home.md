@@ -2,12 +2,22 @@
 {"dg-publish":true,"permalink":"/zz-digital-garden/home/","tags":["gardenEntry"]}
 ---
 
-# Home
-This is a test homepage
+# Compendium
+--- start-multi-column: BigLink1
 
-## H2 header
-Text here
+## [[DM SCREEN/Potions/- FULL Potions List\|Potions]]
 
-### H3 header
-Text here
+--- end-column ---
 
+## Items
+
+--- end-multi-column
+--- start-multi-column: BigLink2
+
+## [[DM SCREEN/Spells/W&W Homebrew/- FULL Spell List\|Spells]]
+
+--- end-column ---
+
+## People
+
+--- end-multi-column
