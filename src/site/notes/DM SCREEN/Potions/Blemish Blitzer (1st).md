@@ -1,0 +1,26 @@
+---
+{"dg-publish":true,"permalink":"/dm-screen/potions/blemish-blitzer-1st/"}
+---
+
+*Potion, rarity* 
+
+## Description
+
+This specially formulated potion will magically remove any acne or blemishes from your face when applied.
+
+### Antidote to: 
+- [[DM SCREEN/Potions/Fungiface Potion (EC)\|Fungiface Potion (EC)]] 
+- [[DM SCREEN/Spells/W&W Homebrew/Furnunculus\|Furnunculus]]
+
+## Recipe:
+
+* 1 bundle of nettles
+* 1 flask of bubotuber pus
+* 1 flask of flobberworm mucus
+* 1 porcupine quill
+
+**Flawed**:
+No effect
+
+**Exceptional:** 
+No effect
