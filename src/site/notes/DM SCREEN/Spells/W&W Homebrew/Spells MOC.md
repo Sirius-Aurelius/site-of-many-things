@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/dm-screen/spells/w-and-w-homebrew/spells-moc/"}
+{"dg-publish":true,"permalink":"/dm-screen/spells/w-and-w-homebrew/spells-moc/","dgShowToc":"true"}
 ---
 
 ### Charms
