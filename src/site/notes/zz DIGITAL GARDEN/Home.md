@@ -3,7 +3,9 @@
 ---
 
 # Compendium
-- ## [[DM SCREEN/Potions/- FULL Potions List\|Potions]]
-- ## Items
-- ## [[DM SCREEN/Spells/W&W Homebrew/- FULL Spell List\|Spells]]
 - ## People
+- ## [[DM SCREEN/Potions/Potions MOC\|Potions]]
+- ## Ingredients
+- ## [[DM SCREEN/Spells/W&W Homebrew/Spells MOC\|Spells]]
+- ## Items
+
