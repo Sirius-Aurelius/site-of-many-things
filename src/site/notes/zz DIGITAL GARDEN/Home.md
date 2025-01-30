@@ -6,6 +6,6 @@
 - ## People
 - ## [[Potions/- Potions MOC\|Potions]]
 - ## Ingredients
-- ## [[Spells/W&W Homebrew/Spells MOC\|Spells]]
+- ## [[Spells/W&W Homebrew/- Spells MOC\|Spells]]
 - ## Items
 
