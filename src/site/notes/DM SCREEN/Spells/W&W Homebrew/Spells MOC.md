@@ -51,7 +51,7 @@
 |             | [[DM SCREEN/Spells/W&W Homebrew/Finite Incantatem\|Finite Incantatem]]          |
 |             | [[DM SCREEN/Spells/W&W Homebrew/Fumos\|Fumos]]                      |
 |             | [[DM SCREEN/Spells/W&W Homebrew/Geminio\|Geminio]]                    |
-|             | [[DM SCREEN/Spells/W&W Homebrew/Immobilus\|Immobilus]] (WaW: Immobulus) |
+|             | [[DM SCREEN/Spells/W&W Homebrew/Immobulus\|Immobulus]]                  |
 |             | [[DM SCREEN/Spells/W&W Homebrew/Muffliato\|Muffliato]]*                 |
 |             | [[DM SCREEN/Spells/W&W Homebrew/Partis Temporus\|Partis Temporus]]            |
 |             | [[DM SCREEN/Spells/W&W Homebrew/Pellucidi Pellis\|Pellucidi Pellis]]           |
@@ -162,16 +162,16 @@
 | 6th Level   | [[DM SCREEN/Spells/W&W Homebrew/Vulnera Sanentur\|Vulnera Sanentur]]* |
 ### Divination
 
-| Subcategory | Spell                        |
-| ----------- | ---------------------------- |
-| Cantrips    | [[DM SCREEN/Spells/W&W Homebrew/Point Me\|Point Me]]                 |
-|             | [[DM SCREEN/Spells/W&W Homebrew/Prior Incantato\|Prior Incantato]]          |
-| 1st Level   | [[DM SCREEN/Spells/W&W Homebrew/Specialis Revelio\|Specialis Revelio]]        |
-| 3rd Level   | [[DM SCREEN/Spells/W&W Homebrew/0 Legilimens & Occlumens\|0 Legilimens & Occlumens]] |
-|             | [[DM SCREEN/Spells/W&W Homebrew/Revelio\|Revelio]]                  |
-| 4th Level   | [[DM SCREEN/Spells/W&W Homebrew/Appare Vestigium\|Appare Vestigium]]         |
-|             | [[DM SCREEN/Spells/W&W Homebrew/Homenum Revelio\|Homenum Revelio]]          |
+| Subcategory | Spell                            |
+| ----------- | -------------------------------- |
+| Cantrips    | [[DM SCREEN/Spells/W&W Homebrew/Point Me\|Point Me]]                     |
+|             | [[DM SCREEN/Spells/W&W Homebrew/Prior Incantato\|Prior Incantato]]              |
+| 1st Level   | [[DM SCREEN/Spells/W&W Homebrew/Specialis Revelio\|Specialis Revelio]]            |
+| 3rd Level   | ==[[DM SCREEN/Spells/W&W Homebrew/0 Legilimens & Occlumens\|0 Legilimens & Occlumens]]== |
+|             | [[DM SCREEN/Spells/W&W Homebrew/Revelio\|Revelio]]                      |
+| 4th Level   | [[DM SCREEN/Spells/W&W Homebrew/Appare Vestigium\|Appare Vestigium]]             |
+|             | [[DM SCREEN/Spells/W&W Homebrew/Homenum Revelio\|Homenum Revelio]]              |
+### See also: [[DM SCREEN/Spells/W&W Homebrew/0 Apparition\|0 Apparition]]
 
 
-
-### [[zz DIGITAL GARDEN/Home\|Back to Home]]
+#### [[zz DIGITAL GARDEN/Home\|Back to Home]]
