@@ -171,3 +171,7 @@
 |             | [[DM SCREEN/Spells/W&W Homebrew/Revelio\|Revelio]]                  |
 | 4th Level   | [[DM SCREEN/Spells/W&W Homebrew/Appare Vestigium\|Appare Vestigium]]         |
 |             | [[DM SCREEN/Spells/W&W Homebrew/Homenum Revelio\|Homenum Revelio]]          |
+
+
+
+### [[zz DIGITAL GARDEN/Home\|Back to Home]]
