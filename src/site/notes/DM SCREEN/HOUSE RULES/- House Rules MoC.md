@@ -2,7 +2,9 @@
 {"dg-publish":true,"permalink":"/dm-screen/house-rules/house-rules-mo-c/","title":"Variant & House Rules"}
 ---
 
+![Rules-Mechanics-masthead.png](/img/user/Rules-Mechanics-masthead.png)
 # Variant Rules (WaW)
+
 
 
 # House Rules
