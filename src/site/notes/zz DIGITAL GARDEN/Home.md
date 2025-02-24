@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/zz-digital-garden/home/","tags":["gardenEntry"]}
 ---
 
+![Rules-Mechanics-masthead.png](/img/user/Rules-Mechanics-masthead.png)
 # Rules & Mechanics
 - ## [[DM SCREEN/HOUSE RULES/- House Rules MoC#Variant Rules (WaW)\|Variant Rules]]
 - ## [[DM SCREEN/HOUSE RULES/- House Rules MoC#House Rules\|House Rules]]
