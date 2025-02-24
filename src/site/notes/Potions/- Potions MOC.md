@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/potions/potions-moc/","title":"Full Potions List"}
 ---
 
+![Potions-masthead.png](/img/user/zz%20DIGITAL%20GARDEN/Images%20&%20Banners/Potions-masthead.png)
 ### First Year Potions
 [[Potions/Antidote of Common Poisons (1st)\|Antidote of Common Poisons (1st)]]
 [[Potions/Blemish Blitzer (1st)\|Blemish Blitzer (1st)]]

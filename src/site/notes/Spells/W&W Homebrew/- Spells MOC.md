@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/spells/w-and-w-homebrew/spells-moc/","title":"Full Spells list","dgShowToc":"true"}
 ---
 
+![Spells-masthead.png](/img/user/zz%20DIGITAL%20GARDEN/Images%20&%20Banners/Spells-masthead.png)
 ### Charms
 
 | Subcategory | Spell                          |
