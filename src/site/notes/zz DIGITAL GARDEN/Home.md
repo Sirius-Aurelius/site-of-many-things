@@ -14,3 +14,21 @@
 - ## [[Spells/W&W Homebrew/- Spells MOC\|Spells]]
 - ## Items
 
+--- start-multi-column: ExampleRegion3
+
+# PEOPLE
+
+--- end-column ---
+
+# POTIONS
+
+--- end-multi-column
+--- start-multi-column: ExampleRegion3
+
+# SPELLS
+
+--- end-column ---
+
+# INGREDIENTS
+
+--- end-multi-column
