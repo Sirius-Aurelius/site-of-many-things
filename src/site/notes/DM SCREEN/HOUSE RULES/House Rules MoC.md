@@ -17,4 +17,4 @@
 # Not (yet) Adopted
 - [[DM SCREEN/HOUSE RULES/Loyalty (NPCs)\|Loyalty (NPCs)]]
 - [[DM SCREEN/0 D100 Tables/Critical Fumbles\|Critical Fumbles]]
-- 
+- *Further proposals here*
