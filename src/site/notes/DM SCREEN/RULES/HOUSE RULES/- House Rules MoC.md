@@ -8,7 +8,7 @@
 - [[DM SCREEN/RULES/Variant Rules/Differences from 5e\|Differences from 5e]]
 - [[DM SCREEN/RULES/Variant Rules/Predetermined 'Race' (Hufflepuff)\|Predetermined 'Race' (Hufflepuff)]]
 - [[DM SCREEN/RULES/Variant Rules/Predetermined 'Class' (Sorcerer)\|Predetermined 'Class' (Sorcerer)]]
-- 
+- [[DM SCREEN/RULES/Variant Rules/Schools of Magic - MoC\|Subclass Selection (Schools of Magic)]]
 
 
 # House Rules
