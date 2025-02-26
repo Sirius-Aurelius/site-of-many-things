@@ -15,10 +15,12 @@ This campaign uses all the core mechanics and rules of D&D (5e 2014), but is ada
 
 
 # Variant Rules for this Campaign
+
+### Differences from 5e
 - [[DM SCREEN/RULES/Variant Rules/Differences from 5e\|Differences from 5e (Overview)]]
 
 ### Character Creation
 - [[DM SCREEN/RULES/Variant Rules/Predetermined 'Race' (Hufflepuff)\|Predetermined 'Race' (Hufflepuff)]]
 - [[DM SCREEN/RULES/Variant Rules/Predetermined 'Class' (Sorcerer)\|Predetermined 'Class' (Sorcerer)]]
-- [[DM SCREEN/RULES/Variant Rules/Schools of Magic - MoC\|Schools of Magic - MoC]]
+- [[DM SCREEN/RULES/Variant Rules/Schools of Magic - MoC\|Schools of Magic selection]]
 - 
