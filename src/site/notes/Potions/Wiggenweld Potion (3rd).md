@@ -11,7 +11,7 @@ This healing potion is the antidote for magically induced sleep, immediately wak
 ### Antidote to: 
 - [[Potions/Draught of Living Death (6th)\|Draught of Living Death (6th)]]
 - [[Potions/Sleeping Draught (2nd)\|Sleeping Draught (2nd)]]
-- [[Spells/W&W Homebrew/Stupefy\|Stupefy]]
+- [[Spells/Stupefy\|Stupefy]]
 
 ### Cured by:
 

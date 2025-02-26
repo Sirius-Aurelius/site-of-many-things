@@ -9,8 +9,8 @@
 When you drink this potion, you have advantage on Dexterity checks for 1 hour. Drinking it feels like 'a burst of energy', greatly sharpening one's reflexes.
 
 ### Antidote to: 
-- [[Spells/W&W Homebrew/Digitus Wibbly\|Digitus Wibbly]] 
-- [[Spells/W&W Homebrew/Locomotor Wibbly\|Locomotor Wibbly]]
+- [[Spells/Digitus Wibbly\|Digitus Wibbly]] 
+- [[Spells/Locomotor Wibbly\|Locomotor Wibbly]]
 
 ### Cured by:
 

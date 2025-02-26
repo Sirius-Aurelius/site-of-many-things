@@ -5,7 +5,7 @@
 *Potion, common 
 
 ## Description
-When you drink this potion, you gain the effects of the [[Spells/W&W Homebrew/Furnunculus\|Furnunculus]] spell, but sprouting dense and itchy mushrooms on your face instead of pimples. These mushrooms will last 1 hour.
+When you drink this potion, you gain the effects of the [[Spells/Furnunculus\|Furnunculus]] spell, but sprouting dense and itchy mushrooms on your face instead of pimples. These mushrooms will last 1 hour.
 
 ### Antidote to: 
 None

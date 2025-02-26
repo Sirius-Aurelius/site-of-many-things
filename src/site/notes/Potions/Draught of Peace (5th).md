@@ -20,7 +20,7 @@ Additionally, if you are hostile, you will become indifferent to the targets of 
 	- [[Potions/Heartbreak Teardrops (EC)\|Heartbreak Teardrops (EC)]]
 	- [[Potions/Twilight Moonbeams (EC)\|Twilight Moonbeams (EC)]]
 - [[Potions/Elixir to Induce Euphoria (2nd)\|Elixir to Induce Euphoria (2nd)]]
-- [[Spells/W&W Homebrew/Exhilaro\|Exhilaro]]
+- [[Spells/Exhilaro\|Exhilaro]]
 
 ## Recipe:
 

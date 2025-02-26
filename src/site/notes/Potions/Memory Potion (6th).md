@@ -12,7 +12,7 @@ You have advantage on Intelligence (Herbology), Intelligence (History of Magic) 
 
 ### Antidote to: 
 - [[Potions/Forgetfulness Potion (1st)\|Forgetfulness Potion (1st)]]
-- [[Spells/W&W Homebrew/Obliviate\|Obliviate]]
+- [[Spells/Obliviate\|Obliviate]]
 
 ## Recipe:
 

@@ -6,11 +6,11 @@
 
 ## Description
 
-When you drink this potion, you gain the effects of the [[Spells/W&W Homebrew/Engorgio\|Engorgio]] spell for 1d4 hours (no concentration required). This potion can also be poured over an object for a similar effect.
+When you drink this potion, you gain the effects of the [[Spells/Engorgio\|Engorgio]] spell for 1d4 hours (no concentration required). This potion can also be poured over an object for a similar effect.
 
 ### Antidote to: 
-- [[Spells/W&W Homebrew/Diminuendo\|Diminuendo]]
-- [[Spells/W&W Homebrew/Reducio\|Reducio]] 
+- [[Spells/Diminuendo\|Diminuendo]]
+- [[Spells/Reducio\|Reducio]] 
 - [[Potions/Shrinking Solution (3rd)\|Shrinking Solution (3rd)]]
 
 ## Recipe:

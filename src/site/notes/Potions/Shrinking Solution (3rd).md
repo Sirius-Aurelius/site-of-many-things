@@ -6,10 +6,10 @@
 
 ## Description
 
-When you drink this potion, you gain the effects of the [[Spells/W&W Homebrew/Diminuendo\|Diminuendo]] spell for 1d4 hours (no concentration required). This potion can also be poured over an object for the effects of [[Spells/W&W Homebrew/Reducio\|Reducio]].
+When you drink this potion, you gain the effects of the [[Spells/Diminuendo\|Diminuendo]] spell for 1d4 hours (no concentration required). This potion can also be poured over an object for the effects of [[Spells/Reducio\|Reducio]].
 
 ### Antidote to: 
-- [[Spells/W&W Homebrew/Engorgio\|Engorgio]] 
+- [[Spells/Engorgio\|Engorgio]] 
 - [[Potions/Swelling Solution (2nd)\|Swelling Solution (2nd)]]
 
 ### Cured by:

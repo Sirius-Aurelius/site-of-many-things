@@ -10,7 +10,7 @@ This specially formulated potion will magically remove any acne or blemishes fro
 
 ### Antidote to: 
 - [[Potions/Fungiface Potion (EC)\|Fungiface Potion (EC)]] 
-- [[Spells/W&W Homebrew/Furnunculus\|Furnunculus]]
+- [[Spells/Furnunculus\|Furnunculus]]
 
 ## Recipe:
 

@@ -10,9 +10,9 @@ When you drink this potion, you have advantage on Intelligence checks for 1 hour
 
 ### Antidote to: 
 - [[Potions/Befuddlement Draught (5th)\|Befuddlement Draught (5th)]]
-- [[Spells/W&W Homebrew/Confundo\|Confundo]]
+- [[Spells/Confundo\|Confundo]]
 - [[Potions/Confusing Concoction (1st)\|Confusing Concoction (1st)]]
-- *[[Spells/W&W Homebrew/Infirma Cerebra\|Infirma Cerebra]]
+- *[[Spells/Infirma Cerebra\|Infirma Cerebra]]
 
 ## Recipe:
 

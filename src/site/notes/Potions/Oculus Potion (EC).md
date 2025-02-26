@@ -8,7 +8,7 @@
 Drinking this deep orange potion removes the blind condition, restoring your eyesight to its normal state.
 
 ### Antidote to: 
-- [[Spells/W&W Homebrew/Conjunctivia\|Conjunctivia]]
+- [[Spells/Conjunctivia\|Conjunctivia]]
 
 ## Recipe:
 

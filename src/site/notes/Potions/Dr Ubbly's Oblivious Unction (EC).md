@@ -8,7 +8,7 @@
 
 When you drink this potion, your brain's perception is softened for 1 hour, to protect it from harmful thoughts.
 
-For the duration, you have disadvantage on Wisdom checks. If you are targeted by [[Spells/W&W Homebrew/Legilimens\|Legilimens]], you can make a Wisdom saving throw to resist its initial effects, and if you are targeted by [[Spells/W&W Homebrew/Imperio (dark)\|Imperio]], you have advantage on the first Charisma saving throw.
+For the duration, you have disadvantage on Wisdom checks. If you are targeted by [[Spells/Legilimens\|Legilimens]], you can make a Wisdom saving throw to resist its initial effects, and if you are targeted by [[Spells/Imperio (dark)\|Imperio]], you have advantage on the first Charisma saving throw.
 
 ### Antidote to: 
 None

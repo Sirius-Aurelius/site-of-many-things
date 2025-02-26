@@ -11,7 +11,7 @@ When you drink this potion, you have an advantage on Charisma (Deception) and Ch
 It magically alters your voice to sound like someone else's, or if your voice is lost, it will restore it.
 
 ### Antidote to: 
-- [[Spells/W&W Homebrew/Silencio\|Silencio]]
+- [[Spells/Silencio\|Silencio]]
 
 ### Cured by:
 
