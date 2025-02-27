@@ -5,10 +5,10 @@
 ![Rules-Mechanics-masthead.png](/img/user/zz%20DIGITAL%20GARDEN/Images%20&%20Banners/Rules-Mechanics-masthead.png)
 # Variant Rules (WaW)
 
-- [[DM SCREEN/RULES/Variant Rules/Differences from 5e\|Differences from 5e]]
-- [[DM SCREEN/RULES/Variant Rules/Predetermined 'Race' (Hufflepuff)\|Predetermined 'Race' (Hufflepuff)]]
-- [[DM SCREEN/RULES/Variant Rules/Predetermined 'Class' (Sorcerer)\|Predetermined 'Class' (Sorcerer)]]
-- [[DM SCREEN/RULES/Variant Rules/Schools of Magic - MoC\|Subclass Selection (Schools of Magic)]]
+- [[DM SCREEN/RULES/1.0 Variant Rules/1.2 Differences from 5e\|1.2 Differences from 5e]]
+- [[DM SCREEN/RULES/1.0 Variant Rules/1.3 Predetermined 'Race' (Hufflepuff)\|1.3 Predetermined 'Race' (Hufflepuff)]]
+- [[DM SCREEN/RULES/1.0 Variant Rules/1.4 Predetermined 'Class' (Sorcerer)\|1.4 Predetermined 'Class' (Sorcerer)]]
+- [[DM SCREEN/RULES/1.0 Variant Rules/1.5 Schools of Magic - MoC\|Subclass Selection (Schools of Magic)]]
 
 
 # House Rules
