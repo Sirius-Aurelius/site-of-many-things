@@ -19,5 +19,5 @@ These notes, and the associated Site of Many Things (where you are most likely r
 | Race                  | House              | Predetermined: *Hufflepuff*           |
 | Class                 | Casting Style      | Predetermined: *Sorcerer*             |
 | Subclass or Archetype | School of Magic    | School of Magic                       |
-| Background            | Wand or Background |                                       |
+| Background            | Wand or Background | Background                            |
 | Traits                | Wand or Background | Rolled: *The Wand Chooses the Wizard* |
