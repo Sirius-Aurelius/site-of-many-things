@@ -19,4 +19,4 @@ A ==vulnera sanentur== ~~or [[1 DIGITAL GARDEN/3.0 Spells/Obliviate\|Obliviate]]
 
 ### Counteracted by:
 **Potions:**
-- [[1 DIGITAL GARDEN/4.0 Potions/Memory Potion (6th)\|Memory Potion (6th)]]
+- [[1 DIGITAL GARDEN/4.0 Potions/Memory Potion\|Memory Potion]]

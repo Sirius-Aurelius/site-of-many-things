@@ -14,4 +14,4 @@ Make a ranged spell attack against a being within range. On a hit, the target fa
 **At Higher Levels**. If you cast this spell using a spell slot of 3rd level or higher, the duration increases to 1 hour (3rd level) or 8 hours (4th level). Alternatively, when you cast this spell using a spell slot of 4th level or higher, you can target a beast instead of a being, for a duration of 10 minutes (4th level), 1 hour (5th level) or 8 hours (6th level).
 
 ### Counteracted by:
-- [[1 DIGITAL GARDEN/4.0 Potions/Wiggenweld Potion (3rd)\|Wiggenweld Potion (3rd)]]
+- [[1 DIGITAL GARDEN/4.0 Potions/Wiggenweld Potion\|Wiggenweld Potion]]

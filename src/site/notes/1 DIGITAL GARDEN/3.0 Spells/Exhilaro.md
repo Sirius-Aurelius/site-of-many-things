@@ -15,4 +15,4 @@ At the end of each of its turns, and each time it takes damage, the target can m
 
 ### Counteracted by:
 **Potions:**
-- [[1 DIGITAL GARDEN/4.0 Potions/Draught of Peace (5th)\|Draught of Peace (5th)]]
+- [[1 DIGITAL GARDEN/4.0 Potions/Draught of Peace\|Draught of Peace]]

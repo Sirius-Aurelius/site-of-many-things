@@ -19,5 +19,5 @@ At the end of each of its turns, an affected target can make a Wisdom saving thr
 
 ### Counteracted by:
 **Potions:**
-- [[1 DIGITAL GARDEN/4.0 Potions/Baruffio's Brain Elixir (EC)\|Baruffio's Brain Elixir (EC)]]
+- [[1 DIGITAL GARDEN/4.0 Potions/Baruffio's Brain Elixir\|Baruffio's Brain Elixir]]
 - 

@@ -13,4 +13,4 @@ This spell’s damage increases by 1d6 when you reach certain levels: 5th level 
 
 ### Counteracted by:
 **Potions:**
-- [[1 DIGITAL GARDEN/4.0 Potions/Baruffio's Brain Elixir (EC)\|Baruffio's Brain Elixir (EC)]]
+- [[1 DIGITAL GARDEN/4.0 Potions/Baruffio's Brain Elixir\|Baruffio's Brain Elixir]]
