@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-digital-garden/4-0-potions/cupid-crystals-ec/"}
+{"dg-publish":true,"permalink":"/1-digital-garden/4-0-potions/cupid-crystals-ec/","tags":["potion","extracurricular","love","common"]}
 ---
 
 *Love Potion, common* 

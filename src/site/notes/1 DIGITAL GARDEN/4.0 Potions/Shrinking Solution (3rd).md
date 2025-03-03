@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-digital-garden/4-0-potions/shrinking-solution-3rd/"}
+{"dg-publish":true,"permalink":"/1-digital-garden/4-0-potions/shrinking-solution-3rd/","tags":["potion","yr3","common"]}
 ---
 
 *Potion, common* 

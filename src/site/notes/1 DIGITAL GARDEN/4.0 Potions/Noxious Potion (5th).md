@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-digital-garden/4-0-potions/noxious-potion-5th/"}
+{"dg-publish":true,"permalink":"/1-digital-garden/4-0-potions/noxious-potion-5th/","tags":["potion","yr5","uncommon"]}
 ---
 
 *Poison, uncommon* (throwable)

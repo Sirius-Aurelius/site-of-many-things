@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/1-digital-garden/4-0-potions/blemish-blitzer-1st/"}
+{"dg-publish":true,"permalink":"/1-digital-garden/4-0-potions/blemish-blitzer-1st/","tags":["potion","yr1","common"]}
 ---
 
-*Potion, rarity* 
+*Potion, common* 
 
 ## Description
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-digital-garden/4-0-potions/fungiface-potion-ec/"}
+{"dg-publish":true,"permalink":"/1-digital-garden/4-0-potions/fungiface-potion-ec/","tags":["potion","extracurricular","common"]}
 ---
 
 *Potion, common 

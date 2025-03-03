@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-digital-garden/4-0-potions/baruffio-s-brain-elixir-ec/"}
+{"dg-publish":true,"permalink":"/1-digital-garden/4-0-potions/baruffio-s-brain-elixir-ec/","tags":["potion","extracurricular","uncommon"]}
 ---
 
 *Potion, uncommon* 

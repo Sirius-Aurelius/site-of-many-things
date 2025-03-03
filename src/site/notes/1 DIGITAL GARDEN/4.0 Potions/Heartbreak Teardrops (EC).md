@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-digital-garden/4-0-potions/heartbreak-teardrops-ec/"}
+{"dg-publish":true,"permalink":"/1-digital-garden/4-0-potions/heartbreak-teardrops-ec/","tags":["potion","extracurricular","love","common"]}
 ---
 
 *Love Potion, common* 

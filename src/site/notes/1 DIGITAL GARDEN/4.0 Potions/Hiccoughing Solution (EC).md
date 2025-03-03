@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-digital-garden/4-0-potions/hiccoughing-solution-ec/"}
+{"dg-publish":true,"permalink":"/1-digital-garden/4-0-potions/hiccoughing-solution-ec/","tags":["potion","extracurricular","common"]}
 ---
 
 *Potion, common* 

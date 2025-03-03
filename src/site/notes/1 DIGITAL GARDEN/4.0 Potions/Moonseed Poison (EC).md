@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-digital-garden/4-0-potions/moonseed-poison-ec/"}
+{"dg-publish":true,"permalink":"/1-digital-garden/4-0-potions/moonseed-poison-ec/","tags":["potion","extracurricular","common"]}
 ---
 
 *Poison, common* 

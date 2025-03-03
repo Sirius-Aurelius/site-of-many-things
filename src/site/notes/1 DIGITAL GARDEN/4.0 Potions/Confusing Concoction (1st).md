@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-digital-garden/4-0-potions/confusing-concoction-1st/"}
+{"dg-publish":true,"permalink":"/1-digital-garden/4-0-potions/confusing-concoction-1st/","tags":["potion","yr1","common"]}
 ---
 
 *Potion, common* 
@@ -15,6 +15,7 @@ None
 
 ### Cured by:
 - [[1 DIGITAL GARDEN/4.0 Potions/Baruffio's Brain Elixir (EC)\|Baruffio's Brain Elixir (EC)]]
+- [[1 DIGITAL GARDEN/4.0 Potions/Wit-Sharpening Potion (7th)\|Wit-Sharpening Potion (7th)]]
 
 ## Recipe:
 

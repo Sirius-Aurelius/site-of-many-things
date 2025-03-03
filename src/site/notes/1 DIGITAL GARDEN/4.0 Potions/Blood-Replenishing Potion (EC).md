@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-digital-garden/4-0-potions/blood-replenishing-potion-ec/"}
+{"dg-publish":true,"permalink":"/1-digital-garden/4-0-potions/blood-replenishing-potion-ec/","tags":["potion","extracurricular"]}
 ---
 
 *Potion, uncommon* 

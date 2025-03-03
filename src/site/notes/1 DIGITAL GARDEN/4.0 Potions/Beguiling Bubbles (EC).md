@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-digital-garden/4-0-potions/beguiling-bubbles-ec/"}
+{"dg-publish":true,"permalink":"/1-digital-garden/4-0-potions/beguiling-bubbles-ec/","tags":["potion","extracurricular","love","uncommon"]}
 ---
 
 *Love Potion, uncommon* 

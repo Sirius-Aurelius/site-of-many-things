@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-digital-garden/4-0-potions/garrotting-gas-4th/"}
+{"dg-publish":true,"permalink":"/1-digital-garden/4-0-potions/garrotting-gas-4th/","tags":["potion","yr4","common"]}
 ---
 
 *Poison, common* (throwable)

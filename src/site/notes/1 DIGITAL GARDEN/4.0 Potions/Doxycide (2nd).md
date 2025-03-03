@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-digital-garden/4-0-potions/doxycide-2nd/"}
+{"dg-publish":true,"permalink":"/1-digital-garden/4-0-potions/doxycide-2nd/","tags":["potion","yr2","common"]}
 ---
 
 *Poison, common* 

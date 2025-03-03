@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-digital-garden/4-0-potions/wide-eye-potion-ec/"}
+{"dg-publish":true,"permalink":"/1-digital-garden/4-0-potions/wide-eye-potion-ec/","tags":["potion","extracurricular","uncommon"]}
 ---
 
 *Potion, uncommon 
@@ -17,9 +17,9 @@ Also known as the Awakening Potion, drinking this potion removes up to two level
 
 ## Recipe:
 
-- · 1 bundle of aconite
-· 1 powdered flying seahorse
-· 1 vial of billywig stings
+- 1 bundle of aconite
+- 1 powdered flying seahorse
+- 1 vial of billywig stings
 
 **Flawed**:
 One level of exhaustion is removed, instead of two.

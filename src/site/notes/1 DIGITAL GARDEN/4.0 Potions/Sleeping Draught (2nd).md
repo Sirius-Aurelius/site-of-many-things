@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-digital-garden/4-0-potions/sleeping-draught-2nd/"}
+{"dg-publish":true,"permalink":"/1-digital-garden/4-0-potions/sleeping-draught-2nd/","tags":["potion","yr2","uncommon"]}
 ---
 
 *Potion, uncommon* 

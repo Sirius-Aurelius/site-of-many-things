@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-digital-garden/4-0-potions/regerminating-potion-ec/"}
+{"dg-publish":true,"permalink":"/1-digital-garden/4-0-potions/regerminating-potion-ec/","tags":["potion","extracurricular","common"]}
 ---
 
 *Potion, common* 

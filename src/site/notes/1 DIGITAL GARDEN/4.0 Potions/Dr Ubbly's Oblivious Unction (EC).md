@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-digital-garden/4-0-potions/dr-ubbly-s-oblivious-unction-ec/"}
+{"dg-publish":true,"permalink":"/1-digital-garden/4-0-potions/dr-ubbly-s-oblivious-unction-ec/","tags":["potion","extracurricular","common"]}
 ---
 
 *Potion, common 

@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/1-digital-garden/4-0-potions/twilight-moonbeams-ec/"}
+{"dg-publish":true,"permalink":"/1-digital-garden/4-0-potions/twilight-moonbeams-ec/","tags":["potion","extracurricular","uncommon"]}
 ---
 
-*Potion, rarity* 
+*Potion, uncommon* 
 
 ## Description
 

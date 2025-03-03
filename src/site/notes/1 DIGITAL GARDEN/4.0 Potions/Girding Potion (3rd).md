@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-digital-garden/4-0-potions/girding-potion-3rd/"}
+{"dg-publish":true,"permalink":"/1-digital-garden/4-0-potions/girding-potion-3rd/","tags":["potion","yr3","uncommon"]}
 ---
 
 *Potion, uncommon* 

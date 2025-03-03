@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-digital-garden/4-0-potions/murtlap-essence-5th/"}
+{"dg-publish":true,"permalink":"/1-digital-garden/4-0-potions/murtlap-essence-5th/","tags":["potion","yr5","uncommon"]}
 ---
 
 *Potion, uncommon 
@@ -13,14 +13,11 @@ None
 
 ## Recipe:
 
-- A dozen murtlap tentacles
+* 2 murtlap tentacles
+* 1 vial of spirit of myrrh
 
 **Flawed**:
 The hit points healed are 4d4, instead of 4d4+4.
 
 **Exceptional:** 
 The hit points healed are 4d4+6 instead of 4d4+4.
-
-### Recipe
-* 2 murtlap tentacles
-* 1 vial of spirit of myrrh

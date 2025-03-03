@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-digital-garden/4-0-potions/befuddlement-draught-5th/"}
+{"dg-publish":true,"permalink":"/1-digital-garden/4-0-potions/befuddlement-draught-5th/","tags":["potion","yr5","uncommon"]}
 ---
 
 *Potion, uncommon* 
@@ -12,6 +12,7 @@ None
 
 ### Cured by:
 - [[1 DIGITAL GARDEN/4.0 Potions/Baruffio's Brain Elixir (EC)\|Baruffio's Brain Elixir (EC)]]
+- [[1 DIGITAL GARDEN/4.0 Potions/Wit-Sharpening Potion (7th)\|Wit-Sharpening Potion (7th)]]
 
 ## Recipe:
 

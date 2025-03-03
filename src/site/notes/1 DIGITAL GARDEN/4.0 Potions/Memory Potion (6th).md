@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-digital-garden/4-0-potions/memory-potion-6th/"}
+{"dg-publish":true,"permalink":"/1-digital-garden/4-0-potions/memory-potion-6th/","tags":["potion","yr6","uncommon"]}
 ---
 
 *Potion, uncommon* 

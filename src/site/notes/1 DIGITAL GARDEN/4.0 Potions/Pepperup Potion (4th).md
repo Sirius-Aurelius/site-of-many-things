@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-digital-garden/4-0-potions/pepperup-potion-4th/"}
+{"dg-publish":true,"permalink":"/1-digital-garden/4-0-potions/pepperup-potion-4th/","tags":["potion","yr4","common"]}
 ---
 
 *Potion, common* 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-digital-garden/4-0-potions/pet-tonic-ec/"}
+{"dg-publish":true,"permalink":"/1-digital-garden/4-0-potions/pet-tonic-ec/","tags":["potion","extracurricular","common"]}
 ---
 
 *Potion, common* 

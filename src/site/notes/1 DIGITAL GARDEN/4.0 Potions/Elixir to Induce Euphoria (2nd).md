@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-digital-garden/4-0-potions/elixir-to-induce-euphoria-2nd/"}
+{"dg-publish":true,"permalink":"/1-digital-garden/4-0-potions/elixir-to-induce-euphoria-2nd/","tags":["potion","yr2","common"]}
 ---
 
 *Potion, common 

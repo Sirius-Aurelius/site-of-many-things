@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-digital-garden/4-0-potions/wiggenweld-potion-3rd/"}
+{"dg-publish":true,"permalink":"/1-digital-garden/4-0-potions/wiggenweld-potion-3rd/","tags":["potion","yr3","uncommon"]}
 ---
 
 *Potion, uncommon* 
@@ -9,7 +9,7 @@
 This healing potion is the antidote for magically induced sleep, immediately waking the victim. 
 
 ### Antidote to: 
-- [[1 DIGITAL GARDEN/4.0 Potions/Draught of Living Death (6th)\|Draught of Living Death (6th)]]
+- [[1 DIGITAL GARDEN/4.0 Potions/Draught of Living Death (6th)\|Draught of Living Death (6th)]] (unless flawed)
 - [[1 DIGITAL GARDEN/4.0 Potions/Sleeping Draught (2nd)\|Sleeping Draught (2nd)]]
 - [[1 DIGITAL GARDEN/3.0 Spells/Stupefy\|Stupefy]]
 
@@ -26,5 +26,4 @@ This healing potion is the antidote for magically induced sleep, immediately wak
 The potion is not an Antidote to Draught of Living Death.
 
 **Exceptional:** 
-The potion serves as an antidote for a duration of 8
-hours.
+The potion serves as an antidote for a duration of 8 hours.
