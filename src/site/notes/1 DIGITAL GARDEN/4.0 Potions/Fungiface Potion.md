@@ -10,6 +10,10 @@ When you drink this potion, you gain the effects of the [[1 DIGITAL GARDEN/3.0 S
 ### Antidote to: 
 None
 
+### Cured by
+- [[1 DIGITAL GARDEN/4.0 Potions/Blemish Blitzer\|Blemish Blitzer]]
+- 
+
 ## Recipe:
 
 - 1 flask of bubotuber pus

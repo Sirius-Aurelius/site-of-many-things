@@ -16,8 +16,6 @@ If you took poison damage the previous minute, you regain half of your hit point
 - [[1 DIGITAL GARDEN/4.0 Potions/Moonseed Poison\|Moonseed Poison]]
 - [[1 DIGITAL GARDEN/4.0 Potions/Noxious Potion\|Noxious Potion]]
 
-- [[1 DIGITAL GARDEN/4.0 Potions/Sleeping Draught\|Sleeping Draught]] (presumed)
-
 ## Recipe:
 
 - I bundle of galanthus nivalis
