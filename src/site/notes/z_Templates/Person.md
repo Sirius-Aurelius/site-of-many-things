@@ -2,19 +2,12 @@
 {"dg-publish":true,"permalink":"/z-templates/person/","tags":["#person"]}
 ---
 
+[Add faction, house, job and location tags to properties. Delete this line]
 >[!info] 
->**About this person text here**
->*Personality summary here*
->Usually found in ==primary location==
+>[CHARACTER PORTRAIT HERE (300 wide)]
+>**Role**:: [About this person text here]
+>**3 Word Summary**:: *Personality summary here*
+>**Usually found in**:: [location links here]
 
-# Quickview
-
-|                           |                        |
-| ------------------------- | ---------------------- |
-| ==Occupation/Relevance==: | \#profession           |
-| About this person:        |                        |
-| ==Personality Summary==:  |                        |
-| ==Primary Location==:     | \#location/sublocation |
-| Secondary Locations       | \#location/sublocation |
-# Events
+# Interactions
 

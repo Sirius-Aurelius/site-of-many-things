@@ -2,13 +2,15 @@
 {"dg-publish":true,"permalink":"/z-templates/location/","tags":["#place"]}
 ---
 
-# Quickview
+>[!info]
+>Picture:: [Location image here]
+>**Location type**::  
+>**Located in**:: [Master location link]
+>**Proprietor**:: [Proprietor Link]
+>**Three-Word Summary**:: one, two, three 
 
-|                  |                |
-| ---------------- | -------------- |
-| ==Location==:    | File path      |
-| ==Type==:        | Shop/POI etc   |
-| ==Key NPC==:     | Proprietor etc |
-| Additional NPCs: |                |
+# Description
+
+
 # Events
 

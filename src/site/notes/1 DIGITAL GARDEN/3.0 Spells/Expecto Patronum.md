@@ -28,7 +28,7 @@ Make a melee spell attack for the patronus using your spell attack modifier. On 
 > **Highly Advanced Magic**
 > The Patronus Charm is regarded as a difficult spell partly because the caster must relive a truly joyful memory when casting. This spell's ability check is unusual, but represents the challenge of focusing on a suitable memory in a stressful situation.
 > Remember that a frightened creature has disadvantage on ability checks, including this one.
-> Your HM can allow you to spend Inspiration to automatically succeed on this check. 
+> Your DM can allow you to spend Inspiration to automatically succeed on this check. 
 > Your character might bring forth a powerful childhood memory in their time of need.
 
 A patronus sheds light in a radius around it. You and friendly creatures can't be frightened while in your patronus's light. A dementor that starts its turn within this light or enters the light for the first time on a turn must succeed on a Wisdom saving throw or become frightened of the patronus until the start of its next turn (this fear ignores any immunity to the frightened condition). While frightened, the dementor must take the Dash action on its turn and move away from the patronus by the safest available route until it leaves the light.
@@ -45,3 +45,5 @@ The patronus sheds bright light in a 10-foot radius and dim light for an additio
 >The Patronus Charm is most famous against dementors, but it can be a potent protector against other dark creatures in the Wizarding World.
 >Only dementors and lethifolds have been confirmed to be affected by a patronus. At the HM's discretion, your patronus can interact with or harm creatures like banshees, inferi, or obscuri. If your HM decides a creature can be affected by a patronus, the creature is susceptible to the patronus's fear effect, attacks and damage.
 >Even if a patronus is unable to harm a particular kind of creature, its soothing presence can still protect you by preventing fear.
+
+You can determine your Patronus' form by rolling on the [[1 DIGITAL GARDEN/3.0 Spells/Expecto Patronum - Rolling Table\|Expecto Patronum - Rolling Table]]. If you are of the [[1 DIGITAL GARDEN/1.0-2.0 RULES/1.0 Variant Rules/1.5.4 Schools of Magic - Transfiguration\|Transfiguration School of Magic]] your Patronus will take the same form as your animagus (see [[1 DIGITAL GARDEN/1.0-2.0 RULES/1.0 Variant Rules/1.5.4 Schools of Magic - Transfiguration#Choosing an Animal\|Transfiguration: Choosing an animal]])
