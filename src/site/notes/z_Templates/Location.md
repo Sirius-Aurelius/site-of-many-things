@@ -2,8 +2,8 @@
 {"dg-publish":true,"permalink":"/z-templates/location/","tags":["#place"]}
 ---
 
+[Location image here]
 >[!info]
->Picture:: [Location image here]
 >**Location type**::  
 >**Located in**:: [Master location link]
 >**Proprietor**:: [Proprietor Link]
