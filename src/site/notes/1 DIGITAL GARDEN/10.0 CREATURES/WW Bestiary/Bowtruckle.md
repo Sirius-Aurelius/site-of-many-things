@@ -7,6 +7,7 @@
 
 ## Variants
 *Statblocks only visible to DM*
+- [[Bowtruckle - Juvenile CR 0.125.png]]
 - [[Bowtruckle CR 0.25.png]]
 
 ## Description

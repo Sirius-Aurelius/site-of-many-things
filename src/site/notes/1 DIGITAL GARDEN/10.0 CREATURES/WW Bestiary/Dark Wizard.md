@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/1-digital-garden/10-0-creatures/ww-bestiary/dark-wizard/","tags":["#creature","#magical-being"]}
 ---
 
-![Dark Mark.png|left|200](/img/user/1%20DIGITAL%20GARDEN/10.0%20CREATURES/(Attachments)/WW%20Bestiary/Dark%20Mark.png)
+![Dark Mark.png|left|200](/img/user/1%20DIGITAL%20GARDEN/Images%20&%20Banners/Dark%20Mark.png)
 
 ## Variants
 *Statblocks only visible to DM*

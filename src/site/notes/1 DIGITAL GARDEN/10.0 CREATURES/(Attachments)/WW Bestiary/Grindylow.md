@@ -16,7 +16,7 @@
 Grindylows are small, horned water demons native to the lakes and marshes of the British Isles, particularly found in the depths of the Hogwarts lake. They are known for their aggressive nature and ability to drag prey underwater.
 
 #### Physical Characteristics and Abilities
-![Suffocation Inset.png|left|250](/img/user/1%20DIGITAL%20GARDEN/10.0%20CREATURES/(Attachments)/WW%20Bestiary/Suffocation%20Inset.png)
+![Suffocation Inset.png|left|250](/img/user/1%20DIGITAL%20GARDEN/Images%20&%20Banners/Suffocation%20Inset.png)
 * Small, pale-green creatures.
 * Horned.
 * Long, spindly arms with sharp fingers.

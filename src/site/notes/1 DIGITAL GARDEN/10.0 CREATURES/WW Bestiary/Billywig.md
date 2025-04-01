@@ -6,6 +6,7 @@
 ## Variants
 *Statblocks only visible to DM*
 - [[Billywig - Single CR 0.125.png]]
+- [[Billywig - Queen CR 1.png]]
 - [[Billywig - Swarm CR 1.png]]
 
 ## Description

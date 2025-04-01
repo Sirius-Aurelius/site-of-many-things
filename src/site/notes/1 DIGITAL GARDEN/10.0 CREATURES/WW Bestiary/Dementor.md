@@ -22,7 +22,7 @@ Dementors are among the most fearsome and loathsome creatures in the magical wor
 * **Dementor's Kiss:** Sucks out the soul, leaving an empty, living body.
 
 #### Effects on Victims
-![Dementor Inset.png|left|250](/img/user/1%20DIGITAL%20GARDEN/10.0%20CREATURES/(Attachments)/WW%20Bestiary/Dementor%20Inset.png)
+![Dementor Inset.png|left|250](/img/user/1%20DIGITAL%20GARDEN/Images%20&%20Banners/Dementor%20Inset.png)
 * **Deep Sorrow and Fear:** Induce feelings of despair, loneliness, and fear.
 * **Memory Loss:** Prolonged exposure leads to loss of good memories, leaving only the worst.
 * **Emotional Devastation:** Can reduce a wizard or witch to a state of emotional and mental devastation.
@@ -71,4 +71,4 @@ Dementors are among the most fearsome and loathsome creatures in the magical wor
 * Being starved of human emotions for an extended period may cause a dementor to be unmade, but this has never been witnessed first hand.
 * It's also been speculated that reducing the amount of negative emotion in the world will thin the dementors' numbers. At the very least, this limits the conditions which allow them to multiply, but dementors always seem to form, given enough time.
 
-![Dementor banner.png](/img/user/1%20DIGITAL%20GARDEN/10.0%20CREATURES/(Attachments)/WW%20Bestiary/Dementor%20banner.png)
+![Dementor banner.png](/img/user/1%20DIGITAL%20GARDEN/Images%20&%20Banners/Dementor%20banner.png)
