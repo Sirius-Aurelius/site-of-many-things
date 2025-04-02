@@ -7,6 +7,7 @@
 ## Variants
 *Statblocks only visible to DM*
 - [[Niffler CR 0.png]]
+- [[Niffler (Holding) CR 0.125.png]]
 
 ## Description
 

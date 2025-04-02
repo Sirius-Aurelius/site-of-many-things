@@ -8,6 +8,7 @@
 ## Variants
 *Statblocks only visible to DM*
 - [[Phoenix - Juvenile CR 4.png]]
+- [[Phoenix - Adult CR 5.png]]
 - [[Phoenix - Full-grown CR 6.png]]
 
 ## Description

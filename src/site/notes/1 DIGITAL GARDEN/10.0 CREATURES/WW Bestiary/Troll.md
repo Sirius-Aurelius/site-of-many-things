@@ -6,6 +6,7 @@
 ## Variants
 *Statblocks only visible to DM*
 - [[Troll, Mountain CR 4.png]]
+- [[Troll, Scandinavian CR 5.png]]
 
 ## Description
 

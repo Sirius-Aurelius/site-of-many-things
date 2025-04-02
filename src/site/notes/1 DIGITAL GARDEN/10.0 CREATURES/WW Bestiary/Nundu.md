@@ -7,7 +7,9 @@
 ## Variants
 *Statblocks only visible to DM*
 - [[Nundu - Young CR 7.png]]
-- [[Nundu - Adult CR 11.png]]]
+- [[Nundu - Adult CR 11.png]]
+- [[Nundu - Legendary CR 23 (pt 1).png]]
+	- [[Nundu - Legendary CR 23 (pt 2).png]]
 
 ## Description
 
