@@ -6,7 +6,7 @@
 >[CHARACTER PORTRAIT HERE (300 wide)]
 >**Role**:: [About this person text here]
 >**3 Word Summary**:: *Personality summary here*
->**Usually found in**:: [location links here] 
+>**Usually found in**:: MISSING
 
 # Interactions
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-digital-garden/6-0-items/chocolate-frog/","tags":["#item","#magical"]}
+{"dg-publish":true,"permalink":"/1-digital-garden/6-0-items/chocolate-frog/","tags":["#item","#magical","#food"]}
 ---
 
 *Item type, rarity*

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-digital-garden/6-0-items/pepper-imps/","tags":["#item","#magical"]}
+{"dg-publish":true,"permalink":"/1-digital-garden/6-0-items/pepper-imps/","tags":["#item","#magical","#food"]}
 ---
 
 *Item type, rarity*

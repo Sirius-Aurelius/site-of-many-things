@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-digital-garden/7-0-people/7-3-np-cs/mirabel-garlick/","tags":["#person","#hogwarts-faculty","#professor","#hufflepuff"]}
+{"dg-publish":true,"permalink":"/1-digital-garden/7-0-people/7-3-np-cs/mirabel-garlick/","tags":["#person","#hogwarts-faculty","#professor","#hufflepuff","#hogwarts"]}
 ---
 
 >[!info] 
