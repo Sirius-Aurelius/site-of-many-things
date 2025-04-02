@@ -6,13 +6,11 @@
 
 ## Variants
 *Statblocks only visible to DM*
-- 1
-- 2
-- 3
+- [[Hippocampus CR 1.png]]
 
 ## Description
 
-Hippocampuses are magical creatures with the head and forequarters of a horse and the tail of a fish. They are native to Greece and are known for their aquatic habitat and magical properties.
+Hippocampi are magical creatures with the head and forequarters of a horse and the tail of a fish. They are native to Greece and are known for their aquatic habitat and magical properties.
 
 #### Physical Characteristics and Abilities
 
