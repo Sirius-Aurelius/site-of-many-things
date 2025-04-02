@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-digital-garden/7-0-people/7-3-np-cs/harley-hemlock/","tags":["#person","diagon-alley","#shopkeeper"]}
+{"dg-publish":true,"permalink":"/1-digital-garden/7-0-people/7-3-np-cs/harley-hemlock/","tags":["#person","diagon-alley","#shopkeeper","#diagon-alley-resident"]}
 ---
 
 >[!info] 
