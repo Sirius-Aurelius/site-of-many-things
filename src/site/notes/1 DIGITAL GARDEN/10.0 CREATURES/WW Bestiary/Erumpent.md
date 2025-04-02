@@ -8,6 +8,7 @@
 ## Variants
 *Statblocks only visible to DM*
 - [[Erumpent CR 5.png]]
+- [[Erumpent - Adult CR 12.png]]
 
 ## Description
 

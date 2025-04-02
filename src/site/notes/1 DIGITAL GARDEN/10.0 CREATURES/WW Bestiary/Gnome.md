@@ -6,6 +6,7 @@
 ## Variants
 *Statblocks only visible to DM*
 - [[Gnome CR 0.125.png]]
+- [[Gnome (alternate) CR 0.125.png]]
 
 ## Description
 

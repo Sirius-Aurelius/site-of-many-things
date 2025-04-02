@@ -7,11 +7,10 @@
 
 ## Variants
 *Statblocks only visible to DM*
-- 
+- [[Demiguise CR 0.125.png]]
+- [[Demiguise - Adult CR 0.5.png]]
 
 ## Description
-
-# Demiguises
 
 Demiguises are elusive, magical creatures native to the Far East, known for their remarkable ability to become invisible. They resemble gentle, ape-like beings covered in long, silky silver fur with large, doleful eyes. This fur is highly prized in the wizarding world because it can be woven into Invisibility Cloaks. 
 

@@ -8,6 +8,7 @@
 *Statblocks only visible to DM*
 - [[Pixie (Cornish) - Single CR 0.125.png]]
 - [[Pixie (Cornish) - Full-grown CR 0.25.png]]
+- [[Pixie (Cornish) - Full-grown (alternate) CR 0.25.png]]
 - [[Pixie (Cornish) - Swarm CR 2.png]]
 
 ## Description

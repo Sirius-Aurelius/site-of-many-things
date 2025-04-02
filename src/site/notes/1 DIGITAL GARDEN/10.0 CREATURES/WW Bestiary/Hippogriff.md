@@ -8,6 +8,7 @@
 ## Variants
 *Statblocks only visible to DM*
 - [[Hippogriff CR 2.png]]
+- [[Hippogriff (alternate) CR 2.png]]
 
 ## Description
 
