@@ -14,10 +14,10 @@ This specially formulated potion will magically remove any acne or blemishes fro
 
 ## Recipe:
 
-* 1 bundle of nettles
-* 1 flask of bubotuber pus
-* 1 flask of flobberworm mucus
-* 1 porcupine quill
+* 1 [[Bundle of nettles\|Bundle of nettles]]
+* 1 [[Flask of bubotuber pus\|Flask of bubotuber pus]]
+* 1 [[Flask of flobberworm mucus\|Flask of flobberworm mucus]]
+* 1 [[Porcupine quill\|Porcupine quill]]
 
 **Flawed**:
 No effect

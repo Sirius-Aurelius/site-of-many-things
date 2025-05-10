@@ -16,12 +16,12 @@ When a creature drinks this fabled poison, it hallucinates all of its worst fear
 
 ## Recipe:
 
-- 1 bundle of bloodroot
-- 1 bundle of venomous tentacula leaves
-- 1 flask of pritcher's porritch ooze
-- 1 powdered graphorn horn
-- 2 vials of acromantula venom
-- 2 vials of belladonna essence
+- 1 [[Bundle of bloodroot\|Bundle of bloodroot]]
+- 1 [[Bundle of venomous tentacula leaves\|Bundle of venomous tentacula leaves]]
+- 1 [[Flask of pritcher's porritch ooze\|Flask of pritcher's porritch ooze]]
+- 1 [[Powdered graphorn horn\|Powdered graphorn horn]]
+- 2 [[Vial of acromantula venom\|Vial of acromantula venom]]
+- 2 [[Vial of belladonna essence\|Vial of belladonna essence]]
 
 **Flawed**:
 The incapacitation lasts for 6 seconds, instead of 30 seconds.

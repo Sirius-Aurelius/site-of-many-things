@@ -18,12 +18,12 @@ This charmed effect can only be removed by an antidote to this potion.
 
 ## Recipe:
 
-- 1 bundle of alihotsy leaves
-- 1 bundle of dittany
-- 1 bundle of knotgrass
-- 1 clutch of ashwinder eggs
-- 1 powdered moonstone
-- 2 vials of pearl dust
+- 1 [[Bundle of alihotsy leaves\|Bundle of alihotsy leaves]]
+- 1 [[Bundle of dittany\|Bundle of dittany]]
+- 1 [[Bundle of knotgrass\|Bundle of knotgrass]]
+- 1 [[Clutch of ashwinder eggs\|Clutch of ashwinder eggs]]
+- 1 [[Powdered moonstone\|Powdered moonstone]]
+- 2 [[Vial of pearl dust\|Vial of pearl dust]]
 
 **Flawed**:
 The duration is 1 day, instead of 1 week.

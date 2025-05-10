@@ -17,10 +17,10 @@ None
 
 ## Recipe:
 
-- 1 bundle of poppy heads
-- 1 cluster of baneberries
-- 1 frog brain
-- 1 powdered octopus
+- 1 [[Bundle of poppy heads\|Bundle of poppy heads]]
+- 1 [[Cluster of baneberries\|Cluster of baneberries]]
+- 1 [[Frog brain\|Frog brain]]
+- 1 [[powdered octopus\|powdered octopus]]
 
 
 **Flawed**:

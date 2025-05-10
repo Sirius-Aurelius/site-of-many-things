@@ -19,10 +19,10 @@ This potion is highly volatile and will explode if it is poured out of its conta
 
 ## Recipe:
 
-* 1 bundle of venomous tentacula leaves
-* 1 flask of fire seeds
-* 2 powdered erumpent horns
-* 1 vial of exploding ginger eyelashes
+* 1 [[Bundle of venomous tentacula leaves\|Bundle of venomous tentacula leaves]]
+* 1 [[Flask of fire seeds\|Flask of fire seeds]]
+* 2 [[Powdered erumpent horn\|Powdered erumpent horn]]
+* 1 [[Vial of exploding ginger eyelashes\|Vial of exploding ginger eyelashes]]
 
 **Flawed**:
 The explosion's DC is 11 instead of 14, and the shockwave damage is 10 (4d4) instead of 18 (4d8)

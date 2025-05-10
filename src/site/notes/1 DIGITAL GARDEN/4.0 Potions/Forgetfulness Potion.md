@@ -16,9 +16,9 @@ None
 
 ## Recipe:
 
-- 1 bundle of lovage
-* 1 cluster of mistletoe berries
-* 2 flasks of Lethe River water
+- 1 [[Bundle of lovage\|Bundle of lovage]]
+* 1 [[Cluster of mistletoe berries\|Cluster of mistletoe berries]]
+* 2 [[Flask of Lethe river water\|Flask of Lethe river water]]
 
 **Flawed**:
 The duration of forgetfulness is the next 1 minute

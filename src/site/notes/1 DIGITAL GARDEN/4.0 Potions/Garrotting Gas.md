@@ -17,10 +17,10 @@ A creature that inhales this poison must succeed on a DC 13 Constitution saving 
 
 ## Recipe:
 
-* 1 flask of bundimun secretion
-* 1 flask of ethanol
-* 1 powdered wartcap
-* 1 vial of exploding ginger eyelashes
+* 1 [[Flask of bundimun secretion\|Flask of bundimun secretion]]
+* 1 [[Flask of ethanol\|Flask of ethanol]]
+* 1 [[Powdered wartcap\|Powdered wartcap]]
+* 1 [[Vial of exploding ginger eyelashes\|Vial of exploding ginger eyelashes]]
 
 **Flawed**:
 The option does not have an unconscious effect

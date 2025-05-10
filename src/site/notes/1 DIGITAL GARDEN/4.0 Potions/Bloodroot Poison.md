@@ -19,8 +19,8 @@ None
 
 ## Recipe:
 
-- 2 bundles of bloodroot
-- 1 powdered streeler shell
+- 2 [[Bundle of bloodroot\|Bundle of bloodroot]]
+- 1 [[Powdered streeler shell\|Powdered streeler shell]]
 
 **Flawed**:
 The damage is 5 (2d4), instead of 7 (2d6)

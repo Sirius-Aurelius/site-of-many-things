@@ -16,9 +16,9 @@ When you drink this potion, you have advantage on Intelligence checks for 1 hour
 
 ## Recipe:
 
-- 1 frog brain
-- 1 powdered dragon claw
-- 1 powdered flying seahorse
+- 1 [[Frog brain\|Frog brain]]
+- 1 [[Powdered dragon claw\|Powdered dragon claw]]
+- 1 [[Powdered flying seahorse\|Powdered flying seahorse]]
 
 **Flawed**:
 The duration is 10 minutes, instead of 1 hour.

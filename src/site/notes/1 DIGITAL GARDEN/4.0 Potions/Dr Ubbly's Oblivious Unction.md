@@ -15,10 +15,10 @@ None
 
 ## Recipe:
 
-- 1 flask of Lethe River water
-- 1 flask of vervain infusion
-- 1 frog brain
-- 1 granian hair
+- 1 [[Flask of Lethe river water\|Flask of Lethe river water]]
+- 1 [[Flask of vervain infusion\|Flask of vervain infusion]]
+- 1 [[Frog brain\|Frog brain]]
+- 1 [[Granian hair\|Granian hair]]
 
 **Flawed**:
 The duration is 10 minutes instead of 1 hour

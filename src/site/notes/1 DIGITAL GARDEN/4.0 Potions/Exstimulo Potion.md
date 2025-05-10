@@ -13,9 +13,9 @@ None
 
 ## Recipe:
 
-- 1 abraxan Hair
-- 1 bundle of galanthus nivalis
-- 1 flask of re'em blood
+- 1 [[Abraxan hair\|Abraxan hair]]
+- 1 [[Bundle of galanthus nivalis\|Bundle of galanthus nivalis]]
+- 1 [[Flask of re'em blood\|Flask of re'em blood]]
 
 **Flawed**:
 The potion only affects spells of the 3rd level or lower.

@@ -16,9 +16,9 @@ If the next rest you take is a short rest, the amount of hit points gained from 
 
 ## Recipe:
 
-- 1 bundle of wiggentree bark
-- 1 flask of vervain infusion
-- 1 powdered bicorn horn
+- 1 [[Bundle of wiggentree bark\|Bundle of wiggentree bark]]
+- 1 [[Flask of vervain infusion\|Flask of vervain infusion]]
+- 1 [[Powdered bicorn horn\|Powdered bicorn horn]]
 
 **Flawed**:
 There is no effect on the amount of hit points gained during a short rest.

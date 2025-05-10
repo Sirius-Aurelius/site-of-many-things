@@ -13,9 +13,9 @@ None
 
 ## Recipe:
 
-- 1 bundle of lady's mantle
-- 1 granian hair
-- 1 set of fairy wings
+- 1 [[Bundle of lady's mantle\|Bundle of lady's mantle]]
+- 1 [[Granian hair\|Granian hair]]
+- 1 [[Set of fairy wings\|Set of fairy wings]]
 
 **Flawed**:
 Divide the d4 result by 2 (rounded up)

@@ -16,10 +16,10 @@ None
 
 ## Recipe:
 
-- 1 flask of bubotuber pus
-- 1 giant purple toad wart
-- 1 staghorn mushroom
-- 1 vial of woodlice extract
+- 1 [[Flask of bubotuber pus\|Flask of bubotuber pus]]
+- 1 [[Giant purple toad wart\|Giant purple toad wart]]
+- 1 [[Staghorn mushroom\|Staghorn mushroom]]
+- 1 [[Vial of woodlice extract\|Vial of woodlice extract]]
 
 **Flawed**:
 The duration is 10 minutes, instead of 1 hour.

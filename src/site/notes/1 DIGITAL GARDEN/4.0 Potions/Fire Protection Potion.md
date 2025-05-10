@@ -13,9 +13,9 @@ None
 
 ## Recipe:
 
-* 1 bursting mushroom
-* 1 powdered wartcap
-* 1 vial of salamander blood
+* 1 [[Bursting mushroom\|Bursting mushroom]]
+* 1 [[Powdered wartcap\|Powdered wartcap]]
+* 1 [[Vial of salamander blood\|Vial of salamander blood]]
 
 **Flawed**:
 The duration is 10 minutes, instead of 1 hour.

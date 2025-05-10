@@ -16,9 +16,9 @@ None
 
 ## Recipe:
 
-* 1 bundle of lovage
-* 1 bundle of scurvy grass
-* 1 bundle of sneezewort
+* 1 [[Bundle of lovage\|Bundle of lovage]]
+* 1 [[Bundle of scurvy grass\|Bundle of scurvy grass]]
+* 1 [[Bundle of sneezewort\|Bundle of sneezewort]]
 
 **Flawed**:
 There is no advantage on saving throws against being frightened.

@@ -11,10 +11,10 @@ When you drink this potion, every word you try to say comes out as gibberish or 
 None
 
 ## Recipe:
-- 1 bat spleen
-- 1 bundle of gurdyroots
-- 1 bundle of poppy heads
-- 1 flask of ethanol
+- 1 [[Bat spleen\|Bat spleen]]
+- 1 [[Bundle of gurdyroots\|Bundle of gurdyroots]]
+- 1 [[Bundle of poppy heads\|Bundle of poppy heads]]
+- 1 [[Flask of ethanol\|Flask of ethanol]]
 
 **Flawed**:
 The duration is 12 seconds instead of 1 minute

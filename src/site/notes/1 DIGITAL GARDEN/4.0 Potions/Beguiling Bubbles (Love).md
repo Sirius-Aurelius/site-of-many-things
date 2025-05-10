@@ -18,9 +18,9 @@ None
 
 ## Recipe:
 
-- 1 abraxan hair
-- 1 bundle of peppermint
-- 1 bundle of sneezewort
+- 1 [[Abraxan hair\|Abraxan hair]]
+- 1 [[Bundle of peppermint\|Bundle of peppermint]]
+- 1 [[Bundle of sneezewort\|Bundle of sneezewort]]
 
 **Flawed**:
 The duration is 10 minutes, instead of 1 hour.

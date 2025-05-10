@@ -20,9 +20,9 @@ Additionally, if you are hostile, you will become indifferent to the targets of 
 
 ## Recipe:
 
-* 1 porcupine quill
-* 1 powdered moonstone
-* 1 vial of syrup of hellebore
+* 1 [[Porcupine quill\|Porcupine quill]]
+* 1 [[Powdered moonstone\|Powdered moonstone]]
+* 1 [[Vial of syrup of hellebore\|Vial of syrup of hellebore]]
 
 **Flawed**:
 There are no effects on the charmed condition

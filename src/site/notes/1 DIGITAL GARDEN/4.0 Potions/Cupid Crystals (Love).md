@@ -15,10 +15,10 @@ None
 
 ## Recipe:
 
-- 1 bundle of peppermint
-- 1 cluster of mistletoe berries
-- 1 granian hair
-- 1 vial of rose oil
+- 1 [[Bundle of peppermint\|Bundle of peppermint]]
+- 1 [[Cluster of mistletoe berries\|Cluster of mistletoe berries]]
+- 1 [[Granian hair\|Granian hair]]
+- 1 [[Vial of rose oil\|Vial of rose oil]]
 
 **Flawed**:
 The duration is 10 minutes, instead of 1 hour.

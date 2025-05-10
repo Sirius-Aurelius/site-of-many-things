@@ -16,12 +16,12 @@ Death cap mushrooms are the key ingredient to one of the most deadly poisons. A 
 
 ## Recipe:
 
-- 1 bundle of angel's trumpet
-- 2 bundles of venomous tentacula leaves
-- 1 Chinese chomping cabbage
-- 1 death cap mushroom
-- 1 vial of acromantula venom
-- 1 vial of African sea salt
+- 1 [[Bundle of angel's trumpet\|Bundle of angel's trumpet]]
+- 2 [[Bundle of venomous tentacula leaves\|Bundle of venomous tentacula leaves]]
+- 1 [[Chinese chomping cabbage\|Chinese chomping cabbage]]
+- 1 [[Death cap mushroom\|Death cap mushroom]]
+- 1 [[Vial of acromantula venom\|Vial of acromantula venom]]
+- 1 [[Vial of African sea salt\|Vial of African sea salt]]
 
 **Flawed**:
 The damage is 60 (24d4) instead of 84 (24d6), and the saving throw's DC is 17 instead of 19.

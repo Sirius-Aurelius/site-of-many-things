@@ -15,7 +15,7 @@ None
 
 ## Recipe:
 
-- 1 bundle of gillyweed
+- 1 [[Bundle of Gillyweed\|Bundle of Gillyweed]]
 
 **Flawed**:
 The duration is 30 minutes, instead of 1 hour.

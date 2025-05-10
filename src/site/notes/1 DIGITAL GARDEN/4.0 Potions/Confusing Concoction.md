@@ -19,9 +19,9 @@ None
 
 ## Recipe:
 
-* 1 bundle of gurdyroots
-* 2 bundles of lovage
-* 1 flask of ethanol
+* 1 [[Bundle of gurdyroots\|Bundle of gurdyroots]]
+* 2 [[Bundle of lovage\|Bundle of lovage]]
+* 1 [[Flask of ethanol\|Flask of ethanol]]
 
 **Flawed**:
 You can't take actions but you can still take a reaction
