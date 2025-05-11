@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/1-digital-garden/10-0-creatures/ww-bestiary/glumbumble/","tags":["#creature","beast"]}
 ---
 
+![Glumbumble.png|left|200](/img/user/1%20DIGITAL%20GARDEN/10.0%20CREATURES/(Attachments)/WW%20Bestiary/Glumbumble.png)
 ## Variants
 *Statblocks only visible to DM*
 - [[Glumbumble CR 0.png]]
