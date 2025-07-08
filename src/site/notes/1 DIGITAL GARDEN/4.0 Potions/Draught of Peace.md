@@ -13,8 +13,8 @@ Any charmed or frightened condition is removed and you have advantage on saving 
 Additionally, if you are hostile, you will become indifferent to the targets of your hostility. This indifference ends if you are attacked or harmed by a spell or if you witnesses any of your friends being harmed.
 
 ### Antidote to: 
-- Any [[1 DIGITAL GARDEN/4.0 Potions/4.1 Potions - Overview#Common Love Potions\|common love potion]]
-- Any [[1 DIGITAL GARDEN/4.0 Potions/4.1 Potions - Overview#Uncommon Love Potions\|uncommon Love Potion]]
+- Any [[1 DIGITAL GARDEN/4.0 Potions/04.1 Potions - Overview#Common Love Potions\|common love potion]]
+- Any [[1 DIGITAL GARDEN/4.0 Potions/04.1 Potions - Overview#Uncommon Love Potions\|uncommon Love Potion]]
 - [[1 DIGITAL GARDEN/4.0 Potions/Elixir to Induce Euphoria\|Elixir to Induce Euphoria]]
 - [[1 DIGITAL GARDEN/3.0 Spells/Exhilaro\|Exhilaro]]
 

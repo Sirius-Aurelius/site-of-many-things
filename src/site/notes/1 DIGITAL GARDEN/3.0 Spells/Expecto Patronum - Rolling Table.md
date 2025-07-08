@@ -3,7 +3,7 @@
 ---
 
 >[!info]
->Used for Patronus forms as well as [[1 DIGITAL GARDEN/1.0-2.0 RULES/1.0 Variant Rules/1.05.4 Schools of Magic - Transfiguration\|Transfiguration]] Animagus forms. 
+>Used for Patronus forms as well as [[1 DIGITAL GARDEN/1.0-2.0 RULES/1.0 Variant Rules/01.05.4 Schools of Magic - Transfiguration\|Transfiguration]] Animagus forms. 
 
 Your character's corporeal patronus can be determined several different ways. 
 

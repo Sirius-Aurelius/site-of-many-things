@@ -10,8 +10,8 @@ When you drink this potion, your brain's neurological functioning is maximized, 
 
 ### Antidote to: 
 - [[1 DIGITAL GARDEN/4.0 Potions/Befuddlement Draught\|Befuddlement Draught]]
-- Any [[1 DIGITAL GARDEN/4.0 Potions/4.1 Potions - Overview#Common Love Potions\|common love potion]]
-- Any [[1 DIGITAL GARDEN/4.0 Potions/4.1 Potions - Overview#Uncommon Love Potions\|uncommon Love Potion]]
+- Any [[1 DIGITAL GARDEN/4.0 Potions/04.1 Potions - Overview#Common Love Potions\|common love potion]]
+- Any [[1 DIGITAL GARDEN/4.0 Potions/04.1 Potions - Overview#Uncommon Love Potions\|uncommon Love Potion]]
 - [[1 DIGITAL GARDEN/3.0 Spells/Confundo\|Confundo]]
 - [[1 DIGITAL GARDEN/4.0 Potions/Confusing Concoction\|Confusing Concoction]] 
 - [[1 DIGITAL GARDEN/3.0 Spells/Infirma Cerebra\|Infirma Cerebra]]
