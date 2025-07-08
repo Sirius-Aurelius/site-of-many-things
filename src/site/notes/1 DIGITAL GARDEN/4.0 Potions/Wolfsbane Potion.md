@@ -9,7 +9,7 @@
 When a lycanthrope drinks this potion once a day for the entire week before the full moon, their alignment does not change and they are not placed under DM control during their transformation. If the drinker misses a single dose in the preceding week, the potion has no effect.
 
 ### Antidote to: 
-- [[1 DIGITAL GARDEN/1.0-2.0 RULES/1.0 Variant Rules/1.9 Wizarding Feats#Lycanthropy\|Lycanthropy]]
+- [[1 DIGITAL GARDEN/1.0-2.0 RULES/1.0 Variant Rules/1.09 Wizarding Feats#Lycanthropy\|Lycanthropy]]
 
 ### Cured by:
 
