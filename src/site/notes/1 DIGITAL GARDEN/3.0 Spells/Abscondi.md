@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-digital-garden/3-0-spells/abscondi/"}
+{"dg-publish":true,"permalink":"/1-digital-garden/3-0-spells/abscondi/","tags":["DnDB-done"]}
 ---
 
 The Track Obliteration Charm - 2nd-level Charm (ritual) 

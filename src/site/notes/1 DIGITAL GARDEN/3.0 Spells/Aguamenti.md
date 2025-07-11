@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-digital-garden/3-0-spells/aguamenti/"}
+{"dg-publish":true,"permalink":"/1-digital-garden/3-0-spells/aguamenti/","tags":["DnDB-done"]}
 ---
 
 The Water-Making Spell - Transfiguration cantrip 

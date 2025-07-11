@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-digital-garden/3-0-spells/point-me/"}
+{"dg-publish":true,"permalink":"/1-digital-garden/3-0-spells/point-me/","tags":["DnDB-done"]}
 ---
 
 The Four-Point Spell - Divination cantrip 

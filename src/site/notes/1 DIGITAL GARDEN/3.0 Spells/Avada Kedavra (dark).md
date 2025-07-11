@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-digital-garden/3-0-spells/avada-kedavra-dark/"}
+{"dg-publish":true,"permalink":"/1-digital-garden/3-0-spells/avada-kedavra-dark/","tags":["DnDB-done"]}
 ---
 
 The Killing Curse - 8th-level Curse 

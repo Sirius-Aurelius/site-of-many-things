@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-digital-garden/3-0-spells/prior-incantato/"}
+{"dg-publish":true,"permalink":"/1-digital-garden/3-0-spells/prior-incantato/","tags":["DnDB-done"]}
 ---
 
 The Reverse Spell - Divination cantrip 

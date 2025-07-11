@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-digital-garden/3-0-spells/capacious-extremis/"}
+{"dg-publish":true,"permalink":"/1-digital-garden/3-0-spells/capacious-extremis/","tags":["DnDB-done"]}
 ---
 
 The Undetectable Extension Charm - 4th-level Charm 

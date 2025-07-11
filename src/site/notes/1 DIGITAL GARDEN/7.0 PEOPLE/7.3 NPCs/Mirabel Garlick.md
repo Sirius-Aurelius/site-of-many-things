@@ -8,6 +8,8 @@
 >**3 Word Summary**:: *Wise, nature-loving, off-puttingly enthusiastic*
 >**Usually found in**:: [[1 DIGITAL GARDEN/8.0 PLACES/8.2 Hogwarts School/8.2.1 Herbology Greenhouses\|8.2.1 Herbology Greenhouses]] , [[1 DIGITAL GARDEN/8.0 PLACES/8.2 Hogwarts School/8.2.2 Hufflepuff Tower\|8.2.2 Hufflepuff Tower]] or [[1 DIGITAL GARDEN/8.0 PLACES/8.3 Hogsmeade Village/8.3.01 The Three Broomsticks\|8.3.01 The Three Broomsticks]]
 
+Statblock: [[Professor, Herbology.png]]
+
 # Interactions
 
 

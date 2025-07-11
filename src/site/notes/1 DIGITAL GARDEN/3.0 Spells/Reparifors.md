@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-digital-garden/3-0-spells/reparifors/"}
+{"dg-publish":true,"permalink":"/1-digital-garden/3-0-spells/reparifors/","tags":["DnDB-done"]}
 ---
 
 The Curing Spell - 1st-level Healing 

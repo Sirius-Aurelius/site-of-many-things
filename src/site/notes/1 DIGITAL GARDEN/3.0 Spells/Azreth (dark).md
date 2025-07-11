@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-digital-garden/3-0-spells/azreth-dark/"}
+{"dg-publish":true,"permalink":"/1-digital-garden/3-0-spells/azreth-dark/","tags":["DnDB-done"]}
 ---
 
 Fiendfyre - 7th-level Curse 

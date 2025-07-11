@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-digital-garden/3-0-spells/piertotum-locomotor/"}
+{"dg-publish":true,"permalink":"/1-digital-garden/3-0-spells/piertotum-locomotor/","tags":["DnDB-done"]}
 ---
 
 The Animating Charm - 5th-level Charm 

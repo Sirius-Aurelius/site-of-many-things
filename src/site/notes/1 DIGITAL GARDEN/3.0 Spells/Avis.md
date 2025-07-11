@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-digital-garden/3-0-spells/avis/"}
+{"dg-publish":true,"permalink":"/1-digital-garden/3-0-spells/avis/","tags":["DnDB-done"]}
 ---
 
 The Bird-Conjuring Charm - 3rd-level Transfiguration 

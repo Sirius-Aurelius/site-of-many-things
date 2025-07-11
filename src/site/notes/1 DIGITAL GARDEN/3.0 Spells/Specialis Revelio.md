@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-digital-garden/3-0-spells/specialis-revelio/"}
+{"dg-publish":true,"permalink":"/1-digital-garden/3-0-spells/specialis-revelio/","tags":["DnDB-done"]}
 ---
 
 The Spell Revealing Spell - 1st-level Divination

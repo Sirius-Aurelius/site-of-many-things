@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-digital-garden/3-0-spells/arresto-momentum/"}
+{"dg-publish":true,"permalink":"/1-digital-garden/3-0-spells/arresto-momentum/","tags":["DnDB-done"]}
 ---
 
 The Slowing Charm - 1st-level Charm 

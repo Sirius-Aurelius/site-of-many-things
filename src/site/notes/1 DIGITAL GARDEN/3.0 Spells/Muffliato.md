@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-digital-garden/3-0-spells/muffliato/"}
+{"dg-publish":true,"permalink":"/1-digital-garden/3-0-spells/muffliato/","tags":["DnDB-done"]}
 ---
 
 The Anti-Eavesdropping Charm - 2nd-level Charm 

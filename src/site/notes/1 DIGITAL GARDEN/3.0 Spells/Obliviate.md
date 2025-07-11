@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-digital-garden/3-0-spells/obliviate/"}
+{"dg-publish":true,"permalink":"/1-digital-garden/3-0-spells/obliviate/","tags":["DnDB-done"]}
 ---
 
 The Memory Charm - 5th-level Charm 

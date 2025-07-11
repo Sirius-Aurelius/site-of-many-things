@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-digital-garden/3-0-spells/anapneo/"}
+{"dg-publish":true,"permalink":"/1-digital-garden/3-0-spells/anapneo/","tags":["DnDB-done"]}
 ---
 
 The Airway Clearing Spell - Healing cantrip 

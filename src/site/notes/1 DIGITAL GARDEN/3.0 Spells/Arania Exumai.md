@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-digital-garden/3-0-spells/arania-exumai/"}
+{"dg-publish":true,"permalink":"/1-digital-garden/3-0-spells/arania-exumai/","tags":["DnDB-done"]}
 ---
 
 The Spider Repelling Spell - 2nd-level Curse 

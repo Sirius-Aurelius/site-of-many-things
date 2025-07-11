@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-digital-garden/3-0-spells/rennervate/"}
+{"dg-publish":true,"permalink":"/1-digital-garden/3-0-spells/rennervate/","tags":["DnDB-done"]}
 ---
 
  The Reviving Spell - Healing cantrip 

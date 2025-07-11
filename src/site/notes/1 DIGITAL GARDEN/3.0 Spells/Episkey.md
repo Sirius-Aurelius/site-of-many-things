@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-digital-garden/3-0-spells/episkey/"}
+{"dg-publish":true,"permalink":"/1-digital-garden/3-0-spells/episkey/","tags":["DnDB-done"]}
 ---
 
 The Fast-Healing Spell - 1st-level Healing

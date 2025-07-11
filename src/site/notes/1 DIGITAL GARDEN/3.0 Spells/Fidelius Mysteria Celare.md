@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-digital-garden/3-0-spells/fidelius-mysteria-celare/"}
+{"dg-publish":true,"permalink":"/1-digital-garden/3-0-spells/fidelius-mysteria-celare/","tags":["DnDB-done"]}
 ---
 
 The Fidelius Charm - 9th-level Charm 
