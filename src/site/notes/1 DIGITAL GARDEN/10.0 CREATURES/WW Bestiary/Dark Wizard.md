@@ -19,7 +19,7 @@ Dark wizards are witches or wizards who embrace and wield the Dark Arts, a branc
 * **Dark Arts:** Utilize curses, hexes, and spells intended to harm or control.
 * **Malicious Intent:** Driven by fear and domination, unlike standard magic.
 * **Pursuit of Power:** Seek power at any cost, using forbidden spells.
-* **Unforgivable Curses:** Employ [[1 DIGITAL GARDEN/3.0 Spells/Avada Kedavra (dark)\|Avada Kedavra]], [[1 DIGITAL GARDEN/3.0 Spells/Crucio (dark)\|Cruciatus]], and [[1 DIGITAL GARDEN/3.0 Spells/Imperio (dark)\|Imperius]] curses.
+* **Unforgivable Curses:** Employ [[1 DIGITAL GARDEN/3.0 Spells/Avada Kedavra (dark, restricted)\|Avada Kedavra]], [[1 DIGITAL GARDEN/3.0 Spells/Crucio (dark, restricted)\|Cruciatus]], and [[1 DIGITAL GARDEN/3.0 Spells/Imperio (dark, restricted)\|Imperius]] curses.
 
 #### Magical Significance and Threat
 
