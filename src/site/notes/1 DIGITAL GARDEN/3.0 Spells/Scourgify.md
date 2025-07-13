@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-digital-garden/3-0-spells/scourgify/"}
+{"dg-publish":true,"permalink":"/1-digital-garden/3-0-spells/scourgify/","tags":["DnDB-done"]}
 ---
 
 The Scouring Charm - Charm cantrip 

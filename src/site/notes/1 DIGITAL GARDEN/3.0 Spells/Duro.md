@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-digital-garden/3-0-spells/duro/"}
+{"dg-publish":true,"permalink":"/1-digital-garden/3-0-spells/duro/","tags":["DnDB-done"]}
 ---
 
 The Hardening Charm - Charm cantrip

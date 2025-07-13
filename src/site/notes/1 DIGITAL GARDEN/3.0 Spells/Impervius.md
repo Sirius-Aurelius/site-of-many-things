@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-digital-garden/3-0-spells/impervius/"}
+{"dg-publish":true,"permalink":"/1-digital-garden/3-0-spells/impervius/","tags":["DnDB-done","common"]}
 ---
 
 The Waterproofing Charm - Charm cantrip 

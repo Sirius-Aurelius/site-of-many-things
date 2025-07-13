@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-digital-garden/3-0-spells/protego/"}
+{"dg-publish":true,"permalink":"/1-digital-garden/3-0-spells/protego/","tags":["DnDB-done"]}
 ---
 
 The Shield Charm - 1st-level Charm 

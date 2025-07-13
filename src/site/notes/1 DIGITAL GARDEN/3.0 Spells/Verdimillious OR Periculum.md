@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-digital-garden/3-0-spells/verdimillious-or-periculum/"}
+{"dg-publish":true,"permalink":"/1-digital-garden/3-0-spells/verdimillious-or-periculum/","tags":["DnDB-done"]}
 ---
 
 The Flare Charm - Charm cantrip 

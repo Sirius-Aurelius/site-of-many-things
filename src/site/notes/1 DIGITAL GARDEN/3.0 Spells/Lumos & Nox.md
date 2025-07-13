@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-digital-garden/3-0-spells/lumos-and-nox/"}
+{"dg-publish":true,"permalink":"/1-digital-garden/3-0-spells/lumos-and-nox/","tags":["DnDB-done"]}
 ---
 
 The Wand-Lighting Charm - Charm cantrip 
