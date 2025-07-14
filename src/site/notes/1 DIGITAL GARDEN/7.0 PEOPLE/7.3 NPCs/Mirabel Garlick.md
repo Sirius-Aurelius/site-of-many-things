@@ -15,6 +15,6 @@ Statblock: [[Professor, Herbology.png]]
 
 
 # Additional Notes
-Substitute teacher of XX years, standing in for the absent [[1 DIGITAL GARDEN/7.0 PEOPLE/7.3 NPCs/ZZ Firstname Finch\|ZZ Firstname Finch]]
+Substitute teacher of XX years, standing in for the absent incumbent.
 
-*Any relevant lore or learnings would appear here*
+*Further relevant lore or learnings would be added here*
