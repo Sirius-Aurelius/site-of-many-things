@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-digital-garden/3-0-spells/homenum-revelio/"}
+{"dg-publish":true,"permalink":"/1-digital-garden/3-0-spells/homenum-revelio/","tags":["DnDB-done"]}
 ---
 
 The Human-Presence-Revealing Spell - 4th-level Divination 

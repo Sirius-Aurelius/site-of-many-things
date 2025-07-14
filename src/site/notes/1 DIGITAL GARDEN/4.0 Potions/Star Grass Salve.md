@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/1-digital-garden/4-0-potions/star-grass-salve/","tags":["potion","extracurricular","common"]}
+{"dg-publish":true,"permalink":"/1-digital-garden/4-0-potions/star-grass-salve/","tags":["potion","extracurricular","common","#potion","DnDB-done"]}
 ---
 
 *Potion, common* 
-
+![Star Grass Salve.jpeg|200](/img/user/1%20DIGITAL%20GARDEN/Images%20&%20Banners/Star%20Grass%20Salve.jpeg)
 ## Description
 
 You regain 2d4 + 2 hit points when you apply this medicinal balm to your injuries.

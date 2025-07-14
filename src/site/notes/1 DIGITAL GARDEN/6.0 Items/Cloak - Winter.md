@@ -1,12 +1,15 @@
 ---
-{"dg-publish":true,"permalink":"/1-digital-garden/6-0-items/cloak-winter/","tags":["#item","#mundane"]}
+{"dg-publish":true,"permalink":"/1-digital-garden/6-0-items/cloak-winter/","tags":["#item","#mundane","DnDB-done"]}
 ---
 
-One of the required supplies for attendance at Hogwarts, this heavy winter cloak keeps its wearer quite warm in cold, snowy winters. A winter cloak helps conceal a duelist's intended movements from their opponents, but the weight and bulk can be a hindrance.
+*Clothing, common*
+![Winter Cloak.png|200](/img/user/1%20DIGITAL%20GARDEN/Images%20&%20Banners/Winter%20Cloak.png)
+## Description
 
+One of the required supplies for attendance at Hogwarts, this heavy winter cloak keeps its wearer quite warm in cold, snowy winters. A winter cloak helps conceal a duellist's intended movements from their opponents, but the weight and bulk can be a hindrance.
 
-| Cloak                     | Cost  | Armor Class (AC)          | Stealth      | Weight |
-| ------------------------- | ----- | ------------------------- | ------------ | ------ |
+| Cloak                       | Cost  | Armor Class (AC)          | Stealth      | Weight |
+| --------------------------- | ----- | ------------------------- | ------------ | ------ |
 | [[1 DIGITAL GARDEN/6.0 Items/Cloak - Winter\|Cloak - Winter]]          | 9 g   | 11 + Dex modifier (max 2) | Disadvantage | 20 lb. |
 | [[1 DIGITAL GARDEN/6.0 Items/Cloak - Silk\|Cloak - Silk]]            | 25 g  | 11 + Dex modifier         | —            | 12 lb. |
 | [[1 DIGITAL GARDEN/6.0 Items/Cloak - Shield\|Cloak - Shield]]          | 75 g  | 12 + Dex modifier         | ─            | 12 lb. |

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-digital-garden/3-0-spells/appare-vestigium/"}
+{"dg-publish":true,"permalink":"/1-digital-garden/3-0-spells/appare-vestigium/","tags":["DnDB-done"]}
 ---
 
 The Tracking Spell - 4th-level Divination (ritual) 

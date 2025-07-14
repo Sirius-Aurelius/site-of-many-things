@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-digital-garden/3-0-spells/revelio/"}
+{"dg-publish":true,"permalink":"/1-digital-garden/3-0-spells/revelio/","tags":["DnDB-done"]}
 ---
 
 The Revealing Charm - 3rd-level Divination 
