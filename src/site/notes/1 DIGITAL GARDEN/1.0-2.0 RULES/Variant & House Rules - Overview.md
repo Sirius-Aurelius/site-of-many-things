@@ -3,6 +3,10 @@
 ---
 
 ![Rules-Mechanics-masthead.png](/img/user/1%20DIGITAL%20GARDEN/Images%20&%20Banners/Rules-Mechanics-masthead.png)
+
+>[!Pinned]
+>[[1 DIGITAL GARDEN/1.0-2.0 RULES/1.0 Variant Rules/01.02.1 Skills#Skills Translator DnD Beyond vs Campaign\|Skills Translator Table (5e:WW )]]
+
 # 1.1 Variant Rules
 - [[1 DIGITAL GARDEN/1.0-2.0 RULES/1.0 Variant Rules/01.01 Variant Rules - Overview\|01.01 Variant Rules - Overview]]
 - [[1 DIGITAL GARDEN/1.0-2.0 RULES/1.0 Variant Rules/01.02 Differences from 5e\|01.02 Differences from 5e]]
