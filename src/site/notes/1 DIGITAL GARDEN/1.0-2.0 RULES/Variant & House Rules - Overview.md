@@ -38,10 +38,11 @@
 - [[1 DIGITAL GARDEN/1.0-2.0 RULES/1.0 Variant Rules/01.09 Wizarding Feats\|01.09 Wizarding Feats]]
 - [[1 DIGITAL GARDEN/1.0-2.0 RULES/1.0 Variant Rules/01.10 Spellcasting\|01.10 Spellcasting]]
 - [[1 DIGITAL GARDEN/1.0-2.0 RULES/1.0 Variant Rules/01.10.1 Learning new spells\|01.10.1 Learning new spells]]
+- [[1 DIGITAL GARDEN/1.0-2.0 RULES/1.0 Variant Rules/01.10.2 Legilimens & Occlumens\|01.10.2 Legilimens & Occlumens]]
+- [[1 DIGITAL GARDEN/1.0-2.0 RULES/1.0 Variant Rules/01.10.3 Apparition\|01.10.3 Apparition]]
 - [[1 DIGITAL GARDEN/1.0-2.0 RULES/1.0 Variant Rules/01.11 Potion-making\|01.11 Potion-making]]
 - [[1 DIGITAL GARDEN/1.0-2.0 RULES/1.0 Variant Rules/01.12 Dark Magic Corruption\|01.12 Dark Magic Corruption]]
-- [[1 DIGITAL GARDEN/1.0-2.0 RULES/1.0 Variant Rules/01.13 Apparition\|01.13 Apparition]]
-- [[1 DIGITAL GARDEN/1.0-2.0 RULES/1.0 Variant Rules/01.14 Legilimens & Occlumens\|01.14 Legilimens & Occlumens]]
+- [[1 DIGITAL GARDEN/1.0-2.0 RULES/1.0 Variant Rules/01.13 Downtime Mechanics\|01.13 Downtime Mechanics]]
 
 { .block-language-dataview}
 

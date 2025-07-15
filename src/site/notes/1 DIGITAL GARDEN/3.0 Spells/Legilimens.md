@@ -7,7 +7,7 @@ Casting Time: 1 action
 Range: 60 feet 
 Duration: Concentration, up to 1 minute 
 
-==See also [[1 DIGITAL GARDEN/1.0-2.0 RULES/1.0 Variant Rules/01.14 Legilimens & Occlumens\|01.14 Legilimens & Occlumens]]==
+==See also [[1 DIGITAL GARDEN/1.0-2.0 RULES/1.0 Variant Rules/01.10.2 Legilimens & Occlumens\|01.10.2 Legilimens & Occlumens]]==
 
 With legilimency, a being's eyes become windows to their mind, showing you a vision of their thoughts. For the duration, you can read the thoughts of a being you can see within range, as soon as eye contact can be made. After the spell effects begin, eye contact does not need to be maintained. 
 
