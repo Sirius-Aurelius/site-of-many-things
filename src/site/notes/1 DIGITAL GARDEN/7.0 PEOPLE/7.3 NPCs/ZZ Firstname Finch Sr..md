@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-digital-garden/7-0-people/7-3-np-cs/zz-firstname-finch-sr/","tags":["#person","#hufflepuff","#hogwarts","#hogwarts-faculty","#professor"]}
+{"dg-publish":true,"permalink":"/1-digital-garden/7-0-people/7-3-np-cs/zz-firstname-finch-sr/","tags":["#person"]}
 ---
 
 >[!info] 

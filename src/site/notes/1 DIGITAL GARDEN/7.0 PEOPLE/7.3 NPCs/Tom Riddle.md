@@ -1,8 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/z-templates/person/","tags":["#person"]}
+{"dg-publish":true,"permalink":"/1-digital-garden/7-0-people/7-3-np-cs/tom-riddle/","tags":["#person","slytherin","student","hogwarts","slug-club"]}
 ---
 
-*Add faction, house, job and location tags as well as 'teaching subject for proessors, to properties. ==Delete this line==*
 >[!info] 
 >[[ ==CHARACTER PORTRAIT HERE (with |left|300)==
 >**Role**:: [About this person text here]
@@ -11,5 +10,3 @@
 
 # Interactions
 
-
-# DM Notes

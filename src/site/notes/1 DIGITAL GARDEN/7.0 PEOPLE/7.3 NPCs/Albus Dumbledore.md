@@ -10,3 +10,8 @@
 
 # Interactions
 
+
+
+# DM Notes
+
+[[0 DM SCREEN/2 Campaign Notes & Archive/NPC Secrets#Albus Dumbledore\|NPC Secrets#Albus Dumbledore]]
