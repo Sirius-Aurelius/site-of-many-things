@@ -4,14 +4,14 @@
 
 *Uncommon*
 
-**Source::** Creature part ([[Bicorn\|Bicorn]] horn)
+**Source::** Creature part ([[1 DIGITAL GARDEN/10.0 CREATURES/WW Bestiary/Bicorn\|Bicorn]] horn)
 
 **Likely Habitats::** * Rocky, mountainous terrain * Remote, untamed wilderness * Ancient magical battlefields
 
 ## Used in:
 
-- [[Bicorn\|Bicorn]]
 - [[1 DIGITAL GARDEN/4.0 Potions/Blood-Replenishing Potion\|Blood-Replenishing Potion]]
+- [[1 DIGITAL GARDEN/10.0 CREATURES/WW Bestiary/Bicorn\|Bicorn]]
 
 { .block-language-dataview}
 

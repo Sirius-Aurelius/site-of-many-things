@@ -4,15 +4,15 @@
 
 *Common*
 
-**Source::** Creature part ([[Giant Purple Toad\|Giant Purple Toad]] wart)
+**Source::** Creature part ([[1 DIGITAL GARDEN/10.0 CREATURES/WW Bestiary/Giant Purple Toad\|Giant Purple Toad]] wart)
 
 **Likely Habitats::** * Large, damp caverns * Swamps and fens * Magical creature reserves
 
 ## Used in:
 
-- [[Giant Purple Toad\|Giant Purple Toad]]
 - [[1 DIGITAL GARDEN/4.0 Potions/Fungiface Potion\|Fungiface Potion]]
 - [[1 DIGITAL GARDEN/4.0 Potions/Essence of Insanity\|Essence of Insanity]]
+- [[1 DIGITAL GARDEN/10.0 CREATURES/WW Bestiary/Giant Purple Toad\|Giant Purple Toad]]
 
 { .block-language-dataview}
 

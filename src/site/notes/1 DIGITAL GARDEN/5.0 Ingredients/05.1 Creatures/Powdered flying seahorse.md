@@ -4,14 +4,14 @@
 
 *Uncommon*
 
-**Source::** Creature ([[Flying Seahorse\|Flying Seahorse]])
+**Source::** Creature ([[1 DIGITAL GARDEN/10.0 CREATURES/WW Bestiary/Flying Seahorse\|Flying Seahorse]])
 
 **Likely Habitats::** * Clear, unpolluted magical waters * High-altitude lakes * Enchanted marine environments
 
 ## Used in:
 
-- [[Flying Seahorse\|Flying Seahorse]]
 - [[1 DIGITAL GARDEN/4.0 Potions/Baruffio's Brain Elixir\|Baruffio's Brain Elixir]]
+- [[1 DIGITAL GARDEN/10.0 CREATURES/WW Bestiary/Flying Seahorse\|Flying Seahorse]]
 
 { .block-language-dataview}
 

@@ -4,13 +4,13 @@
 
 *Rare*
 
-**Source::** Creature ([[Boomslang\|Boomslang]] skin)
+**Source::** Creature ([[1 DIGITAL GARDEN/10.0 CREATURES/WW Bestiary/Boomslang\|Boomslang]] skin)
 
 **Likely Habitats::** * Tropical rainforests * Dense, humid jungles * Ancient, undisturbed magical swamps
 
 ## Used in:
 
-- [[Boomslang\|Boomslang]]
+- [[1 DIGITAL GARDEN/10.0 CREATURES/WW Bestiary/Boomslang\|Boomslang]]
 
 { .block-language-dataview}
 
