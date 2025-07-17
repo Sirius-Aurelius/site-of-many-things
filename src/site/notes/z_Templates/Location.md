@@ -14,3 +14,7 @@
 
 # Events
 
+| Session | Interactions |
+| ------- | ------------ |
+
+{ .block-language-dataview}

@@ -18,10 +18,10 @@ If the victim of this poison is a tiny Beast, it is paralyzed for 1 hour on a fa
 
 ## Recipe:
 
-* 1 [[Bundle of cowbane\|Bundle of cowbane]]
-* 1 [[Bundle of hemlock\|Bundle of hemlock]]
-* 1 [[Flask of bundimun secretion\|Flask of bundimun secretion]]
-* 1 [[powdered streeler shell\|powdered streeler shell]]
+* 1 [[1 DIGITAL GARDEN/5.0 Ingredients/Bundle of cowbane\|Bundle of cowbane]]
+* 1 [[1 DIGITAL GARDEN/5.0 Ingredients/Bundle of hemlock\|Bundle of hemlock]]
+* 1 [[1 DIGITAL GARDEN/5.0 Ingredients/Flask of bundimun secretion\|Flask of bundimun secretion]]
+* 1 [[1 DIGITAL GARDEN/5.0 Ingredients/Powdered streeler shell\|Powdered streeler shell]]
 
 **Flawed**:
 The saving throw DC is 10 instead of 13

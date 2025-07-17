@@ -18,10 +18,10 @@ If you took poison damage the previous minute, you regain half of your hit point
 
 ## Recipe:
 
-- I [[Bundle of galanthus nivalis\|Bundle of galanthus nivalis]]
-- 1 [[Cluster of mistletoe berries\|Cluster of mistletoe berries]]
-- 1 [[Flask of honeywater\|Flask of honeywater]]
-- 1 [[Vial of billywig stings\|Vial of billywig stings]]
+- I [[1 DIGITAL GARDEN/5.0 Ingredients/Bundle of galanthus nivalis\|Bundle of galanthus nivalis]]
+- 1 [[1 DIGITAL GARDEN/5.0 Ingredients/Cluster of mistletoe berries\|Cluster of mistletoe berries]]
+- 1 [[1 DIGITAL GARDEN/5.0 Ingredients/Flask of honeywater\|Flask of honeywater]]
+- 1 [[1 DIGITAL GARDEN/5.0 Ingredients/Vial of billywig stings\|Vial of billywig stings]]
 
 **Flawed**:
 No hit points are regained

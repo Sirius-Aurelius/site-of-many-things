@@ -15,9 +15,9 @@ None
 
 ## Recipe:
 
-* 1 [[Bursting mushroom\|Bursting mushroom]]
-* 1 [[Newt spleen\|Newt spleen]]
-* 1 [[Vial of chizpurfle carapaces\|Vial of chizpurfle carapaces]]
+* 1 [[1 DIGITAL GARDEN/5.0 Ingredients/Bursting mushroom\|Bursting mushroom]]
+* 1 [[1 DIGITAL GARDEN/5.0 Ingredients/Newt spleen\|Newt spleen]]
+* 1 [[1 DIGITAL GARDEN/5.0 Ingredients/Vial of chizpurfle carapaces\|Vial of chizpurfle carapaces]]
 
 **Flawed**:
 Use d4 dice instead of d10 dice.

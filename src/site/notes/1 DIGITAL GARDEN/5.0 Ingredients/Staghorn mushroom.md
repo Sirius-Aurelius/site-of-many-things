@@ -1,0 +1,16 @@
+---
+{"dg-publish":true,"permalink":"/1-digital-garden/5-0-ingredients/staghorn-mushroom/","tags":["ingredient","common"]}
+---
+
+*Common*
+
+**Source::** Fungus (Staghorn mushroom)
+
+**Likely Habitats::** * Decaying wood in forests * Damp, shaded areas * Under ancient trees
+
+## Used in:
+
+- [[1 DIGITAL GARDEN/4.0 Potions/Fungiface Potion\|Fungiface Potion]]
+
+{ .block-language-dataview}
+

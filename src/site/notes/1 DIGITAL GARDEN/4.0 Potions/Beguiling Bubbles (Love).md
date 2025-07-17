@@ -18,9 +18,9 @@ None
 
 ## Recipe:
 
-- 1 [[Abraxan hair\|Abraxan hair]]
-- 1 [[Bundle of peppermint\|Bundle of peppermint]]
-- 1 [[Bundle of sneezewort\|Bundle of sneezewort]]
+- 1 [[1 DIGITAL GARDEN/5.0 Ingredients/Abraxan hair\|Abraxan hair]]
+- 1 [[1 DIGITAL GARDEN/5.0 Ingredients/Bundle of peppermint\|Bundle of peppermint]]
+- 1 [[1 DIGITAL GARDEN/5.0 Ingredients/Bundle of sneezewort\|Bundle of sneezewort]]
 
 **Flawed**:
 The duration is 10 minutes, instead of 1 hour.

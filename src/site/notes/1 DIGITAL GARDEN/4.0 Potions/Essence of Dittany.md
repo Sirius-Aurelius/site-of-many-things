@@ -17,11 +17,11 @@ limb to heal back on immediately.
 
 ## Recipe:
 
-- 2 [[Bundle of dittany\|Bundle of dittany]]
-- 1 [[Powdered griffin claw\|Powdered griffin claw]]
-- 2 [[Powdered unicorn horn\|Powdered unicorn horn]]
-- 1 [[Unicorn hair\|Unicorn hair]]
-- 1 [[Vial of African sea salt\|Vial of African sea salt]]
+- 2 [[1 DIGITAL GARDEN/5.0 Ingredients/Bundle of dittany\|Bundle of dittany]]
+- 1 [[1 DIGITAL GARDEN/5.0 Ingredients/Powdered griffin claw\|Powdered griffin claw]]
+- 2 [[1 DIGITAL GARDEN/5.0 Ingredients/Powdered unicorn horn\|Powdered unicorn horn]]
+- 1 [[1 DIGITAL GARDEN/5.0 Ingredients/Unicorn hair\|Unicorn hair]]
+- 1 [[1 DIGITAL GARDEN/5.0 Ingredients/Vial of African sea salt\|Vial of African sea salt]]
 
 **Flawed**:
 The hit points healed are 10d4 + 5, instead of 10d4 + 20.

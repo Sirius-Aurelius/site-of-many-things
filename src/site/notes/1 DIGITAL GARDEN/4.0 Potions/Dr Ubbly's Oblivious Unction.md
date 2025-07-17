@@ -15,10 +15,10 @@ None
 
 ## Recipe:
 
-- 1 [[Flask of Lethe river water\|Flask of Lethe river water]]
-- 1 [[Flask of vervain infusion\|Flask of vervain infusion]]
-- 1 [[Frog brain\|Frog brain]]
-- 1 [[Granian hair\|Granian hair]]
+- 1 [[1 DIGITAL GARDEN/5.0 Ingredients/Flask of Lethe river water\|Flask of Lethe river water]]
+- 1 [[1 DIGITAL GARDEN/5.0 Ingredients/Flask of vervain infusion\|Flask of vervain infusion]]
+- 1 [[1 DIGITAL GARDEN/5.0 Ingredients/Frog brain\|Frog brain]]
+- 1 [[1 DIGITAL GARDEN/5.0 Ingredients/Granian hair\|Granian hair]]
 
 **Flawed**:
 The duration is 10 minutes instead of 1 hour

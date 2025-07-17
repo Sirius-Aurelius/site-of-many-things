@@ -19,8 +19,8 @@ None
 
 ## Recipe:
 
-- 2 [[Bundle of bloodroot\|Bundle of bloodroot]]
-- 1 [[Powdered streeler shell\|Powdered streeler shell]]
+- 2 [[1 DIGITAL GARDEN/5.0 Ingredients/Bundle of bloodroot\|Bundle of bloodroot]]
+- 1 [[1 DIGITAL GARDEN/5.0 Ingredients/Powdered streeler shell\|Powdered streeler shell]]
 
 **Flawed**:
 The damage is 5 (2d4), instead of 7 (2d6)

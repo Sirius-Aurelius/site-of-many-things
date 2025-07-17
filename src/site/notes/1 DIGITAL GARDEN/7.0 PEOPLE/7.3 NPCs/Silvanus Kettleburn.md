@@ -8,9 +8,16 @@
 >**3 Word Summary**:: *Personality summary here*
 >**Usually found in**:: [location links here]
 
+**Appearance:** A grizzled, weather-beaten wizard with a perpetually bandaged limb (or two, or three). His hair is usually wild, and his clothes are practical but often torn. He has an unquenchable enthusiasm for even the most dangerous beasts.
+    
+- **Personality:** Fearless, eccentric, and utterly devoted to magical creatures. Kettleburn sees beauty in even the most monstrous beasts and believes in rehabilitating rather than destroying. He's a terrible judge of risk, often putting himself and his students in harm's way (accidentally, of course). He speaks passionately and ramblingly about his subjects, sometimes forgetting to check if his listeners are still alive.
+    
+- **Gossip:** "Kettleburn lost another finger to a Niffler, can you believe it?" "His classes are a death wish, but you learn a lot if you survive." "He sleeps in the Forbidden Forest sometimes, they say." "He's always trying to smuggle new creatures into the school."
+    
+
 # Interactions
 
 
 # DM Notes
 
-[[0 DM SCREEN/2 Campaign Notes & Archive/NPC Secrets#Silvanus Kettleburn\|NPC Secrets#Silvanus Kettleburn]]
+[[0 DM SCREEN/1 REFERENCE SOURCES/NPC Secrets#Silvanus Kettleburn\|NPC Secrets#Silvanus Kettleburn]]

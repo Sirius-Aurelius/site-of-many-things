@@ -17,10 +17,10 @@ None
 
 ## Recipe:
 
-- 1 [[Bundle of poppy heads\|Bundle of poppy heads]]
-- 1 [[Cluster of baneberries\|Cluster of baneberries]]
-- 1 [[Frog brain\|Frog brain]]
-- 1 [[powdered octopus\|powdered octopus]]
+- 1 [[1 DIGITAL GARDEN/5.0 Ingredients/Bundle of poppy heads\|Bundle of poppy heads]]
+- 1 [[1 DIGITAL GARDEN/5.0 Ingredients/Cluster of baneberries\|Cluster of baneberries]]
+- 1 [[1 DIGITAL GARDEN/5.0 Ingredients/Frog brain\|Frog brain]]
+- 1 [[1 DIGITAL GARDEN/5.0 Ingredients/Powdered octopus\|Powdered octopus]]
 
 
 **Flawed**:

@@ -13,8 +13,8 @@ None
 
 ## Recipe:
 
-- 3 bundles of star grass
-- 1 flask of bubotuber pus
+- 3 [[1 DIGITAL GARDEN/5.0 Ingredients/Bundle of star grass\|Bundle of star grass]]
+- 1 [[1 DIGITAL GARDEN/5.0 Ingredients/Flask of bubotuber pus\|Flask of bubotuber pus]]
 
 **Flawed**:
 The hit points healed are 2d4, instead of 2d4 + 2.

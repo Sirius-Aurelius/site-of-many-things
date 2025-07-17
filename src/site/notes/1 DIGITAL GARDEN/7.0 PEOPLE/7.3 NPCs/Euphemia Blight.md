@@ -4,13 +4,19 @@
 
 >[!info] 
 >[[ ==CHARACTER PORTRAIT HERE (with |left|300)==
->**Role**:: [About this person text here]
->**3 Word Summary**:: *Personality summary here*
+>**Role**:: Professor of DADA at [[1 DIGITAL GARDEN/8.0 PLACES/8.2 Hogwarts School/8.2.0 Hogwarts School - Overview\|Hogwarts School of Witchcraft & Wizadry]]
+>**3 Word Summary**:: Intense, military-disciplined, immaculate
 >**Usually found in**:: [location links here]
+
+- **Appearance:** A sharp, intense witch with severe spectacles and an almost military posture. She carries her wand like a weapon and her robes are always pristine, even after a dueling demonstration.
+    
+- **Personality:** Disciplined, pragmatic, and highly suspicious of anything that hints at dark magic or ill intent. Professor Blight believes in practical defense and instills a sense of vigilance in her students. She survived a minor skirmish with a dark wizard gang in her youth, leaving her with a deep-seated distrust of shadowy organizations. She can be overly stern but genuinely wants her students to be prepared for the dangers of the world. She has a deep respect for those who show courage and initiative.
+    
+- **Gossip:** "Professor Blight knows every counter-curse ever invented." "She probably sleeps with her wand under her pillow." "She almost got expelled herself for hexing a Ministry official who questioned her methods." "She's always saying 'constant vigilance!'"
 
 # Interactions
 
 
 # DM Notes
 
-[[0 DM SCREEN/2 Campaign Notes & Archive/NPC Secrets#Euphemia Blight\|NPC Secrets#Euphemia Blight]]
+[[0 DM SCREEN/1 REFERENCE SOURCES/NPC Secrets#Euphemia Blight\|NPC Secrets#Euphemia Blight]]

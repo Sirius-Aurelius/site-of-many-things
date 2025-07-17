@@ -19,12 +19,12 @@ This potion has been stated to greatly resemble molten gold. It is meant to be u
 
 ## Recipe:
 
-- 1 [[Bundle of niffler's fancy\|Bundle of niffler's fancy]]
-- 2 [[Clutch of ashwinder eggs\|Clutch of ashwinder eggs]]
-- 1 [[Murtlap tentacle\|Murtlap tentacle]]
-- 1 [[Powdered erumpent horn\|Powdered erumpent horn]]
-- 2 [[Powdered griffin claw\|Powdered griffin claw]]
-- 1 [[Powdered occamy eggshells\|Powdered occamy eggshells]]
+- 1 [[1 DIGITAL GARDEN/5.0 Ingredients/Bundle of niffler's fancy\|Bundle of niffler's fancy]]
+- 2 [[1 DIGITAL GARDEN/5.0 Ingredients/Clutch of ashwinder eggs\|Clutch of ashwinder eggs]]
+- 1 [[1 DIGITAL GARDEN/5.0 Ingredients/Murtlap tentacle\|Murtlap tentacle]]
+- 1 [[1 DIGITAL GARDEN/5.0 Ingredients/Powdered erumpent horn\|Powdered erumpent horn]]
+- 2 [[1 DIGITAL GARDEN/5.0 Ingredients/Powdered griffin claw\|Powdered griffin claw]]
+- 1 [[1 DIGITAL GARDEN/5.0 Ingredients/Powdered occamy eggshells\|Powdered occamy eggshells]]
 
 **Flawed**:
 The potion has no effect.

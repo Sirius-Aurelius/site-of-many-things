@@ -22,9 +22,9 @@ If you took poison damage in the previous minute, you regain all of your hit poi
 
 ## Recipe:
 
-* 1 [[Flask of fire seeds\|Flask of fire seeds]]
-* 1 [[Vial of billywig stings\|Vial of billywig stings]]
-* 1 [[Vial of chizpurfle carapaces\|Vial of chizpurfle carapaces]]
+* 1 [[1 DIGITAL GARDEN/5.0 Ingredients/Flask of fire seeds\|Flask of fire seeds]]
+* 1 [[1 DIGITAL GARDEN/5.0 Ingredients/Vial of billywig stings\|Vial of billywig stings]]
+* 1 [[1 DIGITAL GARDEN/5.0 Ingredients/Vial of chizpurfle carapaces\|Vial of chizpurfle carapaces]]
 
 **Flawed**:
 No hit points are regained
