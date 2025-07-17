@@ -16,11 +16,11 @@ The creature will breathe normally, but cannot be suffocated in this state. It a
 - [[1 DIGITAL GARDEN/4.0 Potions/Wiggenweld Potion\|Wiggenweld Potion]]
 
 ## Recipe
-* 2 [[1 DIGITAL GARDEN/5.0 Ingredients/Bundle of valerian roots\|Bundle of valerian roots]]
-* 1 [[1 DIGITAL GARDEN/5.0 Ingredients/Powdered root of asphodel\|Powdered root of asphodel]]
-* 1 [[1 DIGITAL GARDEN/5.0 Ingredients/Sloth brain\|Sloth brain]]
-* 2 [[1 DIGITAL GARDEN/5.0 Ingredients/Sopophorous bean\|Sopophorous bean]]
-* 1 [[1 DIGITAL GARDEN/5.0 Ingredients/Vial of African sea salt\|Vial of African sea salt]]
+* 2 [[1 DIGITAL GARDEN/5.0 Ingredients/05.1 Plants/Bundle of valerian roots\|Bundle of valerian roots]]
+* 1 [[1 DIGITAL GARDEN/5.0 Ingredients/05.1 Plants/Powdered root of asphodel\|Powdered root of asphodel]]
+* 1 [[1 DIGITAL GARDEN/5.0 Ingredients/05.1 Creatures/Sloth brain\|Sloth brain]]
+* 2 [[1 DIGITAL GARDEN/5.0 Ingredients/05.1 Plants/Sopophorous bean\|Sopophorous bean]]
+* 1 [[1 DIGITAL GARDEN/5.0 Ingredients/05.1 Mundane/Vial of African sea salt\|Vial of African sea salt]]
 
 **Flawed**:
 The potion's effect has a duration of 24 hours.

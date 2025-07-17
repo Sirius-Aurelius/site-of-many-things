@@ -16,10 +16,10 @@ None
 
 ## Recipe:
 
-- 1 [[1 DIGITAL GARDEN/5.0 Ingredients/Flask of bubotuber pus\|Flask of bubotuber pus]]
-- 1 [[1 DIGITAL GARDEN/5.0 Ingredients/Giant purple toad wart\|Giant purple toad wart]]
-- 1 [[1 DIGITAL GARDEN/5.0 Ingredients/Staghorn mushroom\|Staghorn mushroom]]
-- 1 [[1 DIGITAL GARDEN/5.0 Ingredients/Vial of woodlice extract\|Vial of woodlice extract]]
+- 1 [[1 DIGITAL GARDEN/5.0 Ingredients/05.1 Plants/Flask of bubotuber pus\|Flask of bubotuber pus]]
+- 1 [[1 DIGITAL GARDEN/5.0 Ingredients/05.1 Creatures/Giant purple toad wart\|Giant purple toad wart]]
+- 1 [[1 DIGITAL GARDEN/5.0 Ingredients/05.1 Plants/Staghorn mushroom\|Staghorn mushroom]]
+- 1 [[1 DIGITAL GARDEN/5.0 Ingredients/05.1 Creatures/Vial of woodlice extract\|Vial of woodlice extract]]
 
 **Flawed**:
 The duration is 10 minutes, instead of 1 hour.

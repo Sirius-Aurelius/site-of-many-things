@@ -13,9 +13,9 @@ None
 
 ## Recipe:
 
-- 1 [[1 DIGITAL GARDEN/5.0 Ingredients/Bundle of lady's mantle\|Bundle of lady's mantle]]
-- 1 [[1 DIGITAL GARDEN/5.0 Ingredients/Granian hair\|Granian hair]]
-- 1 [[1 DIGITAL GARDEN/5.0 Ingredients/Set of fairy wings\|Set of fairy wings]]
+- 1 [[1 DIGITAL GARDEN/5.0 Ingredients/05.1 Plants/Bundle of lady's mantle\|Bundle of lady's mantle]]
+- 1 [[1 DIGITAL GARDEN/5.0 Ingredients/05.1 Creatures/Granian hair\|Granian hair]]
+- 1 [[1 DIGITAL GARDEN/5.0 Ingredients/05.1 Creatures/Set of fairy wings\|Set of fairy wings]]
 
 **Flawed**:
 Divide the d4 result by 2 (rounded up)

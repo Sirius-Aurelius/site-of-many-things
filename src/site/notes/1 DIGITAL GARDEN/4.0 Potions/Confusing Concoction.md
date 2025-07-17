@@ -19,9 +19,9 @@ None
 
 ## Recipe:
 
-* 1 [[1 DIGITAL GARDEN/5.0 Ingredients/Bundle of gurdyroots\|Bundle of gurdyroots]]
-* 2 [[1 DIGITAL GARDEN/5.0 Ingredients/Bundle of lovage\|Bundle of lovage]]
-* 1 [[1 DIGITAL GARDEN/5.0 Ingredients/Flask of ethanol\|Flask of ethanol]]
+* 1 [[1 DIGITAL GARDEN/5.0 Ingredients/05.1 Plants/Bundle of gurdyroots\|Bundle of gurdyroots]]
+* 2 [[1 DIGITAL GARDEN/5.0 Ingredients/05.1 Plants/Bundle of lovage\|Bundle of lovage]]
+* 1 [[1 DIGITAL GARDEN/5.0 Ingredients/05.1 Mundane/Flask of ethanol\|Flask of ethanol]]
 
 **Flawed**:
 You can't take actions but you can still take a reaction

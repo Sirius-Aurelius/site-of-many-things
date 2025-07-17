@@ -13,9 +13,9 @@ None
 
 ## Recipe:
 
-- 1 [[1 DIGITAL GARDEN/5.0 Ingredients/Abraxan hair\|Abraxan hair]]
-- 1 [[1 DIGITAL GARDEN/5.0 Ingredients/Bundle of galanthus nivalis\|Bundle of galanthus nivalis]]
-- 1 [[1 DIGITAL GARDEN/5.0 Ingredients/Flask of re'em blood\|Flask of re'em blood]]
+- 1 [[1 DIGITAL GARDEN/5.0 Ingredients/05.1 Creatures/Abraxan hair\|Abraxan hair]]
+- 1 [[1 DIGITAL GARDEN/5.0 Ingredients/05.1 Plants/Bundle of galanthus nivalis\|Bundle of galanthus nivalis]]
+- 1 [[1 DIGITAL GARDEN/5.0 Ingredients/05.1 Creatures/Flask of re'em blood\|Flask of re'em blood]]
 
 **Flawed**:
 The potion only affects spells of the 3rd level or lower.

@@ -4,9 +4,9 @@
 
 *Rarity* [italicised]
 
-**Source:** [Creature/Plant/Mineral/Other, and specific part] 
+**Source::** [Creature/Plant/Mineral/Other, and specific part] 
 
-**Likely Habitats:** * [Habitat 1] * [Habitat 2] * [Habitat 3]
+**Likely Habitats::** * [Habitat 1] * [Habitat 2] * [Habitat 3]
 
 ## Used in:
 

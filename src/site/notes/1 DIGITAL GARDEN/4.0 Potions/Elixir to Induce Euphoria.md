@@ -17,10 +17,10 @@ None
 
 ## Recipe:
 
-- 1 [[1 DIGITAL GARDEN/5.0 Ingredients/Bundle of peppermint\|Bundle of peppermint]]
-- 1 [[1 DIGITAL GARDEN/5.0 Ingredients/Bundle of shrivelfigs\|Bundle of shrivelfigs]]
-- 1 [[1 DIGITAL GARDEN/5.0 Ingredients/Flask of wormwood infusion\|Flask of wormwood infusion]]
-- 1 [[1 DIGITAL GARDEN/5.0 Ingredients/Porcupine quill\|Porcupine quill]]
+- 1 [[1 DIGITAL GARDEN/5.0 Ingredients/05.1 Plants/Bundle of peppermint\|Bundle of peppermint]]
+- 1 [[1 DIGITAL GARDEN/5.0 Ingredients/05.1 Plants/Bundle of shrivelfigs\|Bundle of shrivelfigs]]
+- 1 [[1 DIGITAL GARDEN/5.0 Ingredients/05.1 Plants/Flask of wormwood infusion\|Flask of wormwood infusion]]
+- 1 [[1 DIGITAL GARDEN/5.0 Ingredients/05.1 Creatures/Porcupine quill\|Porcupine quill]]
 
 **Flawed**:
 The duration is 10 minutes, instead of 1 hour.

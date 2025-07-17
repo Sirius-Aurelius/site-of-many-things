@@ -18,12 +18,12 @@ This charmed effect can only be removed by an antidote to this potion.
 
 ## Recipe:
 
-- 1 [[1 DIGITAL GARDEN/5.0 Ingredients/Bundle of alihotsy leaves\|Bundle of alihotsy leaves]]
-- 1 [[1 DIGITAL GARDEN/5.0 Ingredients/Bundle of dittany\|Bundle of dittany]]
-- 1 [[1 DIGITAL GARDEN/5.0 Ingredients/Bundle of knotgrass\|Bundle of knotgrass]]
-- 1 [[1 DIGITAL GARDEN/5.0 Ingredients/Clutch of ashwinder eggs\|Clutch of ashwinder eggs]]
-- 1 [[1 DIGITAL GARDEN/5.0 Ingredients/Powdered moonstone\|Powdered moonstone]]
-- 2 [[1 DIGITAL GARDEN/5.0 Ingredients/Vial of pearl dust\|Vial of pearl dust]]
+- 1 [[1 DIGITAL GARDEN/5.0 Ingredients/05.1 Plants/Bundle of alihotsy leaves\|Bundle of alihotsy leaves]]
+- 1 [[1 DIGITAL GARDEN/5.0 Ingredients/05.1 Plants/Bundle of dittany\|Bundle of dittany]]
+- 1 [[1 DIGITAL GARDEN/5.0 Ingredients/05.1 Plants/Bundle of knotgrass\|Bundle of knotgrass]]
+- 1 [[1 DIGITAL GARDEN/5.0 Ingredients/05.1 Creatures/Clutch of ashwinder eggs\|Clutch of ashwinder eggs]]
+- 1 [[1 DIGITAL GARDEN/5.0 Ingredients/05.1 Mundane/Powdered moonstone\|Powdered moonstone]]
+- 2 [[1 DIGITAL GARDEN/5.0 Ingredients/05.1 Mundane/Vial of pearl dust\|Vial of pearl dust]]
 
 **Flawed**:
 The duration is 1 day, instead of 1 week.

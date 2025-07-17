@@ -16,12 +16,12 @@ When a creature drinks this fabled poison, it hallucinates all of its worst fear
 
 ## Recipe:
 
-- 1 [[1 DIGITAL GARDEN/5.0 Ingredients/Bundle of bloodroot\|Bundle of bloodroot]]
-- 1 [[1 DIGITAL GARDEN/5.0 Ingredients/Bundle of venomous tentacula leaves\|Bundle of venomous tentacula leaves]]
-- 1 [[1 DIGITAL GARDEN/5.0 Ingredients/Flask of pritcher's porritch ooze\|Flask of pritcher's porritch ooze]]
-- 1 [[1 DIGITAL GARDEN/5.0 Ingredients/Powdered graphorn horn\|Powdered graphorn horn]]
-- 2 [[1 DIGITAL GARDEN/5.0 Ingredients/Vial of acromantula venom\|Vial of acromantula venom]]
-- 2 [[1 DIGITAL GARDEN/5.0 Ingredients/Vial of belladonna essence\|Vial of belladonna essence]]
+- 1 [[1 DIGITAL GARDEN/5.0 Ingredients/05.1 Plants/Bundle of bloodroot\|Bundle of bloodroot]]
+- 1 [[1 DIGITAL GARDEN/5.0 Ingredients/05.1 Plants/Bundle of venomous tentacula leaves\|Bundle of venomous tentacula leaves]]
+- 1 [[1 DIGITAL GARDEN/5.0 Ingredients/05.1 Plants/Flask of pritcher's porritch ooze\|Flask of pritcher's porritch ooze]]
+- 1 [[1 DIGITAL GARDEN/5.0 Ingredients/05.1 Creatures/Powdered graphorn horn\|Powdered graphorn horn]]
+- 2 [[1 DIGITAL GARDEN/5.0 Ingredients/05.1 Creatures/Vial of acromantula venom\|Vial of acromantula venom]]
+- 2 [[1 DIGITAL GARDEN/5.0 Ingredients/05.1 Plants/Vial of belladonna essence\|Vial of belladonna essence]]
 
 **Flawed**:
 The incapacitation lasts for 6 seconds, instead of 30 seconds.

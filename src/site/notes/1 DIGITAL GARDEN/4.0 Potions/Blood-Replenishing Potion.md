@@ -16,9 +16,9 @@ If the next rest you take is a short rest, the amount of hit points gained from 
 
 ## Recipe:
 
-- 1 [[1 DIGITAL GARDEN/5.0 Ingredients/Bundle of wiggentree bark\|Bundle of wiggentree bark]]
-- 1 [[1 DIGITAL GARDEN/5.0 Ingredients/Flask of vervain infusion\|Flask of vervain infusion]]
-- 1 [[1 DIGITAL GARDEN/5.0 Ingredients/Powdered bicorn horn\|Powdered bicorn horn]]
+- 1 [[1 DIGITAL GARDEN/5.0 Ingredients/05.1 Plants/Bundle of wiggentree bark\|Bundle of wiggentree bark]]
+- 1 [[1 DIGITAL GARDEN/5.0 Ingredients/05.1 Plants/Flask of vervain infusion\|Flask of vervain infusion]]
+- 1 [[1 DIGITAL GARDEN/5.0 Ingredients/05.1 Creatures/Powdered bicorn horn\|Powdered bicorn horn]]
 
 **Flawed**:
 There is no effect on the amount of hit points gained during a short rest.

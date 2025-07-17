@@ -15,10 +15,10 @@ None
 
 ## Recipe:
 
-- 1 [[1 DIGITAL GARDEN/5.0 Ingredients/Bundle of peppermint\|Bundle of peppermint]]
-- 1 [[1 DIGITAL GARDEN/5.0 Ingredients/Cluster of mistletoe berries\|Cluster of mistletoe berries]]
-- 1 [[1 DIGITAL GARDEN/5.0 Ingredients/Granian hair\|Granian hair]]
-- 1 [[1 DIGITAL GARDEN/5.0 Ingredients/Vial of rose oil\|Vial of rose oil]]
+- 1 [[1 DIGITAL GARDEN/5.0 Ingredients/05.1 Plants/Bundle of peppermint\|Bundle of peppermint]]
+- 1 [[1 DIGITAL GARDEN/5.0 Ingredients/05.1 Plants/Cluster of mistletoe berries\|Cluster of mistletoe berries]]
+- 1 [[1 DIGITAL GARDEN/5.0 Ingredients/05.1 Creatures/Granian hair\|Granian hair]]
+- 1 [[1 DIGITAL GARDEN/5.0 Ingredients/05.1 Mundane/Vial of rose oil\|Vial of rose oil]]
 
 **Flawed**:
 The duration is 10 minutes, instead of 1 hour.

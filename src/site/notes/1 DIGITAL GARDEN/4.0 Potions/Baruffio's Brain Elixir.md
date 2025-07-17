@@ -16,9 +16,9 @@ When you drink this potion, you have advantage on Intelligence checks for 1 hour
 
 ## Recipe:
 
-- 1 [[1 DIGITAL GARDEN/5.0 Ingredients/Frog brain\|Frog brain]]
-- 1 [[1 DIGITAL GARDEN/5.0 Ingredients/Powdered dragon claw\|Powdered dragon claw]]
-- 1 [[1 DIGITAL GARDEN/5.0 Ingredients/Powdered flying seahorse\|Powdered flying seahorse]]
+- 1 [[1 DIGITAL GARDEN/5.0 Ingredients/05.1 Creatures/Frog brain\|Frog brain]]
+- 1 [[1 DIGITAL GARDEN/5.0 Ingredients/05.1 Creatures/Powdered dragon claw\|Powdered dragon claw]]
+- 1 [[1 DIGITAL GARDEN/5.0 Ingredients/05.1 Creatures/Powdered flying seahorse\|Powdered flying seahorse]]
 
 **Flawed**:
 The duration is 10 minutes, instead of 1 hour.

@@ -17,10 +17,10 @@ A creature that inhales this poison must succeed on a DC 13 Constitution saving 
 
 ## Recipe:
 
-* 1 [[1 DIGITAL GARDEN/5.0 Ingredients/Flask of bundimun secretion\|Flask of bundimun secretion]]
-* 1 [[1 DIGITAL GARDEN/5.0 Ingredients/Flask of ethanol\|Flask of ethanol]]
-* 1 [[1 DIGITAL GARDEN/5.0 Ingredients/Powdered wartcap\|Powdered wartcap]]
-* 1 [[1 DIGITAL GARDEN/5.0 Ingredients/Vial of exploding ginger eyelashes\|Vial of exploding ginger eyelashes]]
+* 1 [[1 DIGITAL GARDEN/5.0 Ingredients/05.1 Creatures/Flask of bundimun secretion\|Flask of bundimun secretion]]
+* 1 [[1 DIGITAL GARDEN/5.0 Ingredients/05.1 Mundane/Flask of ethanol\|Flask of ethanol]]
+* 1 [[1 DIGITAL GARDEN/5.0 Ingredients/05.1 Plants/Powdered wartcap\|Powdered wartcap]]
+* 1 [[1 DIGITAL GARDEN/5.0 Ingredients/05.1 Plants/Vial of exploding ginger eyelashes\|Vial of exploding ginger eyelashes]]
 
 **Flawed**:
 The option does not have an unconscious effect

@@ -16,9 +16,9 @@ None
 
 ## Recipe:
 
-- 1 [[1 DIGITAL GARDEN/5.0 Ingredients/Bundle of lovage\|Bundle of lovage]]
-* 1 [[1 DIGITAL GARDEN/5.0 Ingredients/Cluster of mistletoe berries\|Cluster of mistletoe berries]]
-* 2 [[1 DIGITAL GARDEN/5.0 Ingredients/Flask of Lethe river water\|Flask of Lethe river water]]
+- 1 [[1 DIGITAL GARDEN/5.0 Ingredients/05.1 Plants/Bundle of lovage\|Bundle of lovage]]
+* 1 [[1 DIGITAL GARDEN/5.0 Ingredients/05.1 Plants/Cluster of mistletoe berries\|Cluster of mistletoe berries]]
+* 2 [[1 DIGITAL GARDEN/5.0 Ingredients/05.1 Mundane/Flask of Lethe river water\|Flask of Lethe river water]]
 
 **Flawed**:
 The duration of forgetfulness is the next 1 minute
