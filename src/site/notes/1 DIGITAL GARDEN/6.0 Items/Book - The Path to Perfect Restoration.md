@@ -6,4 +6,4 @@
 
 ## Description
 
-(10 hours, +2 to Survival) – 2 Galleons
+(20 hours, +2 to Survival) – 2 Galleons

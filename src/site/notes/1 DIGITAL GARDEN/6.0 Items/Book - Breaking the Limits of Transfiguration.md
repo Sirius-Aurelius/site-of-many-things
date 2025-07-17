@@ -6,4 +6,4 @@
 
 ## Description
 
-(20 hours, +2 to Persuasion) - 3 Galleons
+(40 hours, +2 to Persuasion) - 3 Galleons

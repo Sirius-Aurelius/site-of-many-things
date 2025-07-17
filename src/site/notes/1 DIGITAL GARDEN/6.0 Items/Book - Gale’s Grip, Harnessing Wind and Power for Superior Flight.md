@@ -6,4 +6,4 @@
 
 ## Description
 
-10 hours, +1 to Athletics – 2 galleons
+20 hours, +1 to Athletics – 2 galleons

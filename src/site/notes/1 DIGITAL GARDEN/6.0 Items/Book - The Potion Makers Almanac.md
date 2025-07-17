@@ -6,4 +6,4 @@
 
 ## Description
 
-(10 hours, +1 to Potion Making) – 40 Galleons
+(20 hours, +1 to Potion Making) – 40 Galleons

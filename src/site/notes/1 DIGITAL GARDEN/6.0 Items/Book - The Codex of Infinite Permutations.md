@@ -6,4 +6,4 @@
 
 ## Description
 
-(20 hours, +2 to Sleight of Hand) – 4 galleons
+(40 hours, +2 to Sleight of Hand) – 4 galleons

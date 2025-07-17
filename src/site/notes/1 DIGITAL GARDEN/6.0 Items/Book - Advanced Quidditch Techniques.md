@@ -6,4 +6,4 @@
 
 ## Description
 
-(20 hours, +2 to Acrobatics) – 5 sickles
+(40 hours, +2 to Acrobatics) – 5 sickles
