@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-digital-garden/10-0-creatures/ww-bestiary/flying-seahorse/","tags":["#creature","beast","#magical-being","#magical-non-being"]}
+{"dg-publish":true,"permalink":"/1-digital-garden/10-0-creatures/ww-bestiary/flying-seahorse/","tags":["#creature","beast"]}
 ---
 
 ![Flying Seahorse.png|left|200](/img/user/1%20DIGITAL%20GARDEN/10.0%20CREATURES/(Attachments)/WW%20Bestiary/Flying%20Seahorse.png)
