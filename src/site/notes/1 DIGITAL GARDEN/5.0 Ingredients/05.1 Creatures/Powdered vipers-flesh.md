@@ -10,6 +10,8 @@
 
 ## Used in:
 
+- [[1 DIGITAL GARDEN/4.0 Potions/Pet Tonic\|Pet Tonic]]
+- [[1 DIGITAL GARDEN/4.0 Potions/Hiccoughing Solution\|Hiccoughing Solution]]
 
 { .block-language-dataview}
 

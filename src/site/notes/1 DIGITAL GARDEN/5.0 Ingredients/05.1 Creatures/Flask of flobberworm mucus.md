@@ -10,6 +10,8 @@
 
 ## Used in:
 
+- [[1 DIGITAL GARDEN/4.0 Potions/Sleeping Draught\|Sleeping Draught]]
+- [[1 DIGITAL GARDEN/4.0 Potions/Herbicide Potion\|Herbicide Potion]]
 - [[1 DIGITAL GARDEN/4.0 Potions/Blemish Blitzer\|Blemish Blitzer]]
 - [[1 DIGITAL GARDEN/10.0 CREATURES/WW Bestiary/Flobberworm\|Flobberworm]]
 

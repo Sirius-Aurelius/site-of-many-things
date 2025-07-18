@@ -10,6 +10,7 @@
 
 ## Used in:
 
+- [[1 DIGITAL GARDEN/4.0 Potions/Wolfsbane Potion\|Wolfsbane Potion]]
 - [[1 DIGITAL GARDEN/4.0 Potions/Drink of Despair\|Drink of Despair]]
 - [[1 DIGITAL GARDEN/10.0 CREATURES/WW Bestiary/Graphorn\|Graphorn]]
 

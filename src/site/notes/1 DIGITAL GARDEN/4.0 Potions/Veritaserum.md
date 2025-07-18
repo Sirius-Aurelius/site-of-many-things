@@ -19,13 +19,13 @@ the truth.
 
 ## Recipe:
 
-- 1 bundle of alihotsy leaves
-- 2 bundles of thaumatagoria
-- 1 death cap mushroom
-- 1 jobberknoll feather
-- 1 powdered scarab beetle
-- 1 sloth brain
-- 1 tincture of demiguise
+- 1 [[1 DIGITAL GARDEN/5.0 Ingredients/05.1 Plants/Bundle of alihotsy leaves\|Bundle of alihotsy leaves]]
+- 2 [[1 DIGITAL GARDEN/5.0 Ingredients/05.1 Plants/Bundle of thaumatagoria\|Bundle of thaumatagoria]]
+- 1 [[1 DIGITAL GARDEN/5.0 Ingredients/05.1 Plants/Death cap mushroom\|Death cap mushroom]]
+- 1 [[1 DIGITAL GARDEN/5.0 Ingredients/05.1 Creatures/Jobberknoll feather\|Jobberknoll feather]]
+- 1 [[1 DIGITAL GARDEN/5.0 Ingredients/05.1 Creatures/Powdered scarab beetle\|Powdered scarab beetle]]
+- 1 [[1 DIGITAL GARDEN/5.0 Ingredients/05.1 Creatures/Sloth brain\|Sloth brain]]
+- 1 [[1 DIGITAL GARDEN/5.0 Ingredients/05.1 Creatures/Tincture of demiguise\|Tincture of demiguise]]
 
 **Flawed**:
 The duration is 1 minute, instead of 10 minutes.

@@ -10,6 +10,8 @@
 
 ## Used in:
 
+- [[1 DIGITAL GARDEN/4.0 Potions/Wiggenweld Potion\|Wiggenweld Potion]]
+- [[1 DIGITAL GARDEN/4.0 Potions/Vitamix Potion\|Vitamix Potion]]
 - [[1 DIGITAL GARDEN/4.0 Potions/Draught of Living Death\|Draught of Living Death]]
 
 { .block-language-dataview}

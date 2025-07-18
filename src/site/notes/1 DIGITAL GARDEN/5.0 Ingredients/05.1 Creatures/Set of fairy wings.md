@@ -10,6 +10,8 @@
 
 ## Used in:
 
+- [[1 DIGITAL GARDEN/4.0 Potions/Twilight Moonbeams\|Twilight Moonbeams]]
+- [[1 DIGITAL GARDEN/4.0 Potions/Girding Potion\|Girding Potion]]
 - [[1 DIGITAL GARDEN/4.0 Potions/Beautification Potion\|Beautification Potion]]
 - [[1 DIGITAL GARDEN/10.0 CREATURES/WW Bestiary/Fairy\|Fairy]]
 

@@ -15,10 +15,10 @@ If the magical plant is larger than a 5 foot cube, the affected area will wither
 
 ## Recipe:
 
-* 1 Flask of flobberworm mucus
-* 1 powdered lionfish spine
-* 1 powdered streeler shell
-* 1 vial of doxy eggs
+* 1 [[1 DIGITAL GARDEN/5.0 Ingredients/05.1 Creatures/Flask of flobberworm mucus\|Flask of flobberworm mucus]]
+* 1 [[1 DIGITAL GARDEN/5.0 Ingredients/05.1 Creatures/Powdered lionfish spine\|Powdered lionfish spine]]
+* 1 [[1 DIGITAL GARDEN/5.0 Ingredients/05.1 Creatures/Powdered streeler shell\|Powdered streeler shell]]
+* 1 [[1 DIGITAL GARDEN/5.0 Ingredients/05.1 Creatures/Vial of doxy eggs\|Vial of doxy eggs]]
 
 **Flawed**:
 None

@@ -16,9 +16,9 @@ A creature that ingests this poison must succeed on a DC 11 Constitution saving 
 
 ## Recipe:
 
-- 1 bundle of hemlock
-- 2 clusters of moonseed berries
-- 1 flask of pufferfish eyes
+- 1 [[1 DIGITAL GARDEN/5.0 Ingredients/05.1 Plants/Bundle of hemlock\|bundle of hemlock]]
+- 2 [[1 DIGITAL GARDEN/5.0 Ingredients/05.1 Plants/Cluster of moonseed berries\|Cluster of moonseed berries]]
+- 1 [[1 DIGITAL GARDEN/5.0 Ingredients/05.1 Creatures/Flask of pufferfish eyes\|flask of pufferfish eyes]]
 
 **Flawed**:
 The damage is 15 (6d4) instead of 21 (6d6), and the saving throw's DC is 9 instead of 11.

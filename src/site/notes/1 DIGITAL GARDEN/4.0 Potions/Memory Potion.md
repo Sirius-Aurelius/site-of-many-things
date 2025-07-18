@@ -16,9 +16,9 @@ You have advantage on Intelligence (Herbology), Intelligence (History of Magic) 
 
 ## Recipe:
 
-- 1 bundle of galanthus nivalis
-- 1 bundle of sneezewort
-- 1 jobberknoll feather
+- 1 [[1 DIGITAL GARDEN/5.0 Ingredients/05.1 Plants/Bundle of galanthus nivalis\|Bundle of galanthus nivalis]]
+- 1 [[1 DIGITAL GARDEN/5.0 Ingredients/05.1 Plants/Bundle of sneezewort\|Bundle of sneezewort]]
+- 1 [[1 DIGITAL GARDEN/5.0 Ingredients/05.1 Creatures/Jobberknoll feather\|Jobberknoll feather]]
 
 **Flawed**:
 The duration is 1 minute, instead of 10 minutes.

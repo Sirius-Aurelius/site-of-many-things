@@ -10,6 +10,7 @@
 
 ## Used in:
 
+- [[1 DIGITAL GARDEN/4.0 Potions/Weedosoros\|Weedosoros]]
 - [[1 DIGITAL GARDEN/4.0 Potions/Fatiguing Fusion\|Fatiguing Fusion]]
 - [[1 DIGITAL GARDEN/4.0 Potions/Essence of Insanity\|Essence of Insanity]]
 

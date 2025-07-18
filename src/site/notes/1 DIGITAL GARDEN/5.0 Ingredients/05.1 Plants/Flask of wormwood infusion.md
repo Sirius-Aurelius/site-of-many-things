@@ -10,6 +10,8 @@
 
 ## Used in:
 
+- [[1 DIGITAL GARDEN/4.0 Potions/Vitamix Potion\|Vitamix Potion]]
+- [[1 DIGITAL GARDEN/4.0 Potions/Shrinking Solution\|Shrinking Solution]]
 - [[1 DIGITAL GARDEN/4.0 Potions/Elixir to Induce Euphoria\|Elixir to Induce Euphoria]]
 
 { .block-language-dataview}

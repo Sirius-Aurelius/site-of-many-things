@@ -10,6 +10,8 @@
 
 ## Used in:
 
+- [[1 DIGITAL GARDEN/4.0 Potions/Strengthening Solution\|Strengthening Solution]]
+- [[1 DIGITAL GARDEN/4.0 Potions/Invigoration Draught\|Invigoration Draught]]
 - [[1 DIGITAL GARDEN/4.0 Potions/Fire Protection Potion\|Fire Protection Potion]]
 
 { .block-language-dataview}

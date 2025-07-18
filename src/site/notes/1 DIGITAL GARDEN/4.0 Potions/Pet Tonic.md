@@ -13,10 +13,10 @@ When this potion is given to a magical pet, all of its hit points are restored, 
 
 ## Recipe:
 
-- 1 bat spleen
-- 1 powdered vipers-flesh
-- 1 vial of fanged geranium fangs
-- 1 vial of rose oil
+- 1 [[1 DIGITAL GARDEN/5.0 Ingredients/05.1 Creatures/Bat spleen\|bat spleen]]
+- 1 [[1 DIGITAL GARDEN/5.0 Ingredients/05.1 Creatures/Powdered vipers-flesh\|Powdered vipers-flesh]]
+- 1 [[1 DIGITAL GARDEN/5.0 Ingredients/05.1 Plants/Vial of fanged geranium fangs\|Vial of fanged geranium fangs]]
+- 1 [[1 DIGITAL GARDEN/5.0 Ingredients/05.1 Mundane/Vial of rose oil\|Vial of rose oil]]
 
 **Flawed**:
 There are no temporary hit points gained

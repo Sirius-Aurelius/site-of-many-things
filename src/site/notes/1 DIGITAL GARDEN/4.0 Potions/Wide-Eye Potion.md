@@ -17,9 +17,9 @@ Also known as the Awakening Potion, drinking this potion removes up to two level
 
 ## Recipe:
 
-- 1 bundle of aconite
-- 1 powdered flying seahorse
-- 1 vial of billywig stings
+- 1 [[1 DIGITAL GARDEN/5.0 Ingredients/05.1 Plants/Bundle of aconite\|Bundle of aconite]]
+- 1 [[1 DIGITAL GARDEN/5.0 Ingredients/05.1 Creatures/Powdered flying seahorse\|Powdered flying seahorse]]
+- 1 [[1 DIGITAL GARDEN/5.0 Ingredients/05.1 Creatures/Vial of billywig stings\|Vial of billywig stings]]
 
 **Flawed**:
 One level of exhaustion is removed, instead of two.

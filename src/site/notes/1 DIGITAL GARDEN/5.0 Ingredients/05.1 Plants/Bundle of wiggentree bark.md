@@ -10,6 +10,7 @@
 
 ## Used in:
 
+- [[1 DIGITAL GARDEN/4.0 Potions/Wiggenweld Potion\|Wiggenweld Potion]]
 - [[1 DIGITAL GARDEN/4.0 Potions/Blood-Replenishing Potion\|Blood-Replenishing Potion]]
 
 { .block-language-dataview}

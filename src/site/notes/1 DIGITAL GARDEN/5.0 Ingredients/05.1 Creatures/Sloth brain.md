@@ -10,6 +10,8 @@
 
 ## Used in:
 
+- [[1 DIGITAL GARDEN/4.0 Potions/Wit-Sharpening Potion\|Wit-Sharpening Potion]]
+- [[1 DIGITAL GARDEN/4.0 Potions/Veritaserum\|Veritaserum]]
 - [[1 DIGITAL GARDEN/4.0 Potions/Draught of Living Death\|Draught of Living Death]]
 
 { .block-language-dataview}

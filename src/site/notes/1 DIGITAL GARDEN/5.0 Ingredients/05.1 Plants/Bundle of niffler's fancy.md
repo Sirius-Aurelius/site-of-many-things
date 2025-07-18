@@ -10,6 +10,7 @@
 
 ## Used in:
 
+- [[1 DIGITAL GARDEN/4.0 Potions/Wolfsbane Potion\|Wolfsbane Potion]]
 - [[1 DIGITAL GARDEN/4.0 Potions/Felix Felicis\|Felix Felicis]]
 
 { .block-language-dataview}

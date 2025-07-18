@@ -10,6 +10,7 @@
 
 ## Used in:
 
+- [[1 DIGITAL GARDEN/4.0 Potions/Twilight Moonbeams\|Twilight Moonbeams]]
 - [[1 DIGITAL GARDEN/4.0 Potions/Beautification Potion\|Beautification Potion]]
 
 { .block-language-dataview}

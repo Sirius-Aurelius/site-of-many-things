@@ -18,11 +18,11 @@ A creature that ingests this poison must make a DC 15 Constitution saving throw,
 
 ## Recipe:
 
-* 1 bundle of hemlock
-* 1 bundle of valerian roots
-* 1 bundle of weed-of-sorrows
-* 1 vial of belladonna essence
-* 1 vial of syrup of arnica
+* 1 [[1 DIGITAL GARDEN/5.0 Ingredients/05.1 Plants/Bundle of hemlock\|Bundle of hemlock]]
+* 1 [[1 DIGITAL GARDEN/5.0 Ingredients/05.1 Plants/Bundle of valerian roots\|Bundle of valerian roots]]
+* 1 [[1 DIGITAL GARDEN/5.0 Ingredients/05.1 Plants/Bundle of weed-of-sorrows\|Bundle of weed-of-sorrows]]
+* 1 [[1 DIGITAL GARDEN/5.0 Ingredients/05.1 Plants/Vial of belladonna essence\|Vial of belladonna essence]]
+* 1 [[1 DIGITAL GARDEN/5.0 Ingredients/05.1 Plants/Vial of syrup of arnica\|Vial of syrup of arnica]]
 
 **Flawed**:
 The damage is 35 (14d4) instead of 49 (14d6), and the saving throw's DC is 13 instead of 15.

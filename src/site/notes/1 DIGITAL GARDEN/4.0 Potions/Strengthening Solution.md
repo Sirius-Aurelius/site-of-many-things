@@ -16,9 +16,9 @@ None
 
 ## Recipe:
 
-* 1 flask of re'em blood
-* 1 vial of fanged geranium fangs
-* 1 vial of salamander blood
+* 1 [[1 DIGITAL GARDEN/5.0 Ingredients/05.1 Creatures/Flask of re'em blood\|Flask of re'em blood]]
+* 1 [[1 DIGITAL GARDEN/5.0 Ingredients/05.1 Plants/Vial of fanged geranium fangs\|Vial of fanged geranium fangs]]
+* 1 [[1 DIGITAL GARDEN/5.0 Ingredients/05.1 Creatures/Vial of salamander blood\|Vial of salamander blood]]
 
 **Flawed**:
 The duration is 10 minutes instead of 1 hour.

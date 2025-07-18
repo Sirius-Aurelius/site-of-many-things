@@ -10,6 +10,7 @@
 
 ## Used in:
 
+- [[1 DIGITAL GARDEN/4.0 Potions/Pepperup Potion\|Pepperup Potion]]
 - [[1 DIGITAL GARDEN/4.0 Potions/Garrotting Gas\|Garrotting Gas]]
 - [[1 DIGITAL GARDEN/4.0 Potions/Confusing Concoction\|Confusing Concoction]]
 - [[1 DIGITAL GARDEN/4.0 Potions/Babbling Beverage\|Babbling Beverage]]

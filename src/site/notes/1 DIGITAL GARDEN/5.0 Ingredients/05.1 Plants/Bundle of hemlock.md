@@ -10,6 +10,8 @@
 
 ## Used in:
 
+- [[1 DIGITAL GARDEN/4.0 Potions/Weedosoros\|Weedosoros]]
+- [[1 DIGITAL GARDEN/4.0 Potions/Moonseed Poison\|Moonseed Poison]]
 - [[1 DIGITAL GARDEN/4.0 Potions/Doxycide\|Doxycide]]
 
 { .block-language-dataview}

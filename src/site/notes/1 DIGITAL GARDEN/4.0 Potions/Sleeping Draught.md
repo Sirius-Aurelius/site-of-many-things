@@ -21,9 +21,9 @@ None
 
 ## Recipe:
 
-- 1 bundle of angel's trumpet
-- 1 bundle of scurvy grass
-- 1 flask of flobberworm mucus
+- 1 [[1 DIGITAL GARDEN/5.0 Ingredients/05.1 Plants/Bundle of angel's trumpet\|Bundle of angel's trumpet]]
+- 1 [[1 DIGITAL GARDEN/5.0 Ingredients/05.1 Plants/Bundle of scurvy grass\|Bundle of scurvy grass]]
+- 1 [[1 DIGITAL GARDEN/5.0 Ingredients/05.1 Creatures/Flask of flobberworm mucus\|Flask of flobberworm mucus]]
 
 **Flawed**:
 After 1 hour, you immediately awaken.

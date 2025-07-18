@@ -13,8 +13,8 @@ None
 
 ## Recipe:
 
-* 2 murtlap tentacles
-* 1 vial of spirit of myrrh
+* 2 [[1 DIGITAL GARDEN/5.0 Ingredients/05.1 Creatures/Murtlap tentacle\|Murtlap tentacle]]
+* 1 [[1 DIGITAL GARDEN/5.0 Ingredients/05.1 Plants/Vial of spirit of myrrh\|Vial of spirit of myrrh]]
 
 **Flawed**:
 The hit points healed are 4d4, instead of 4d4+4.

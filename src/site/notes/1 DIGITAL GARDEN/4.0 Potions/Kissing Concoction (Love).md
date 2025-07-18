@@ -14,14 +14,14 @@ If the brewer uses a bonus action to tell the charmed subject where the chosen b
 
 
 ### Cured by:
-
+- [[1 DIGITAL GARDEN/4.0 Potions/Hate Potion (Love)\|Hate Potion (Love)]]
 
 ## Recipe:
 
-- 1 bundle of alihotsy leaves
-- 1 cluster of mistletoe berries
-- 1 powdered moonstone
-- 2 vials of pearl dust
+- 1 [[1 DIGITAL GARDEN/5.0 Ingredients/05.1 Plants/Bundle of alihotsy leaves\|Bundle of alihotsy leaves]]
+- 1 [[1 DIGITAL GARDEN/5.0 Ingredients/05.1 Plants/Cluster of mistletoe berries\|Cluster of mistletoe berries]]
+- 1 [[1 DIGITAL GARDEN/5.0 Ingredients/05.1 Mundane/Powdered moonstone\|Powdered moonstone]]
+- 2 [[1 DIGITAL GARDEN/5.0 Ingredients/05.1 Mundane/Vial of pearl dust\|Vial of pearl dust]]
 
 
 **Flawed**:

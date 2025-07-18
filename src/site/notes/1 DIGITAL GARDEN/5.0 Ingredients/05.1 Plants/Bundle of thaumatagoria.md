@@ -10,6 +10,7 @@
 
 ## Used in:
 
+- [[1 DIGITAL GARDEN/4.0 Potions/Veritaserum\|Veritaserum]]
 
 { .block-language-dataview}
 

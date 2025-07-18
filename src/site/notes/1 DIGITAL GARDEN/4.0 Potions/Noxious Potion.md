@@ -21,9 +21,9 @@ None
 
 ## Recipe:
 
-- 1 bundle of angel's trumpet
-* 1 cluster of moonseed berries
-* 1 vial of syrup of hellebore
+- 1 [[1 DIGITAL GARDEN/5.0 Ingredients/05.1 Plants/Bundle of angel's trumpet\|Bundle of angel's trumpet]]
+* 1 [[1 DIGITAL GARDEN/5.0 Ingredients/05.1 Plants/Cluster of moonseed berries\|Cluster of moonseed berries]]
+* 1 [[1 DIGITAL GARDEN/5.0 Ingredients/05.1 Plants/Vial of syrup of hellebore\|Vial of syrup of hellebore]]
 
 **Flawed**:
 The saving throw's DC is 10, instead of 13.

@@ -16,12 +16,12 @@ When a lycanthrope drinks this potion once a day for the entire week before the 
 
 ## Recipe:
 
-- 1 bundle of aconite
-- 1 bundle of niffler's fancy
-- 2 clutches of runespoor eggs
-- 1 dragon liver
-- 1 powdered graphorn horn
-- 1 powdered unicorn horn
+- 1 [[1 DIGITAL GARDEN/5.0 Ingredients/05.1 Plants/Bundle of aconite\|Bundle of aconite]]
+- 1 [[1 DIGITAL GARDEN/5.0 Ingredients/05.1 Plants/Bundle of niffler's fancy\|Bundle of niffler's fancy]]
+- 2 [[1 DIGITAL GARDEN/5.0 Ingredients/05.1 Creatures/Clutch of runespoor eggs\|Clutch of runespoor eggs]]
+- 1 [[1 DIGITAL GARDEN/5.0 Ingredients/05.1 Creatures/Dragon liver\|Dragon liver]]
+- 1 [[1 DIGITAL GARDEN/5.0 Ingredients/05.1 Creatures/Powdered graphorn horn\|Powdered graphorn horn]]
+- 1 [[1 DIGITAL GARDEN/5.0 Ingredients/05.1 Creatures/Powdered unicorn horn\|Powdered unicorn horn]]
 
 **Flawed**:
 A second dose must be administered for this day.

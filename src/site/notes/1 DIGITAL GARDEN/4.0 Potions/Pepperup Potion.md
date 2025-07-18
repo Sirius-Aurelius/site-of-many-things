@@ -15,10 +15,10 @@ One level of exhaustion is removed for the duration, but it is regained at the e
 
 ## Recipe:
 
-* 1 cluster of boom berries
-* 1 flask of ethanol
-* 1 flask of vervain infusion
-* 1 powdered octopus
+* 1 [[1 DIGITAL GARDEN/5.0 Ingredients/05.1 Plants/Cluster of boom berries\|Cluster of boom berries]]
+* 1 [[1 DIGITAL GARDEN/5.0 Ingredients/05.1 Mundane/Flask of ethanol\|Flask of ethanol]]
+* 1 [[1 DIGITAL GARDEN/5.0 Ingredients/05.1 Plants/Flask of vervain infusion\|Flask of vervain infusion]]
+* 1 [[1 DIGITAL GARDEN/5.0 Ingredients/05.1 Creatures/Powdered octopus\|Powdered octopus]]
 
 **Flawed**:
 The duration is 10 minutes, instead of 1 hour.

@@ -9,6 +9,7 @@
 **Likely Habitats::** * Damp meadows * Riverbanks and marshes * Shaded, waterlogged areas
 
 ## Used in:
+- [[1 DIGITAL GARDEN/4.0 Potions/Shrinking Solution\|Shrinking Solution]]
 - [[1 DIGITAL GARDEN/4.0 Potions/Doxycide\|Doxycide]]
 - [[1 DIGITAL GARDEN/4.0 Potions/Baneberry Poison\|Baneberry Poison]]
 

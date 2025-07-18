@@ -13,9 +13,9 @@ None
 
 ## Recipe:
 
-* 1 set of fairy wings
-* 1 powdered flying seahorse
-* 1 vial of doxy eggs
+* 1 [[1 DIGITAL GARDEN/5.0 Ingredients/05.1 Creatures/Set of fairy wings\|Set of fairy wings]]
+* 1 [[1 DIGITAL GARDEN/5.0 Ingredients/05.1 Creatures/Powdered flying seahorse\|Powdered flying seahorse]]
+* 1 [[1 DIGITAL GARDEN/5.0 Ingredients/05.1 Creatures/Vial of doxy eggs\|Vial of doxy eggs]]
 
 **Flawed**:
 The duration is 10 minutes instead of 1 hour

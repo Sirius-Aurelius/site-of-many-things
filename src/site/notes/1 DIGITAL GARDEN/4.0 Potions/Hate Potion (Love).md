@@ -16,7 +16,7 @@ When a being drinks this potion, they view a chosen being as their most hated en
 - [[1 DIGITAL GARDEN/4.0 Potions/Cupid Crystals (Love)\|Cupid Crystals (Love)]]
 - [[1 DIGITAL GARDEN/4.0 Potions/Gregory's Unctuous Unction (Love)\|Gregory's Unctuous Unction (Love)]]
 - [[1 DIGITAL GARDEN/4.0 Potions/Heartbreak Teardrops (Love)\|Heartbreak Teardrops (Love)]]
-- [[TBD Kissing Concoction\|TBD Kissing Concoction]]
+- [[1 DIGITAL GARDEN/4.0 Potions/Kissing Concoction (Love)\|Kissing Concoction (Love)]]
 - [[1 DIGITAL GARDEN/4.0 Potions/Twilight Moonbeams\|Twilight Moonbeams]]
 
 ### Cured by:

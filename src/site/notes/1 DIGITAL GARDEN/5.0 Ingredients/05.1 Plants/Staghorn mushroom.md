@@ -10,6 +10,8 @@
 
 ## Used in:
 
+- [[1 DIGITAL GARDEN/4.0 Potions/Wound-Cleaning Potion\|Wound-Cleaning Potion]]
+- [[1 DIGITAL GARDEN/4.0 Potions/Hiccoughing Solution\|Hiccoughing Solution]]
 - [[1 DIGITAL GARDEN/4.0 Potions/Fungiface Potion\|Fungiface Potion]]
 
 { .block-language-dataview}

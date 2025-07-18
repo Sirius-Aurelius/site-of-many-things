@@ -18,12 +18,13 @@ The potion works for part-humans, but not less-than-half-humans. The consistency
 
 ## Recipe:
 
-- 1 boomslang skin
-* 1 bundle of full-moon fluxweed
-* 2 bundles of knotgrass
-* 1 flask of lacewing flies
-* 1 powdered bicorn horn
-* 1 sopophorous bean
+- 1 [[1 DIGITAL GARDEN/5.0 Ingredients/05.1 Creatures/Boomslang skin\|boomslang skin]]
+* 1 [[1 DIGITAL GARDEN/5.0 Ingredients/05.1 Plants/Bundle of full-moon fluxweed\|Bundle of full-moon fluxweed]]
+* 2 [[1 DIGITAL GARDEN/5.0 Ingredients/05.1 Plants/Bundle of knotgrass\|Bundle of knotgrass]]
+* 1 [[1 DIGITAL GARDEN/5.0 Ingredients/05.1 Creatures/Flask of lacewing flies\|Flask of lacewing flies]]
+* 1 [[1 DIGITAL GARDEN/5.0 Ingredients/05.1 Creatures/Powdered bicorn horn\|Powdered bicorn horn]]
+* 1 [[1 DIGITAL GARDEN/5.0 Ingredients/05.1 Plants/Sopophorous bean\|Sopophorous bean]]
+- A DNA sample from your intended target
 
 **Flawed**:
 The duration is 30 minutes, instead of 1 hour.

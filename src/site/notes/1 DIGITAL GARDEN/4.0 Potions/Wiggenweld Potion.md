@@ -18,9 +18,9 @@ This healing potion is the antidote for magically induced sleep, immediately wak
 
 ## Recipe:
 
-* 1 bundle of wiggentree bark
-* 1 flask of honeywater
-* 1 powdered root of asphodel
+* 1 [[1 DIGITAL GARDEN/5.0 Ingredients/05.1 Plants/Bundle of wiggentree bark\|Bundle of wiggentree bark]]
+* 1 [[1 DIGITAL GARDEN/5.0 Ingredients/05.1 Mundane/Flask of honeywater\|Flask of honeywater]]
+* 1 [[1 DIGITAL GARDEN/5.0 Ingredients/05.1 Plants/Powdered root of asphodel\|Powdered root of asphodel]]
 
 **Flawed**:
 The potion is not an Antidote to Draught of Living Death.

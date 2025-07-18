@@ -10,6 +10,7 @@
 
 ## Used in:
 
+- [[1 DIGITAL GARDEN/4.0 Potions/Invisibility Potion\|Invisibility Potion]]
 - [[1 DIGITAL GARDEN/4.0 Potions/Essence of Dittany\|Essence of Dittany]]
 - [[1 DIGITAL GARDEN/4.0 Potions/Draught of Living Death\|Draught of Living Death]]
 - [[1 DIGITAL GARDEN/4.0 Potions/Death-Cap Draught\|Death-Cap Draught]]

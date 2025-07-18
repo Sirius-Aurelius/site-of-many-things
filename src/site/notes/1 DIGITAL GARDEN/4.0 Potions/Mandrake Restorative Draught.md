@@ -18,9 +18,9 @@ When this healing potion is administered, it ends one of the following effects o
 
 ## Recipe:
 
-* 3 mandrake roots
-* 1 vial of chizpurfle carapaces
-* 1 vial of spirit of myrrh
+* 3 [[1 DIGITAL GARDEN/5.0 Ingredients/05.1 Plants/Mandrake root\|Mandrake root]]
+* 1 [[1 DIGITAL GARDEN/5.0 Ingredients/05.1 Creatures/Vial of chizpurfle carapaces\|Vial of chizpurfle carapaces]]
+* 1 [[1 DIGITAL GARDEN/5.0 Ingredients/05.1 Plants/Vial of spirit of myrrh\|Vial of spirit of myrrh]]
 
 **Flawed**:
 The potion loses its untransfiguration effect

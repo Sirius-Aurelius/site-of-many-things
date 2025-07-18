@@ -10,6 +10,8 @@
 
 ## Used in:
 
+- [[1 DIGITAL GARDEN/4.0 Potions/Pepperup Potion\|Pepperup Potion]]
+- [[1 DIGITAL GARDEN/4.0 Potions/Heartbreak Teardrops (Love)\|Heartbreak Teardrops (Love)]]
 
 { .block-language-dataview}
 

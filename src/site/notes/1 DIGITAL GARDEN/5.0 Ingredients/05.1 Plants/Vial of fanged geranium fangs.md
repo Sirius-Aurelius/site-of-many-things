@@ -10,6 +10,9 @@
 
 ## Used in:
 
+- [[1 DIGITAL GARDEN/4.0 Potions/Strengthening Solution\|Strengthening Solution]]
+- [[1 DIGITAL GARDEN/4.0 Potions/Regerminating Potion\|Regerminating Potion]]
+- [[1 DIGITAL GARDEN/4.0 Potions/Pet Tonic\|Pet Tonic]]
 
 { .block-language-dataview}
 

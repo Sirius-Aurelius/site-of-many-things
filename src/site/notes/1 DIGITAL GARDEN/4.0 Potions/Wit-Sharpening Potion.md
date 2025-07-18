@@ -21,11 +21,11 @@ When you drink this potion, your brain's neurological functioning is maximized, 
 
 ## Recipe:
 
-- 1 clutch of runespoor eggs
-* 1 newt spleen
-* 1 powdered dragon claw
-* 1 powdered scarab beetle
-* 1 sloth brain
+- 1 [[1 DIGITAL GARDEN/5.0 Ingredients/05.1 Creatures/Clutch of runespoor eggs\|Clutch of runespoor eggs]]
+* 1 [[1 DIGITAL GARDEN/5.0 Ingredients/05.1 Creatures/Newt spleen\|Newt spleen]]
+* 1 [[1 DIGITAL GARDEN/5.0 Ingredients/05.1 Creatures/Powdered dragon claw\|Powdered dragon claw]]
+* 1 [[1 DIGITAL GARDEN/5.0 Ingredients/05.1 Creatures/Powdered scarab beetle\|Powdered scarab beetle]]
+* 1 [[1 DIGITAL GARDEN/5.0 Ingredients/05.1 Creatures/Sloth brain\|Sloth brain]]
 
 **Flawed**:
 The duration is 10 minutes, instead of 1 hour.

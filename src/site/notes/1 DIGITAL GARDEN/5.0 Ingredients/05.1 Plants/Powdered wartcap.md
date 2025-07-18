@@ -10,6 +10,7 @@
 
 ## Used in:
 
+- [[1 DIGITAL GARDEN/4.0 Potions/Hiccoughing Solution\|Hiccoughing Solution]]
 - [[1 DIGITAL GARDEN/4.0 Potions/Garrotting Gas\|Garrotting Gas]]
 - [[1 DIGITAL GARDEN/4.0 Potions/Fire Protection Potion\|Fire Protection Potion]]
 

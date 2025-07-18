@@ -10,6 +10,7 @@
 
 ## Used in:
 
+- [[1 DIGITAL GARDEN/4.0 Potions/Strengthening Solution\|Strengthening Solution]]
 - [[1 DIGITAL GARDEN/4.0 Potions/Exstimulo Potion\|Exstimulo Potion]]
 - [[1 DIGITAL GARDEN/10.0 CREATURES/WW Bestiary/Re'em\|Re'em]]
 

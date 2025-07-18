@@ -10,6 +10,7 @@
 
 ## Used in:
 
+- [[1 DIGITAL GARDEN/4.0 Potions/Polyjuice Potion\|Polyjuice Potion]]
 - [[1 DIGITAL GARDEN/4.0 Potions/Blood-Replenishing Potion\|Blood-Replenishing Potion]]
 - [[1 DIGITAL GARDEN/10.0 CREATURES/WW Bestiary/Bicorn\|Bicorn]]
 

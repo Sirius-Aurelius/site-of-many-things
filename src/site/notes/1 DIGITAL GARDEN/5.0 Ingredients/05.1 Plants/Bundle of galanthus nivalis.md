@@ -10,6 +10,8 @@
 
 ## Used in:
 
+- [[1 DIGITAL GARDEN/4.0 Potions/Regerminating Potion\|Regerminating Potion]]
+- [[1 DIGITAL GARDEN/4.0 Potions/Memory Potion\|Memory Potion]]
 - [[1 DIGITAL GARDEN/4.0 Potions/Exstimulo Potion\|Exstimulo Potion]]
 - [[1 DIGITAL GARDEN/4.0 Potions/Antidote of Common Poisons\|Antidote of Common Poisons]]
 

@@ -10,6 +10,8 @@
 
 ## Used in:
 
+- [[1 DIGITAL GARDEN/4.0 Potions/Mandrake Restorative Draught\|Mandrake Restorative Draught]]
+- [[1 DIGITAL GARDEN/4.0 Potions/Invigoration Draught\|Invigoration Draught]]
 
 { .block-language-dataview}
 

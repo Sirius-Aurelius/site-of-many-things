@@ -18,11 +18,11 @@ If the next rest you take is a short rest, you regain hit points equal to half y
 
 ## Recipe:
 
-- 1 chinese chomping cabbage
-* 1 flask of pufferfish eyes
-* 1 murtlap tentacle
-* 1 powdered griffin claw
-* 1 powdered scarab beetle
+- 1 [[1 DIGITAL GARDEN/5.0 Ingredients/05.1 Plants/Chinese chomping cabbage\|Chinese chomping cabbage]]
+* 1 [[1 DIGITAL GARDEN/5.0 Ingredients/05.1 Creatures/Flask of pufferfish eyes\|Flask of pufferfish eyes]]
+* 1 [[1 DIGITAL GARDEN/5.0 Ingredients/05.1 Creatures/Murtlap tentacle\|Murtlap tentacle]]
+* 1 [[1 DIGITAL GARDEN/5.0 Ingredients/05.1 Creatures/Powdered griffin claw\|Powdered griffin claw]]
+* 1 [[1 DIGITAL GARDEN/5.0 Ingredients/05.1 Creatures/Powdered scarab beetle\|Powdered scarab beetle]]
 
 **Flawed**:
 The temporary hit points gained are equal to your caster level, instead of twice your caster level.

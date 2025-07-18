@@ -10,6 +10,7 @@
 
 ## Used in:
 
+- [[1 DIGITAL GARDEN/4.0 Potions/Twilight Moonbeams\|Twilight Moonbeams]]
 - [[1 DIGITAL GARDEN/4.0 Potions/Forgetfulness Potion\|Forgetfulness Potion]]
 - [[1 DIGITAL GARDEN/4.0 Potions/Dr Ubbly's Oblivious Unction\|Dr Ubbly's Oblivious Unction]]
 

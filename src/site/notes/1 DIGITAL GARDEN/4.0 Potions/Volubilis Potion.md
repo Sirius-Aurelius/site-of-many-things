@@ -18,9 +18,9 @@ It magically alters your voice to sound like someone else's, or if your voice is
 
 ## Recipe:
 
-- 1 flask of honeywater
-- 1 jobberknoll feather
-- 1 vial of syrup of hellebore
+- 1 [[1 DIGITAL GARDEN/5.0 Ingredients/05.1 Mundane/Flask of honeywater\|Flask of honeywater]]
+- 1 [[1 DIGITAL GARDEN/5.0 Ingredients/05.1 Creatures/Jobberknoll feather\|Jobberknoll feather]]
+- 1 [[1 DIGITAL GARDEN/5.0 Ingredients/05.1 Plants/Vial of syrup of hellebore\|Vial of syrup of hellebore]]
 
 **Flawed**:
 The duration is 5 minutes instead of 10 minutes.

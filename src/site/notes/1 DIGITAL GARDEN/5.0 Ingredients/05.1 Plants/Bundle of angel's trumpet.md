@@ -10,6 +10,8 @@
 
 ## Used in:
 
+- [[1 DIGITAL GARDEN/4.0 Potions/Sleeping Draught\|Sleeping Draught]]
+- [[1 DIGITAL GARDEN/4.0 Potions/Noxious Potion\|Noxious Potion]]
 - [[1 DIGITAL GARDEN/4.0 Potions/Fatiguing Fusion\|Fatiguing Fusion]]
 - [[1 DIGITAL GARDEN/4.0 Potions/Death-Cap Draught\|Death-Cap Draught]]
 

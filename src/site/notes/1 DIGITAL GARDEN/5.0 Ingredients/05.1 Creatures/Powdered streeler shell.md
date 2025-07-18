@@ -10,6 +10,7 @@
 
 ## Used in:
 
+- [[1 DIGITAL GARDEN/4.0 Potions/Herbicide Potion\|Herbicide Potion]]
 - [[1 DIGITAL GARDEN/4.0 Potions/Doxycide\|Doxycide]]
 - [[1 DIGITAL GARDEN/4.0 Potions/Bloodroot Poison\|Bloodroot Poison]]
 - [[1 DIGITAL GARDEN/10.0 CREATURES/WW Bestiary/Streeler\|Streeler]]

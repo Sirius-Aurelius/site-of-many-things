@@ -12,10 +12,10 @@ None
 
 ## Recipe:
 
-- 1 powdered lionfish spine
-- 1 powdered vipers-flesh
-- 1 powdered wartcap
-- 1 staghorn mushroom
+- 1 [[1 DIGITAL GARDEN/5.0 Ingredients/05.1 Creatures/Powdered lionfish spine\|Powdered lionfish spine]]
+- 1 [[1 DIGITAL GARDEN/5.0 Ingredients/05.1 Creatures/Powdered vipers-flesh\|Powdered vipers-flesh]]
+- 1 [[1 DIGITAL GARDEN/5.0 Ingredients/05.1 Plants/Powdered wartcap\|Powdered wartcap]]
+- 1 [[1 DIGITAL GARDEN/5.0 Ingredients/05.1 Plants/Staghorn mushroom\|Staghorn mushroom]]
 
 **Flawed**:
 The duration is 10 minutes, instead of 1 hour.

@@ -10,6 +10,7 @@
 
 ## Used in:
 
+- [[1 DIGITAL GARDEN/4.0 Potions/Shrinking Solution\|Shrinking Solution]]
 - [[1 DIGITAL GARDEN/4.0 Potions/Fungiface Potion\|Fungiface Potion]]
 
 { .block-language-dataview}

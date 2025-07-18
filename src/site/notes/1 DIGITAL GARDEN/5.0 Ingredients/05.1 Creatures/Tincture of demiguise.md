@@ -10,6 +10,7 @@
 
 ## Used in:
 
+- [[1 DIGITAL GARDEN/4.0 Potions/Veritaserum\|Veritaserum]]
 - [[1 DIGITAL GARDEN/10.0 CREATURES/WW Bestiary/Demiguise\|Demiguise]]
 
 { .block-language-dataview}

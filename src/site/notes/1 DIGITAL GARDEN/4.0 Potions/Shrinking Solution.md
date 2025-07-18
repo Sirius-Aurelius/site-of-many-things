@@ -17,10 +17,10 @@ When you drink this potion, you gain the effects of the [[1 DIGITAL GARDEN/3.0 S
 
 ## Recipe:
 
-- 1 bundle of cowbane
-- 1 bundle of shrivelfigs
-- 1 flask of wormwood infusion
-- 1 vial of woodlice extract
+- 1 [[1 DIGITAL GARDEN/5.0 Ingredients/05.1 Plants/Bundle of cowbane\|Bundle of cowbane]]
+- 1 [[1 DIGITAL GARDEN/5.0 Ingredients/05.1 Plants/Bundle of shrivelfigs\|Bundle of shrivelfigs]]
+- 1 [[1 DIGITAL GARDEN/5.0 Ingredients/05.1 Plants/Flask of wormwood infusion\|Flask of wormwood infusion]]
+- 1 [[1 DIGITAL GARDEN/5.0 Ingredients/05.1 Creatures/Vial of woodlice extract\|Vial of woodlice extract]]
 
 **Flawed**:
 The duration 1d4 is divided by 2 (rounded up)

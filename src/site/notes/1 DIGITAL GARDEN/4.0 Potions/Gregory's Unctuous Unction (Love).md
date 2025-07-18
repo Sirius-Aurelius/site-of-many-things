@@ -16,9 +16,9 @@ None
 
 ## Recipe:
 
-- 1 abraxan Hair
-- 1 bundle of poppy heads
-- 1 bundle of scurvy grass
+- 1 [[1 DIGITAL GARDEN/5.0 Ingredients/05.1 Creatures/Abraxan hair\|Abraxan hair]]
+- 1 [[1 DIGITAL GARDEN/5.0 Ingredients/05.1 Plants/Bundle of poppy heads\|Bundle of poppy heads]]
+- 1 [[1 DIGITAL GARDEN/5.0 Ingredients/05.1 Plants/Bundle of scurvy grass\|Bundle of scurvy grass]]
 
 **Flawed**:
 The duration is 10 minutes, instead of 1 hour.

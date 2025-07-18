@@ -10,6 +10,8 @@
 
 ## Used in:
 
+- [[1 DIGITAL GARDEN/4.0 Potions/Wit-Sharpening Potion\|Wit-Sharpening Potion]]
+- [[1 DIGITAL GARDEN/4.0 Potions/Oculus Potion\|Oculus Potion]]
 - [[1 DIGITAL GARDEN/4.0 Potions/Aging Potion\|Aging Potion]]
 
 { .block-language-dataview}
