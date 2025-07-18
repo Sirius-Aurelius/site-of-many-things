@@ -15,7 +15,7 @@ None
 
 ## Recipe:
 
-- 1 [[Bundle of Gillyweed\|Bundle of Gillyweed]]
+- 1 [[1 DIGITAL GARDEN/5.0 Ingredients/05.1 Plants/Bundle of Gillyweed\|Bundle of Gillyweed]]
 
 **Flawed**:
 The duration is 30 minutes, instead of 1 hour.

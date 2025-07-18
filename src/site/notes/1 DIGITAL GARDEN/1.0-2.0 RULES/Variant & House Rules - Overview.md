@@ -43,6 +43,7 @@
 - [[1 DIGITAL GARDEN/1.0-2.0 RULES/1.0 Variant Rules/01.11 Potion-making\|01.11 Potion-making]]
 - [[1 DIGITAL GARDEN/1.0-2.0 RULES/1.0 Variant Rules/01.12 Dark Magic Corruption\|01.12 Dark Magic Corruption]]
 - [[1 DIGITAL GARDEN/1.0-2.0 RULES/1.0 Variant Rules/01.13 Downtime Mechanics\|01.13 Downtime Mechanics]]
+- [[1 DIGITAL GARDEN/1.0-2.0 RULES/1.0 Variant Rules/01.14 House Points\|01.14 House Points]]
 
 { .block-language-dataview}
 
