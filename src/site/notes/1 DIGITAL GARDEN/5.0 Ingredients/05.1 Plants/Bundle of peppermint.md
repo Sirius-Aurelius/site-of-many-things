@@ -12,8 +12,8 @@
 
 - [[1 DIGITAL GARDEN/4.0 Potions/Heartbreak Teardrops (Love)\|Heartbreak Teardrops (Love)]]
 - [[1 DIGITAL GARDEN/4.0 Potions/Elixir to Induce Euphoria\|Elixir to Induce Euphoria]]
-- [[1 DIGITAL GARDEN/4.0 Potions/Cupid Crystals (Love)\|Cupid Crystals (Love)]]
 - [[1 DIGITAL GARDEN/4.0 Potions/Beguiling Bubbles (Love)\|Beguiling Bubbles (Love)]]
+- [[1 DIGITAL GARDEN/4.0 Potions/Cupid Crystals (Love)\|Cupid Crystals (Love)]]
 
 { .block-language-dataview}
 

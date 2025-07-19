@@ -47,7 +47,6 @@
 
 { .block-language-dataview}
 
-
 # 2.1 House Rules
 - [[1 DIGITAL GARDEN/1.0-2.0 RULES/2.0 HOUSE RULES/02.02 Cinematic Advantage\|02.02 Cinematic Advantage]]
 - [[1 DIGITAL GARDEN/1.0-2.0 RULES/2.0 HOUSE RULES/02.03 Potions as a Bonus Action OR Full Action\|02.03 Potions as a Bonus Action OR Full Action]]

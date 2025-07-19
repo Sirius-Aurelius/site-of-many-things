@@ -11,8 +11,8 @@
 ## Used in:
 
 - [[1 DIGITAL GARDEN/4.0 Potions/Wolfsbane Potion\|Wolfsbane Potion]]
-- [[1 DIGITAL GARDEN/4.0 Potions/Wide-Eye Potion\|Wide-Eye Potion]]
 - [[1 DIGITAL GARDEN/4.0 Potions/Vitamix Potion\|Vitamix Potion]]
+- [[1 DIGITAL GARDEN/4.0 Potions/Wide-Eye Potion\|Wide-Eye Potion]]
 
 { .block-language-dataview}
 
