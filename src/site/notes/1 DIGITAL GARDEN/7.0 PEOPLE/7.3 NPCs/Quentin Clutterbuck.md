@@ -4,7 +4,7 @@
 
 >[!info] 
 >[[ ==CHARACTER PORTRAIT HERE (with |left|300)==
->**Role**:: Professor of Ancient Runes at [[1 DIGITAL GARDEN/8.0 PLACES/8.2 Hogwarts School/8.2.0 Hogwarts School - Overview\|Hogwarts School of Witchcraft & Wizadry]]
+>**Role**:: Professor of Ancient Runes at [[1 DIGITAL GARDEN/8.0 PLACES/8.2 Hogwarts School/8.2.0 Hogwarts School - Overview\|Hogwarts School of Witchcraft & Wizardry]]
 >**3 Word Summary**:: Precise, deep, elderly-spry
 >**Usually found in**:: [location links here]
 

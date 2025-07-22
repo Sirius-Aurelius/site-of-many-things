@@ -56,6 +56,7 @@
 - [[1 DIGITAL GARDEN/1.0-2.0 RULES/2.0 HOUSE RULES/02.08 Critical Hits\|02.08 Critical Hits]]
 - [[1 DIGITAL GARDEN/1.0-2.0 RULES/2.0 HOUSE RULES/02.09 Critical Fails\|02.09 Critical Fails]]
 - [[1 DIGITAL GARDEN/1.0-2.0 RULES/2.0 HOUSE RULES/02.99 Loyalty (NPCs)\|02.99 Loyalty (NPCs)]]
+- [[1 DIGITAL GARDEN/1.0-2.0 RULES/2.0 HOUSE RULES/Long rests only in a place of safety\|Long rests only in a place of safety]]
 
 { .block-language-dataview}
 

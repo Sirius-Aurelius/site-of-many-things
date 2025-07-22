@@ -4,9 +4,9 @@
 
 >[!info] 
 >[[ ==CHARACTER PORTRAIT HERE (with |left|300)==
->**Role**:: [About this person text here]
->**3 Word Summary**:: *Personality summary here*
->**Usually found in**:: [location links here]
+>**Role**:: Care of Magical Creatures Professor at [[1 DIGITAL GARDEN/8.0 PLACES/8.2 Hogwarts School/8.2.0 Hogwarts School - Overview\|Hogwarts School of Witchcraft & Wizardry]]
+>**3 Word Summary**:: Grizzled, animal-chewed, wildling
+>**Usually found in**:: [[1 DIGITAL GARDEN/8.0 PLACES/8.2 Hogwarts School/8.2.03 Care of Magical Creatures 'classroom'\|Care of Magical Creatures 'classroom']], [[1 DIGITAL GARDEN/8.0 PLACES/8.4 Hogwarts Valley/8.4.1 Forbidden Forest\|Forbidden Forest]]
 
 **Appearance:** A grizzled, weather-beaten wizard with a perpetually bandaged limb (or two, or three). His hair is usually wild, and his clothes are practical but often torn. He has an unquenchable enthusiasm for even the most dangerous beasts.
     

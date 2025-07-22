@@ -4,9 +4,9 @@
 
 ![Albus Dumbledore.png|left|300](/img/user/1%20DIGITAL%20GARDEN/7.0%20PEOPLE/7.3%20NPCs/Headshots/Albus%20Dumbledore.png)
 >[!info] 
->**Role**:: Transfiguration Professor & Deputy Headteacher at [[1 DIGITAL GARDEN/8.0 PLACES/8.2 Hogwarts School/8.2.0 Hogwarts School - Overview\|Hogwarts School of Witchcraft & Wizadry]]
+>**Role**:: Transfiguration Professor & Deputy Headteacher at [[1 DIGITAL GARDEN/8.0 PLACES/8.2 Hogwarts School/8.2.0 Hogwarts School - Overview\|Hogwarts School of Witchcraft & Wizardry]]
 >**3 Word Summary**:: Wise, kindly, powerful
->**Usually found in**:: [[1 DIGITAL GARDEN/8.0 PLACES/8.2 Hogwarts School/8.2.2 Transfiguration Classroom\|8.2.2 Transfiguration Classroom]], [[1 DIGITAL GARDEN/8.0 PLACES/8.3 Hogsmeade Village/8.3.11 The Three Broomsticks\|The Three Broomsticks]]
+>**Usually found in**:: [[1 DIGITAL GARDEN/8.0 PLACES/8.2 Hogwarts School/8.2.02 Transfiguration Classroom\|Transfiguration classroom]], [[1 DIGITAL GARDEN/8.0 PLACES/8.3 Hogsmeade Village/8.3.11 The Three Broomsticks\|The Three Broomsticks]]
 
 **Appearance:** Still relatively young (in his late 50s-early 60s), with a vibrant twinkle in his eyes, impeccably neat attire, and a quiet air of profound power. His beard is reddish-brown, not yet flowing down to his belt. He moves with a calm confidence.
     
@@ -16,7 +16,10 @@
 
 # Interactions
 
+| Session | Interactions |
+| ------- | ------------ |
 
+{ .block-language-dataview}
 
 # DM Notes
 
