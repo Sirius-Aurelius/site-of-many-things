@@ -55,8 +55,9 @@
 - [[1 DIGITAL GARDEN/1.0-2.0 RULES/2.0 HOUSE RULES/02.06 Option to decrease initiative roll\|02.06 Option to decrease initiative roll]]
 - [[1 DIGITAL GARDEN/1.0-2.0 RULES/2.0 HOUSE RULES/02.08 Critical Hits\|02.08 Critical Hits]]
 - [[1 DIGITAL GARDEN/1.0-2.0 RULES/2.0 HOUSE RULES/02.09 Critical Fails\|02.09 Critical Fails]]
+- [[1 DIGITAL GARDEN/1.0-2.0 RULES/2.0 HOUSE RULES/02.10 Long rests only in a place of safety\|02.10 Long rests only in a place of safety]]
+- [[1 DIGITAL GARDEN/1.0-2.0 RULES/2.0 HOUSE RULES/02.11 No more than 2 short rests per day\|02.11 No more than 2 short rests per day]]
 - [[1 DIGITAL GARDEN/1.0-2.0 RULES/2.0 HOUSE RULES/02.99 Loyalty (NPCs)\|02.99 Loyalty (NPCs)]]
-- [[1 DIGITAL GARDEN/1.0-2.0 RULES/2.0 HOUSE RULES/Long rests only in a place of safety\|Long rests only in a place of safety]]
 
 { .block-language-dataview}
 
