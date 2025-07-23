@@ -17,9 +17,9 @@
 
 # Interactions
 
-| Session                                                                                       | Interactions                                                                                                            |
-| --------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------- |
-| [[1 DIGITAL GARDEN/9.0 Chronicles/Session 1 - The Experiment\|Session 1 - The Experiment]] | [[1 DIGITAL GARDEN/7.0 PEOPLE/7.1 PCs/Vi Thorne (Charlie)\|Vi Thorne]] attacks [[1 DIGITAL GARDEN/7.0 PEOPLE/7.3 NPCs/Cassian Black\|Cassian Black]] in [[1 DIGITAL GARDEN/8.0 PLACES/8.2 Hogwarts School/8.2.01 Herbology Greenhouses\|Herbology Greenhouses]] |
+| Session                                                                                                 | Interactions                                                                                                            |
+| ------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------- |
+| [[1 DIGITAL GARDEN/9.0 Chronicles/Session 1 - Testing automations\|Session 1 - Testing automations]] | [[1 DIGITAL GARDEN/7.0 PEOPLE/7.1 PCs/Vi Thorne (Charlie)\|Vi Thorne]] attacks [[1 DIGITAL GARDEN/7.0 PEOPLE/7.3 NPCs/Cassian Black\|Cassian Black]] in [[1 DIGITAL GARDEN/8.0 PLACES/8.2 Hogwarts School/8.2.01 Herbology Greenhouses\|Herbology Greenhouses]] |
 
 { .block-language-dataview}
 
