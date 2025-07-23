@@ -6,7 +6,7 @@
 >[!info] 
 >**Role**:: [[1 DIGITAL GARDEN/7.0 PEOPLE/7.2 Factions/07.2.03 Hufflepuff House\|Hufflepuff House]] House ghost
 >**3 Word Summary**:: Mournful, elegant, knowledgeable
->**Usually found in**:: [[1 DIGITAL GARDEN/8.0 PLACES/8.2 Hogwarts School/8.3.04 Ravenclaw Tower\|Ravenclaw Tower]], 
+>**UsuallyFoundIn**:: [[1 DIGITAL GARDEN/8.0 PLACES/8.2 Hogwarts School/8.3.04 Ravenclaw Tower\|Ravenclaw Tower]], 
 
 # Description
 

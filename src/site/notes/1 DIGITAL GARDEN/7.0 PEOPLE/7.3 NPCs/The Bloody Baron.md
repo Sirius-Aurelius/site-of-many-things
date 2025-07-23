@@ -6,7 +6,7 @@
 >[!info] 
 >**Role**:: [[1 DIGITAL GARDEN/7.0 PEOPLE/7.2 Factions/07.2.06 Slytherin House\|Slytherin House]] House ghost
 >**3 Word Summary**:: Ill-tempered, shackled, rasping
->**Usually found in**:: [[1 DIGITAL GARDEN/8.0 PLACES/8.2 Hogwarts School/8.3.03 Slytherin Dungeon\|Slytherin Dungeon]], 
+>**UsuallyFoundIn**:: [[1 DIGITAL GARDEN/8.0 PLACES/8.2 Hogwarts School/8.3.03 Slytherin Dungeon\|Slytherin Dungeon]], 
 
 # Description
 

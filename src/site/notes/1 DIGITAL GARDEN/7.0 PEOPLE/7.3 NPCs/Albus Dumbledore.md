@@ -6,7 +6,7 @@
 >[!info] 
 >**Role**:: Transfiguration Professor & Deputy Headteacher at [[1 DIGITAL GARDEN/8.0 PLACES/8.2 Hogwarts School/8.2.0 Hogwarts School - Overview\|Hogwarts School of Witchcraft & Wizardry]]
 >**3 Word Summary**:: Wise, kindly, powerful
->**Usually found in**:: [[1 DIGITAL GARDEN/8.0 PLACES/8.2 Hogwarts School/8.2.02 Transfiguration Classroom\|Transfiguration classroom]], [[1 DIGITAL GARDEN/8.0 PLACES/8.3 Hogsmeade Village/8.3.11 The Three Broomsticks\|The Three Broomsticks]]
+>**UsuallyFoundIn**::[[1 DIGITAL GARDEN/8.0 PLACES/8.2 Hogwarts School/8.2.02 Transfiguration Classroom\|Transfiguration classroom]], [[1 DIGITAL GARDEN/8.0 PLACES/8.3 Hogsmeade Village/8.3.11 The Three Broomsticks\|The Three Broomsticks]], [[1 DIGITAL GARDEN/8.0 PLACES/8.1 Diagon Alley/8.1.01 The Leaky Cauldron\|The Leaky Cauldron]], 
 
 **Appearance:** Still relatively young (in his late 50s-early 60s), with a vibrant twinkle in his eyes, impeccably neat attire, and a quiet air of profound power. His beard is reddish-brown, not yet flowing down to his belt. He moves with a calm confidence.
     

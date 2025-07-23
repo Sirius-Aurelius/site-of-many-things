@@ -1,12 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/1-digital-garden/7-0-people/7-3-np-cs/serena-skuse/","tags":["#person","hogwarts","student","slytherin"]}
+{"dg-publish":true,"permalink":"/1-digital-garden/7-0-people/7-3-np-cs/serena-skuse/","tags":["#person","hogwarts","student","slytherin","yr1"]}
 ---
 
 >[!info] 
 >[[ ==CHARACTER PORTRAIT HERE (with |left|300)==
->**Role**:: [About this person text here]
+>**Role**:: Slytherin student (1st year in 1939)
 >**3 Word Summary**:: *Personality summary here*
->**Usually found in**:: [location links here]
+>**UsuallyFoundIn**:: [[1 DIGITAL GARDEN/8.0 PLACES/8.2 Hogwarts School/8.3.03 Slytherin Dungeon\|8.3.03 Slytherin Dungeon]], [[1 DIGITAL GARDEN/8.0 PLACES/8.2 Hogwarts School/8.2.07 Potions Classroom\|Potions classroom]]
 
 - **Appearance:** Quiet and unassuming, often blending into the background. She has sharp, calculating eyes that miss nothing.
     
@@ -16,6 +16,11 @@
 
 
 # Interactions
+
+| Session | Interactions |
+| ------- | ------------ |
+
+{ .block-language-dataview}
 
 
 # DM Notes

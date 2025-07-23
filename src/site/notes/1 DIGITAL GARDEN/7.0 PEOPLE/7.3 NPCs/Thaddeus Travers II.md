@@ -6,7 +6,11 @@
 >![Thaddeus Travers II.jpg|left|300](/img/user/1%20DIGITAL%20GARDEN/7.0%20PEOPLE/7.3%20NPCs/Headshots/Thaddeus%20Travers%20II.jpg)
 >**Role**:: Proprietor of [[1 DIGITAL GARDEN/8.0 PLACES/8.3 Hogsmeade Village/8.3.14 Dervish & Banges\|Dervish & Banges]] in [[1 DIGITAL GARDEN/8.0 PLACES/8.3 Hogsmeade Village/8.3.0 Hogsmeade VIllage - Overview\|Hogsmeade Village]]
 >**3 Word Summary**:: Enormous, Jolly, Gadget-loving
->**Usually found in**:: [[1 DIGITAL GARDEN/8.0 PLACES/8.3 Hogsmeade Village/8.3.0 Hogsmeade VIllage - Overview\|Hogsmeade Village]]
+>**UsuallyFoundIn**:: [[1 DIGITAL GARDEN/8.0 PLACES/8.3 Hogsmeade Village/8.3.0 Hogsmeade VIllage - Overview\|Hogsmeade Village]], [[1 DIGITAL GARDEN/8.0 PLACES/8.3 Hogsmeade Village/8.3.14 Dervish & Banges\|Dervish & Banges]], [[1 DIGITAL GARDEN/8.0 PLACES/8.3 Hogsmeade Village/8.3.11 The Three Broomsticks\|The Three Broomsticks]]
 
 # Interactions
 
+| Session | Interactions |
+| ------- | ------------ |
+
+{ .block-language-dataview}

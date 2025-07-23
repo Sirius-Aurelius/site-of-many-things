@@ -1,12 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/1-digital-garden/7-0-people/7-3-np-cs/clara-finch/","tags":["#person","hogwarts","student","gryffindor"]}
+{"dg-publish":true,"permalink":"/1-digital-garden/7-0-people/7-3-np-cs/clara-finch/","tags":["#person","hogwarts","student","gryffindor","yr1"]}
 ---
 
 >[!info] 
 >[[ ==CHARACTER PORTRAIT HERE (with |left|300)==
->**Role**:: [About this person text here]
->**3 Word Summary**:: *Personality summary here*
->**Usually found in**:: [location links here]
+>**Role**:: Gryffindor student (1st year in 1939)
+>**3 Word Summary**:: Energetic, gregarious, accident-prone
+>**UsuallyFoundIn**:: [[1 DIGITAL GARDEN/8.0 PLACES/8.2 Hogwarts School/8.3.02 Gryffindor Tower\|Gryffindor Tower]], [[1 DIGITAL GARDEN/8.0 PLACES/8.2 Hogwarts School/8.2.03 Care of Magical Creatures 'classroom'\|Care of Magical Creatures 'classroom']]
 
 - **Appearance:** Energetic and somewhat untidy, with a bright, curious expression. Her Gryffindor tie is often askew.
     
@@ -16,6 +16,11 @@
 
 
 # Interactions
+
+| Session | Interactions |
+| ------- | ------------ |
+
+{ .block-language-dataview}
 
 
 # DM Notes

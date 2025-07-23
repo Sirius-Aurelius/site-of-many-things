@@ -6,7 +6,11 @@
 >![Hesper Primpernelle.jpg|left|300](/img/user/1%20DIGITAL%20GARDEN/7.0%20PEOPLE/7.3%20NPCs/Headshots/Hesper%20Primpernelle.jpg)
 >**Role**:: Proprietor of [[1 DIGITAL GARDEN/8.0 PLACES/8.1 Diagon Alley/8.1.25 Madame Primpernelle's Love & Beauty Supplies\|Primpernelle's Love & Beauty Supplies]] in [[1 DIGITAL GARDEN/8.0 PLACES/8.1 Diagon Alley/8.01 Diagon Alley Overview\|Diagon Alley]]
 >**3 Word Summary**:: Stunning, teen-distracting, metamorphmagus
->**Usually found in**:: [[1 DIGITAL GARDEN/8.0 PLACES/8.1 Diagon Alley/8.01 Diagon Alley Overview\|Diagon Alley]]
+>**UsuallyFoundIn**:: [[1 DIGITAL GARDEN/8.0 PLACES/8.1 Diagon Alley/8.01 Diagon Alley Overview\|Diagon Alley]], [[1 DIGITAL GARDEN/8.0 PLACES/8.1 Diagon Alley/8.1.25 Madame Primpernelle's Love & Beauty Supplies\|Primpernelle's Love & Beauty Supplies]], [[1 DIGITAL GARDEN/8.0 PLACES/8.1 Diagon Alley/8.1.01 The Leaky Cauldron\|The Leaky Cauldron]]
 
 # Interactions
 
+| Session | Interactions |
+| ------- | ------------ |
+
+{ .block-language-dataview}

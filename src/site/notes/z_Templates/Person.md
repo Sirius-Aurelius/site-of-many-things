@@ -7,7 +7,7 @@
 >[!info] 
 >**Role**:: [About this person text here]
 >**3 Word Summary**:: *Personality summary here*
->**Usually found in**:: [location links here]
+>**UsuallyFoundIn**:: **Location Links Here**
 # Description
 
 

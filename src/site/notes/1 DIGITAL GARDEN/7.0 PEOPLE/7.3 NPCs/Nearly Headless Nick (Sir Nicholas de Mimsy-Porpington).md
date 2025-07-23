@@ -6,7 +6,7 @@
 >[!info] 
 >**Role**:: [[1 DIGITAL GARDEN/7.0 PEOPLE/7.2 Factions/07.2.04 Gryffindor House\|Gryffindor]] House ghost
 >**3 Word Summary**:: Vain, ostentatious, easily-offended
->**Usually found in**:: [[1 DIGITAL GARDEN/8.0 PLACES/8.2 Hogwarts School/8.3.02 Gryffindor Tower\|Gryffindor Tower]], 
+>**UsuallyFoundIn**:: [[1 DIGITAL GARDEN/8.0 PLACES/8.2 Hogwarts School/8.3.02 Gryffindor Tower\|Gryffindor Tower]], 
 # Description
 
 **Appearance:** Dressed in elaborate, feathered Elizabethan-style ruff and velvet doublet, often in shades of grey or black. He's easily recognizable by his "nearly" severed head, which flops oddly on his shoulders, still connected by a single, grisly sinew. He shimmers with a pearly, translucent glow characteristic of ghosts.

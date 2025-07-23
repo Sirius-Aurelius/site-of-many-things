@@ -6,7 +6,7 @@
 >[[ ==CHARACTER PORTRAIT HERE (with |left|300)==
 >**Role**:: [About this person text here]
 >**3 Word Summary**:: *Personality summary here*
->**Usually found in**:: [[1 DIGITAL GARDEN/8.0 PLACES/8.2 Hogwarts School/8.3.01 Hufflepuff Tower\|Hufflepuff Tower]], 
+>**UsuallyFoundIn**:: [[1 DIGITAL GARDEN/8.0 PLACES/8.2 Hogwarts School/8.3.01 Hufflepuff Tower\|Hufflepuff Tower]], [[1 DIGITAL GARDEN/8.0 PLACES/8.2 Hogwarts School/8.2.01 Herbology Greenhouses\|Herbology Greenhouses]], [[1 DIGITAL GARDEN/8.0 PLACES/8.2 Hogwarts School/8.2.05 Charms Classroom\|Charms classroom]]
 
 - **Appearance:** Bright-eyed and earnest, usually with ink smudges on her cheek. Always wears her uniform neatly, but it often looks a bit rumpled from her latest project.
 
@@ -16,6 +16,10 @@
 
 # Interactions
 
+| Session | Interactions |
+| ------- | ------------ |
+
+{ .block-language-dataview}
 
 # DM Notes
 

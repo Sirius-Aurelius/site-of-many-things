@@ -1,12 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/1-digital-garden/7-0-people/7-3-np-cs/cassian-black/","tags":["#person","hogwarts","student","slytherin","slug-club"]}
+{"dg-publish":true,"permalink":"/1-digital-garden/7-0-people/7-3-np-cs/cassian-black/","tags":["#person","hogwarts","student","slytherin","slug-club","yr3"]}
 ---
 
 >[!info] 
 >[[ ==CHARACTER PORTRAIT HERE (with |left|300)==
->**Role**:: [About this person text here]
->**3 Word Summary**:: *Personality summary here*
->**Usually found in**:: [location links here]
+>**Role**:: Slytherin student (3rd yr in 1939)
+>**3 Word Summary**:: Impeccable, predatory, manipulative
+>**UsuallyFoundIn**:: [[1 DIGITAL GARDEN/8.0 PLACES/8.2 Hogwarts School/8.3.03 Slytherin Dungeon\|Slytherin Dungeon]], 
 
 - **Appearance:** Impeccably dressed, with sharp, aristocratic features and an air of effortless superiority. He carries himself with a predatory grace.
     
@@ -17,6 +17,11 @@
 
 # Interactions
 
+| Session                                                                                       | Interactions                                                                                                            |
+| --------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------- |
+| [[1 DIGITAL GARDEN/9.0 Chronicles/Session 1 - The Experiment\|Session 1 - The Experiment]] | [[1 DIGITAL GARDEN/7.0 PEOPLE/7.1 PCs/Vi Thorne (Charlie)\|Vi Thorne]] attacks [[1 DIGITAL GARDEN/7.0 PEOPLE/7.3 NPCs/Cassian Black\|Cassian Black]] in [[1 DIGITAL GARDEN/8.0 PLACES/8.2 Hogwarts School/8.2.01 Herbology Greenhouses\|Herbology Greenhouses]] |
+
+{ .block-language-dataview}
 
 # DM Notes
 

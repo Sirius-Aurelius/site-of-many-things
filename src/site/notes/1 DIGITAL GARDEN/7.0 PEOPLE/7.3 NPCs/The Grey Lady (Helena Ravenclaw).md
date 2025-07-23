@@ -6,7 +6,7 @@
 >[!info] 
 >**Role**:: [[1 DIGITAL GARDEN/7.0 PEOPLE/7.2 Factions/07.2.05 Ravenclaw House\|Ravenclaw House]] House ghost
 >**3 Word Summary**:: Mournful, elegant, knowledgeable
->**Usually found in**:: [[1 DIGITAL GARDEN/8.0 PLACES/8.2 Hogwarts School/8.3.04 Ravenclaw Tower\|Ravenclaw Tower]], 
+>**UsuallyFoundIn**:: [[1 DIGITAL GARDEN/8.0 PLACES/8.2 Hogwarts School/8.3.04 Ravenclaw Tower\|Ravenclaw Tower]], 
 # Description
 
 **Appearance:** A tall, beautiful ghost with a mournful expression. She shimmers with a translucent, silvery glow, and her long dark hair flows around her. She often wears flowing robes, looking distant and ethereal.

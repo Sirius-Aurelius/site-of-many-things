@@ -6,7 +6,11 @@
 >[CHARACTER PORTRAIT HERE (300 wide)]
 >**Role**:: [About this person text here]
 >**3 Word Summary**:: *Personality summary here*
->**Usually found in**::
+>**UsuallyFoundIn**::
 
 # Interactions
 
+| Session | Interactions |
+| ------- | ------------ |
+
+{ .block-language-dataview}
