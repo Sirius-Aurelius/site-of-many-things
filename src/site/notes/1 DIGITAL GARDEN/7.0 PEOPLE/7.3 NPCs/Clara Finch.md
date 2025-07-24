@@ -5,7 +5,7 @@
 >[!info] 
 >[[ ==CHARACTER PORTRAIT HERE (with |left|300)==
 >**Role**:: Gryffindor student (1st year in 1939)
->**3 Word Summary**:: Energetic, gregarious, accident-prone
+>**ThreeWordSummary**:: Energetic, gregarious, accident-prone
 >**UsuallyFoundIn**:: [[1 DIGITAL GARDEN/8.0 PLACES/8.2 Hogwarts School/8.3.02 Gryffindor Tower\|Gryffindor Tower]], [[1 DIGITAL GARDEN/8.0 PLACES/8.2 Hogwarts School/8.2.03 Care of Magical Creatures 'classroom'\|Care of Magical Creatures 'classroom']]
 
 - **Appearance:** Energetic and somewhat untidy, with a bright, curious expression. Her Gryffindor tie is often askew.

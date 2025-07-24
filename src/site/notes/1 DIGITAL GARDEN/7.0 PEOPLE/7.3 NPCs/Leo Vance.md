@@ -5,7 +5,7 @@
 >[!info] 
 >[[ ==CHARACTER PORTRAIT HERE (with |left|300)==
 >**Role**:: Gryffindor student (4th year in 1939)
->**3 Word Summary**:: Muscular, self-important, meathead
+>**ThreeWordSummary**:: Muscular, self-important, meathead
 >**UsuallyFoundIn**:: [[1 DIGITAL GARDEN/8.0 PLACES/8.2 Hogwarts School/8.3.02 Gryffindor Tower\|Gryffindor Tower]], 
 
 - **Appearance:** Muscular and confident, with a perpetual grin and dishevelled brown hair. He's often got a slight scrape or bruise from his latest adventure or Quidditch practice.

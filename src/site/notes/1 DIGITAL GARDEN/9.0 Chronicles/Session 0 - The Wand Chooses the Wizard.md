@@ -8,7 +8,8 @@ Event:: [[1 DIGITAL GARDEN/7.0 PEOPLE/7.1 PCs/Cassie Weasley (Karima)\|Cassie We
 Event:: [[1 DIGITAL GARDEN/7.0 PEOPLE/7.1 PCs/Vi Thorne (Charlie)\|Vi Thorne]] purchases a wand from [[1 DIGITAL GARDEN/7.0 PEOPLE/7.3 NPCs/Gideon Ollivander\|Gideon Ollivander]] at [[1 DIGITAL GARDEN/8.0 PLACES/8.1 Diagon Alley/8.1.11 Ollivander's Wands, Diagon branch\|Ollivanders Wands]] in [[1 DIGITAL GARDEN/8.0 PLACES/8.1 Diagon Alley/8.01 Diagon Alley Overview\|Diagon Alley]]
 Event:: [[1 DIGITAL GARDEN/7.0 PEOPLE/7.1 PCs/Basil Featherstone (Nick)\|Basil Featherstone]] purchases a wand from [[1 DIGITAL GARDEN/7.0 PEOPLE/7.3 NPCs/Gideon Ollivander\|Gideon Ollivander]] at [[1 DIGITAL GARDEN/8.0 PLACES/8.1 Diagon Alley/8.1.11 Ollivander's Wands, Diagon branch\|Ollivanders Wands]] in [[1 DIGITAL GARDEN/8.0 PLACES/8.1 Diagon Alley/8.01 Diagon Alley Overview\|Diagon Alley]]
 Event:: [[1 DIGITAL GARDEN/7.0 PEOPLE/7.1 PCs/Vi Thorne (Charlie)\|Vi Thorne]] learns the recipe for [[1 DIGITAL GARDEN/4.0 Potions/Star Grass Salve\|Star Grass Salve]]
+Event:: [[1 DIGITAL GARDEN/7.0 PEOPLE/7.1 PCs/Cassie Weasley (Karima)\|Cassie Weasley]], [[1 DIGITAL GARDEN/7.0 PEOPLE/7.1 PCs/Vi Thorne (Charlie)\|Vi Thorne]] & [[1 DIGITAL GARDEN/7.0 PEOPLE/7.1 PCs/Basil Featherstone (Nick)\|Basil Featherstone]] sorted into [[1 DIGITAL GARDEN/7.0 PEOPLE/7.2 Factions/07.2.03 Hufflepuff House\|Hufflepuff House]] 
 
-### *When last we met...*
+## *Session Summary*
 
 > *Recap text for the next session goes here*

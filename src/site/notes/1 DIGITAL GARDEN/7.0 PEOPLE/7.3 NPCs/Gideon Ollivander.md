@@ -5,7 +5,7 @@
 >[!info] 
 >[CHARACTER PORTRAIT HERE (300 wide)]
 >**Role**:: Proprietor of [[1 DIGITAL GARDEN/8.0 PLACES/8.1 Diagon Alley/8.1.11 Ollivander's Wands, Diagon branch\|Ollivander's Wands]] in [[1 DIGITAL GARDEN/8.0 PLACES/8.1 Diagon Alley/8.01 Diagon Alley Overview\|Diagon Alley]]
->**3 Word Summary**:: Wise, sharp, short-sighted
+>**ThreeWordSummary**:: Wise, sharp, short-sighted
 >**UsuallyFoundIn**:: [[1 DIGITAL GARDEN/8.0 PLACES/8.1 Diagon Alley/8.1.11 Ollivander's Wands, Diagon branch\|Ollivander's Wands (Diagon branch)]], [[1 DIGITAL GARDEN/8.0 PLACES/8.1 Diagon Alley/8.1.01 The Leaky Cauldron\|The Leaky Cauldron]], [[1 DIGITAL GARDEN/8.0 PLACES/8.3 Hogsmeade Village/8.3.27 Ollivander's Wands (Hogsmeade branch)\|Ollivander's Wands (Hogsmeade branch)]]
 
 # Interactions

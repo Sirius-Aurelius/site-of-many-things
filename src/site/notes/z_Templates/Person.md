@@ -2,12 +2,13 @@
 {"dg-publish":true,"permalink":"/z-templates/person/","tags":["#person"]}
 ---
 
-*Add faction, house, job and location tags as well as 'teaching subject for professors to properties. ==Delete this line==*
-![[==CHARACTER PORTRAIT HERE==|left|300)
+// Add faction, house, job and location tags as well as 'teaching subject for professors to properties. *==Then delete this line==*
+![[==LINK TO CHARACTER PORTRAIT IMAGE==\|left]]
 >[!info] 
->**Role**:: [About this person text here]
->**3 Word Summary**:: *Personality summary here*
->**UsuallyFoundIn**:: **Location Links Here**
+>**Role**::      // About this person in very brief terms
+>**ThreeWordSummary**:: // *Personality summary goes here in three words or three short phrases*
+>**UsuallyFoundIn**:: // Links to appropriate location pages go here
+
 # Description
 
 

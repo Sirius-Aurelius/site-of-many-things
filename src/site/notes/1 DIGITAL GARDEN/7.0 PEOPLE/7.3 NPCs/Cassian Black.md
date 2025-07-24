@@ -5,7 +5,7 @@
 >[!info] 
 >[[ ==CHARACTER PORTRAIT HERE (with |left|300)==
 >**Role**:: Slytherin student (3rd yr in 1939)
->**3 Word Summary**:: Impeccable, predatory, manipulative
+>**ThreeWordSummary**:: Impeccable, predatory, manipulative
 >**UsuallyFoundIn**:: [[1 DIGITAL GARDEN/8.0 PLACES/8.2 Hogwarts School/8.3.03 Slytherin Dungeon\|Slytherin Dungeon]], 
 
 - **Appearance:** Impeccably dressed, with sharp, aristocratic features and an air of effortless superiority. He carries himself with a predatory grace.
@@ -17,9 +17,8 @@
 
 # Interactions
 
-| Session                                                                                                 | Interactions                                                                                                            |
-| ------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------- |
-| [[1 DIGITAL GARDEN/9.0 Chronicles/Session 1 - Testing automations\|Session 1 - Testing automations]] | [[1 DIGITAL GARDEN/7.0 PEOPLE/7.1 PCs/Vi Thorne (Charlie)\|Vi Thorne]] attacks [[1 DIGITAL GARDEN/7.0 PEOPLE/7.3 NPCs/Cassian Black\|Cassian Black]] in [[1 DIGITAL GARDEN/8.0 PLACES/8.2 Hogwarts School/8.2.01 Herbology Greenhouses\|Herbology Greenhouses]] |
+| Session | Interactions |
+| ------- | ------------ |
 
 { .block-language-dataview}
 

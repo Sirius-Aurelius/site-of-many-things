@@ -5,7 +5,7 @@
 >[!info] 
 >[[ ==CHARACTER PORTRAIT HERE (with |left|300)==
 >**Role**:: Professor of DADA at [[1 DIGITAL GARDEN/8.0 PLACES/8.2 Hogwarts School/8.2.0 Hogwarts School - Overview\|Hogwarts School of Witchcraft & Wizardry]]
->**3 Word Summary**:: Intense, military-disciplined, immaculate
+>**ThreeWordSummary**:: Intense, military-disciplined, immaculate
 >**UsuallyFoundIn**:: [[1 DIGITAL GARDEN/8.0 PLACES/8.2 Hogwarts School/8.2.06 Defence Against the Dark Arts Classroom\|Defence Against the Dark Arts classroom]],
 
 - **Appearance:** A sharp, intense witch with severe spectacles and an almost military posture. She carries her wand like a weapon and her robes are always pristine, even after a dueling demonstration.

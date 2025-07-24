@@ -5,7 +5,7 @@
 ![Nearly Headless Nick.jpeg|left|300](/img/user/1%20DIGITAL%20GARDEN/7.0%20PEOPLE/7.3%20NPCs/Headshots/Nearly%20Headless%20Nick.jpeg)
 >[!info] 
 >**Role**:: [[1 DIGITAL GARDEN/7.0 PEOPLE/7.2 Factions/07.2.04 Gryffindor House\|Gryffindor]] House ghost
->**3 Word Summary**:: Vain, ostentatious, easily-offended
+>**ThreeWordSummary**:: Vain, ostentatious, easily-offended
 >**UsuallyFoundIn**:: [[1 DIGITAL GARDEN/8.0 PLACES/8.2 Hogwarts School/8.3.02 Gryffindor Tower\|Gryffindor Tower]], 
 # Description
 

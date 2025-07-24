@@ -5,7 +5,7 @@
 >[!info] 
 >[[ ==CHARACTER PORTRAIT HERE (with |left|300)==
 >**Role**:: Caretaker at [[1 DIGITAL GARDEN/8.0 PLACES/8.2 Hogwarts School/8.2.0 Hogwarts School - Overview\|Hogwarts School of Witchcraft & Wizardry]]
->**3 Word Summary**:: Gruff, sour, meticulous
+>**ThreeWordSummary**:: Gruff, sour, meticulous
 >**UsuallyFoundIn**:: [[1 DIGITAL GARDEN/8.0 PLACES/8.2 Hogwarts School/8.4.06 Caretaker's Office\|Caretaker's Office]], [[1 DIGITAL GARDEN/8.0 PLACES/8.2 Hogwarts School/8.4.03.1 School Library - Open Section\|School Library (open section)]], [[1 DIGITAL GARDEN/8.0 PLACES/8.2 Hogwarts School/8.4.03.2 School Library - Restricted Section\|School Library (restricted section)]]
 
 - **Appearance:** A gruff, grizzled wizard with a perpetually sour expression, a bristly grey moustache, and a worn, patched set of robes. He carries a large ring of ancient keys that jingle loudly.

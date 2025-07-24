@@ -6,7 +6,7 @@
 
 >[!info] 
 >**Role**:: Professor of Astronomy at [[1 DIGITAL GARDEN/8.0 PLACES/8.2 Hogwarts School/8.2.0 Hogwarts School - Overview\|Hogwarts School of Witchcraft & Wizardry]]. Head of [[1 DIGITAL GARDEN/7.0 PEOPLE/7.2 Factions/07.2.06 Slytherin House\|Slytherin House]]
->**3 Word Summary**:: Serene, intelligent, committed 
+>**ThreeWordSummary**:: Serene, intelligent, committed 
 >**UsuallyFoundIn**:: [[1 DIGITAL GARDEN/8.0 PLACES/8.2 Hogwarts School/8.2.04 Astronomy Tower\|Astronomy Tower]], [[1 DIGITAL GARDEN/8.0 PLACES/8.2 Hogwarts School/8.3.04 Ravenclaw Tower\|Ravenclaw Tower]], [[1 DIGITAL GARDEN/8.0 PLACES/8.3 Hogsmeade Village/8.3.11 The Three Broomsticks\|The Three Broomsticks]]
 
 **Appearance:** Graceful and serene, often dressed in elegant, flowing robes that evoke the night sky or distant galaxies. Her dark hair is usually intricately braided, and she wears subtle, often astronomical, jewelry. She has sharp, observant eyes that seem to take in everything.

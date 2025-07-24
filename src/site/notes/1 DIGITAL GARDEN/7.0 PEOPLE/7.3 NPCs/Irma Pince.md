@@ -5,7 +5,7 @@
 >[!info] 
 >[[ ==CHARACTER PORTRAIT HERE (with |left|300)==
 >**Role**:: Librarian at [[1 DIGITAL GARDEN/8.0 PLACES/8.2 Hogwarts School/8.2.0 Hogwarts School - Overview\|Hogwarts School of Witchcraft & Wizardry]]
->**3 Word Summary**:: *Personality summary here*
+>**ThreeWordSummary**:: *Personality summary here*
 >**UsuallyFoundIn**:: [[1 DIGITAL GARDEN/8.0 PLACES/8.2 Hogwarts School/8.4.03.1 School Library - Open Section\|School Library (open section)]], [[1 DIGITAL GARDEN/8.0 PLACES/8.2 Hogwarts School/8.4.03.2 School Library - Restricted Section\|School Library (restricted section)]], [[1 DIGITAL GARDEN/8.0 PLACES/8.3 Hogsmeade Village/8.3.11 The Three Broomsticks\|The Three Broomsticks]]
 
 # Description

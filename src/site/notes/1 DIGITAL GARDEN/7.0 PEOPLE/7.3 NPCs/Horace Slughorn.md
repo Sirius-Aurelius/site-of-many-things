@@ -5,7 +5,7 @@
 >[!info] 
 >[[ ==CHARACTER PORTRAIT HERE (with |left|300)==
 >**Role**:: Professor of Potions at [[1 DIGITAL GARDEN/8.0 PLACES/8.2 Hogwarts School/8.2.0 Hogwarts School - Overview\|Hogwarts School of Witchcraft & Wizardry]]. Head of [[1 DIGITAL GARDEN/7.0 PEOPLE/7.2 Factions/07.2.06 Slytherin House\|Slytherin House]]
->**3 Word Summary**:: Jovial, self-important, celebrity-obsessed
+>**ThreeWordSummary**:: Jovial, self-important, celebrity-obsessed
 >**UsuallyFoundIn**:: [[1 DIGITAL GARDEN/8.0 PLACES/8.2 Hogwarts School/8.3.03 Slytherin Dungeon\|Slytherin Dungeon]], [[1 DIGITAL GARDEN/8.0 PLACES/8.2 Hogwarts School/8.2.07 Potions Classroom\|Potions classroom]]
 
  **Appearance:** Portly and jovial, with a walrus moustache and a penchant for fine robes and accessories. He often has a satisfied smirk.

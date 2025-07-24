@@ -4,8 +4,8 @@
 
 >[!info] 
 >![[**image here**\|left]]
->**Role**:: Student of [[1 DIGITAL GARDEN/7.0 PEOPLE/7.2 Factions/07.2.03 Hufflepuff House\|Hufflepuff House]] at [[1 DIGITAL GARDEN/8.0 PLACES/8.2 Hogwarts School/8.2.0 Hogwarts School - Overview\|Hogwarts School of Witchcraft & Wizardry]] 
->**3 Word Summary**:: Sturdy, rumpled, earnest
+>**Role**:: Hufflepuff student (1st year in 1939)
+>**ThreeWordSummary**:: Sturdy, rumpled, earnest
 >**UsuallyFoundIn**:: [[1 DIGITAL GARDEN/8.0 PLACES/8.2 Hogwarts School/8.3.01 Hufflepuff Tower\|Hufflepuff Tower]], [[1 DIGITAL GARDEN/8.0 PLACES/8.2 Hogwarts School/8.2.01 Herbology Greenhouses\|Herbology Greenhouses]], [[1 DIGITAL GARDEN/8.0 PLACES/8.2 Hogwarts School/8.4.05 School Kitchens\|School Kitchens]]
 
 

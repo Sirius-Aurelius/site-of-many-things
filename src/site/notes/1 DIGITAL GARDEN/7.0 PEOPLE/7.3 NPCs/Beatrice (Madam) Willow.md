@@ -5,8 +5,8 @@
 >[!info] 
 >[[ ==CHARACTER PORTRAIT HERE (with |left|300)==
 >**Role**:: School Nurse at [[1 DIGITAL GARDEN/8.0 PLACES/8.2 Hogwarts School/8.2.0 Hogwarts School - Overview\|Hogwarts School of Witchcraft & Wizardry]]
->**3 Word Summary**:: No-nonsense, compassionate, dry
->**UsuallyFoundIn**:: [[1 DIGITAL GARDEN/8.0 PLACES/8.2 Hogwarts School/8.4.02 Hospital Wing\|Hospital Wing]]
+>**ThreeWordSummary**:: No-nonsense, compassionate, dry
+>**UsuallyFoundIn**:: [[1 DIGITAL GARDEN/8.0 PLACES/8.2 Hogwarts School/8.4.02 Hospital Wing\|Hospital Wing]], 
 
 **Appearance:** A no-nonsense, brisk woman with a kind but firm expression. Her uniform is always immaculate, and she moves with quiet authority. She has an uncanny ability to know what's wrong with a student before they even tell her.
     

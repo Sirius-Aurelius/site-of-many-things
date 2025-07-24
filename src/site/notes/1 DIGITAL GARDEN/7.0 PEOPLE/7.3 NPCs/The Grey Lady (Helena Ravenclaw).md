@@ -5,7 +5,7 @@
 ![The Grey Lady.jpeg|left|300](/img/user/1%20DIGITAL%20GARDEN/7.0%20PEOPLE/7.3%20NPCs/Headshots/The%20Grey%20Lady.jpeg)
 >[!info] 
 >**Role**:: [[1 DIGITAL GARDEN/7.0 PEOPLE/7.2 Factions/07.2.05 Ravenclaw House\|Ravenclaw House]] House ghost
->**3 Word Summary**:: Mournful, elegant, knowledgeable
+>**ThreeWordSummary**:: Mournful, elegant, knowledgeable
 >**UsuallyFoundIn**:: [[1 DIGITAL GARDEN/8.0 PLACES/8.2 Hogwarts School/8.3.04 Ravenclaw Tower\|Ravenclaw Tower]], 
 # Description
 

@@ -2,19 +2,17 @@
 {"dg-publish":true,"permalink":"/1-digital-garden/7-0-people/7-3-np-cs/finnian-finn-o-malley/","tags":["#person","hogwarts","student","hufflepuff"]}
 ---
 
->[!info] 
->[[ ==CHARACTER PORTRAIT HERE (with |left|300)==
->**Role**:: [About this person text here]
->**3 Word Summary**:: *Personality summary here*
->**UsuallyFoundIn**:: [[1 DIGITAL GARDEN/8.0 PLACES/8.2 Hogwarts School/8.3.01 Hufflepuff Tower\|Hufflepuff Tower]], [[1 DIGITAL GARDEN/8.0 PLACES/8.2 Hogwarts School/8.2.02 Transfiguration Classroom\|Transfiguration classroom]]
+![[placeholder_image_4.jpg\|left]]
+>[!info]
+>**Role**:: Hufflepuff student (1st year in 1939)
+>**ThreeWordSummary**:: Resourceful, quiet, dependable
+>**UsuallyFoundIn**:: [[1 DIGITAL GARDEN/8.0 PLACES/8.2 Hogwarts School/8.3.01 Hufflepuff Tower\|Hufflepuff Tower]], 
 
-- **Appearance:** Tall and lanky, often seen with a slightly bewildered expression and an unkempt shock of red hair. He's got a perpetually optimistic grin.
-    
-- **Personality:** Easygoing, friendly, and surprisingly insightful, though he often plays dumb. Finnian is loyal to his friends to a fault and has a knack for finding lost things (and getting lost himself). He's not the brightest academically, but he has excellent common sense and a surprising amount of street smarts gleaned from holidays spent with his eccentric wizarding family. He's also surprisingly good at finding shortcuts and hidden passages.
-    
-- **Gossip:** "Finn's always got some wild story about his holidays, half of them can't be true." "He got detention last week for trying to teach a gnat to play the trombone." "He knows every secret passage in Hogwarts, even the ones Filch doesn't know about."
-    
+# Description
 
+Finnian is a soft-spoken but incredibly resourceful boy from a large, impoverished wizarding family. He's a lanky, unassuming boy with a perpetually slightly hungry look in his eyes, but a quiet dignity. He comes from a large family with many siblings, where resourcefulness and making do were essential. He's surprisingly handy with odd jobs and can often be found fixing small things or creatively solving practical problems. He values loyalty and a good meal above all else.
+
+Relationships:: Brother of [[1 DIGITAL GARDEN/7.0 PEOPLE/7.3 NPCs/Cian O'Malley\|Cian O'Malley]], [[1 DIGITAL GARDEN/7.0 PEOPLE/7.3 NPCs/Aoife O'Malley\|Aoife O'Malley]], [[1 DIGITAL GARDEN/7.0 PEOPLE/7.3 NPCs/Maeve O'Malley\|Maeve O'Malley]], [[1 DIGITAL GARDEN/7.0 PEOPLE/7.3 NPCs/Declan O'Malley\|Declan O'Malley]]
 
 # Interactions
 
@@ -22,8 +20,3 @@
 | ------- | ------------ |
 
 { .block-language-dataview}
-
-
-# DM Notes
-
-

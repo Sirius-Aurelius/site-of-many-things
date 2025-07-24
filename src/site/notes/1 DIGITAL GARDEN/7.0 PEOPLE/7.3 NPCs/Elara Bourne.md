@@ -5,7 +5,7 @@
 >[!info] 
 >[[ ==CHARACTER PORTRAIT HERE (with |left|300)==
 >**Role**:: Professor of Charms at [[1 DIGITAL GARDEN/8.0 PLACES/8.2 Hogwarts School/8.2.0 Hogwarts School - Overview\|Hogwarts School of Witchcraft & Wizardry]]. Head of [[1 DIGITAL GARDEN/7.0 PEOPLE/7.2 Factions/07.2.05 Ravenclaw House\|Ravenclaw House]]
->**3 Word Summary**:: Brilliant, logical, high-standards
+>**ThreeWordSummary**:: Brilliant, logical, high-standards
 >**UsuallyFoundIn**:: [[1 DIGITAL GARDEN/8.0 PLACES/8.2 Hogwarts School/8.2.05 Charms Classroom\|Charms classroom]], [[1 DIGITAL GARDEN/8.0 PLACES/8.2 Hogwarts School/8.3.04 Ravenclaw Tower\|Ravenclaw Tower]], [[1 DIGITAL GARDEN/8.0 PLACES/8.2 Hogwarts School/8.4.01 Headmaster's Office\|Headmaster's Office]]
 
 - **Appearance:** Elegant and precise, with a sharp, intelligent gaze. Her hair is often pulled back in a severe but stylish bun, and she moves with quiet efficiency.

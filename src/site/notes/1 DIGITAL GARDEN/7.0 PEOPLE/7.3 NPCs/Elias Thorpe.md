@@ -4,8 +4,8 @@
 
 >[!info] 
 >[[ ==CHARACTER PORTRAIT HERE (with |left|300)==
->**Role**:: Ravenclaw student (first year in 1939)
->**3 Word Summary**:: *Personality summary here*
+>**Role**:: Ravenclaw student (1st year in 1939)
+>**ThreeWordSummary**:: *Personality summary here*
 >**UsuallyFoundIn**:: [[1 DIGITAL GARDEN/8.0 PLACES/8.2 Hogwarts School/8.3.04 Ravenclaw Tower\|Ravenclaw Tower]],
 
 - **Appearance:** Reserved and neatly dressed, with sharp, observant eyes behind a pair of spectacles. He carries a thick, leather-bound notebook everywhere.
