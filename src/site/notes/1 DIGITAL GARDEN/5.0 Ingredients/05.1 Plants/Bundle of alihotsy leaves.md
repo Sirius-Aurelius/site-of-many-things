@@ -11,8 +11,8 @@
 ## Used in:
 
 - [[1 DIGITAL GARDEN/4.0 Potions/Veritaserum\|Veritaserum]]
-- [[1 DIGITAL GARDEN/4.0 Potions/Kissing Concoction (Love)\|Kissing Concoction (Love)]]
 - [[1 DIGITAL GARDEN/4.0 Potions/Invigoration Draught\|Invigoration Draught]]
+- [[1 DIGITAL GARDEN/4.0 Potions/Kissing Concoction (Love)\|Kissing Concoction (Love)]]
 - [[1 DIGITAL GARDEN/4.0 Potions/Amortentia (Love)\|Amortentia (Love)]]
 
 { .block-language-dataview}
