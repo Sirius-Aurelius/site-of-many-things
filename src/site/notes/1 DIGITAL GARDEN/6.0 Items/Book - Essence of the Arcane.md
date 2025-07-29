@@ -6,4 +6,4 @@
 
 ## Description
 
-(40 hours, +3 to Perception) – 3 Galleons
+details:: (60 hours, +3 to Perception) – 60 Galleons

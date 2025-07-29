@@ -10,8 +10,8 @@
 
 ## Used in:
 
-- [[1 DIGITAL GARDEN/4.0 Potions/Moonseed Poison\|Moonseed Poison]]
 - [[1 DIGITAL GARDEN/4.0 Potions/Noxious Potion\|Noxious Potion]]
+- [[1 DIGITAL GARDEN/4.0 Potions/Moonseed Poison\|Moonseed Poison]]
 
 { .block-language-dataview}
 

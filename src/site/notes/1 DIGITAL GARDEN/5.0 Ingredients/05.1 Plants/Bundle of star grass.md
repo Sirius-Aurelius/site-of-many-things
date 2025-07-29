@@ -10,8 +10,8 @@
 
 ## Used in:
 
-- [[1 DIGITAL GARDEN/4.0 Potions/Wound-Cleaning Potion\|Wound-Cleaning Potion]]
 - [[1 DIGITAL GARDEN/4.0 Potions/Star Grass Salve\|Star Grass Salve]]
+- [[1 DIGITAL GARDEN/4.0 Potions/Wound-Cleaning Potion\|Wound-Cleaning Potion]]
 
 { .block-language-dataview}
 

@@ -5,8 +5,8 @@
 ![The Fat Friar.jpeg|left|300](/img/user/1%20DIGITAL%20GARDEN/7.0%20PEOPLE/7.3%20NPCs/Headshots/The%20Fat%20Friar.jpeg)
 >[!info] 
 >**Role**:: [[1 DIGITAL GARDEN/7.0 PEOPLE/7.2 Factions/07.2.03 Hufflepuff House\|Hufflepuff House]] House ghost
->**ThreeWordSummary**:: Mournful, elegant, knowledgeable
->**UsuallyFoundIn**:: [[1 DIGITAL GARDEN/8.0 PLACES/8.2 Hogwarts School/8.3.04 Ravenclaw Tower\|Ravenclaw Tower]], 
+>**ThreeWordSummary**:: Jolly, good-natured
+>**UsuallyFoundIn**:: [[1 DIGITAL GARDEN/8.0 PLACES/8.2 Hogwarts School/8.3.01 Hufflepuff Tower\|Hufflepuff Tower]],
 
 # Description
 

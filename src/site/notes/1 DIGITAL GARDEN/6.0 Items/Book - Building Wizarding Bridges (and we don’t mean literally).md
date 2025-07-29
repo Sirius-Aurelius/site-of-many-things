@@ -6,4 +6,4 @@
 
 ## Description
 
-(40 hours +2 to Deception) – 3 galleons
+details:: (60 hours +2 to Deception) – 30 galleons

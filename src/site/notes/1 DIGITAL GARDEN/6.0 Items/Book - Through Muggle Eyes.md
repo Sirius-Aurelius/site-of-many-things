@@ -6,4 +6,4 @@
 
 ## Description
 
-(40 hours, +2 to Muggle Studies) – 2 galleons
+details:: (60 hours, +2 to Muggle Studies) – 12 galleons

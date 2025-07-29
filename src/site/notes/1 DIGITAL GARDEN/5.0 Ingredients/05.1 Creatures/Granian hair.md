@@ -10,8 +10,8 @@
 
 ## Used in:
 
-- [[1 DIGITAL GARDEN/4.0 Potions/Dr Ubbly's Oblivious Unction\|Dr Ubbly's Oblivious Unction]]
 - [[1 DIGITAL GARDEN/4.0 Potions/Cupid Crystals (Love)\|Cupid Crystals (Love)]]
+- [[1 DIGITAL GARDEN/4.0 Potions/Dr Ubbly's Oblivious Unction\|Dr Ubbly's Oblivious Unction]]
 - [[1 DIGITAL GARDEN/4.0 Potions/Beautification Potion\|Beautification Potion]]
 - [[1 DIGITAL GARDEN/10.0 CREATURES/WW Bestiary/Winged Horses\|Winged Horses]]
 

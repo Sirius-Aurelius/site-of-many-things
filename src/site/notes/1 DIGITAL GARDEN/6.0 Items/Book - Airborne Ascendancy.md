@@ -6,4 +6,4 @@
 
 ## Description
 
-(40 hours, +2 to Athletics) – 2 Galleons
+details:: (60 hours, +2 to Athletics) – 20 Galleons

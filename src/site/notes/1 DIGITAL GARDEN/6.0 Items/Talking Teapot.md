@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-digital-garden/6-0-items/talking-teapot/","tags":["#item","#mundane","#magical","#broom","#book","#food"]}
+{"dg-publish":true,"permalink":"/1-digital-garden/6-0-items/talking-teapot/","tags":["#item","#mundane","#magical"]}
 ---
 
 *Item type, rarity*

@@ -6,4 +6,4 @@
 
 ## Description
 
-(40 hours, Proficiency in Acrobatics) – 19 galleons
+details:: (60 hours, Proficiency in Acrobatics) – 32 galleons

@@ -11,8 +11,8 @@
 ## Used in:
 
 - [[1 DIGITAL GARDEN/4.0 Potions/Memory Potion\|Memory Potion]]
-- [[1 DIGITAL GARDEN/4.0 Potions/Beguiling Bubbles (Love)\|Beguiling Bubbles (Love)]]
 - [[1 DIGITAL GARDEN/4.0 Potions/Befuddlement Draught\|Befuddlement Draught]]
+- [[1 DIGITAL GARDEN/4.0 Potions/Beguiling Bubbles (Love)\|Beguiling Bubbles (Love)]]
 
 { .block-language-dataview}
 

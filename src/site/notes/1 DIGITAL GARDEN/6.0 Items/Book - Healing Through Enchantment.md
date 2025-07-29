@@ -6,4 +6,4 @@
 
 ## Description
 
-(40 hours, +1 to Medicine) – 2 galleons
+details:: (60 hours, +1 to Medicine) – 20 galleons

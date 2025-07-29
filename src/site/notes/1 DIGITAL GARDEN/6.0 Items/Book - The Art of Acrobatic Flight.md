@@ -6,4 +6,4 @@
 
 ## Description
 
-(40 hours, +2 to Acrobatics) – 5 sickles
+details:: (60 hours, +2 to Acrobatics) – 19 galleons

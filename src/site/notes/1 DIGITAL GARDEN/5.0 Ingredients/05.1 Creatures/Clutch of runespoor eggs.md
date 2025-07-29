@@ -10,8 +10,8 @@
 
 ## Used in:
 
-- [[1 DIGITAL GARDEN/4.0 Potions/Wolfsbane Potion\|Wolfsbane Potion]]
 - [[1 DIGITAL GARDEN/4.0 Potions/Wit-Sharpening Potion\|Wit-Sharpening Potion]]
+- [[1 DIGITAL GARDEN/4.0 Potions/Wolfsbane Potion\|Wolfsbane Potion]]
 - [[1 DIGITAL GARDEN/4.0 Potions/Essence of Insanity\|Essence of Insanity]]
 - [[1 DIGITAL GARDEN/10.0 CREATURES/WW Bestiary/Runespoor\|Runespoor]]
 
