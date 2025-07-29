@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-digital-garden/7-0-people/7-3-np-cs/leo-vance/","tags":["#person","hogwarts","student","slug-club","gryffindor","yr4"]}
+{"dg-publish":true,"permalink":"/1-digital-garden/7-0-people/7-3-np-cs/leo-vance/","tags":["#person","hogwarts","student","slug-club","gryffindor","yr4","crossed-wands"]}
 ---
 
 >[!info] 

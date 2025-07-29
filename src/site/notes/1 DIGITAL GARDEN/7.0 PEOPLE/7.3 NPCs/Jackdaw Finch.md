@@ -11,11 +11,23 @@
 # Details
 
 - Listed as teaching Herbology, but in reality has ample free time for supra-curricular activities
-- Relationships:: Brother of [[1 DIGITAL GARDEN/7.0 PEOPLE/7.3 NPCs/Septimus Finch (Sr)\|Septimus Finch (Sr)]]
+- Relationships:: Brother of [[1 DIGITAL GARDEN/7.0 PEOPLE/7.3 NPCs/Septimus Finch\|Septimus Finch]]
 
 # Interactions
 
 | Session | Interactions |
 | ------- | ------------ |
+
+{ .block-language-dataview}
+# Relationships
+##### Outbound:
+Relationship:: Great uncle of [[1 DIGITAL GARDEN/7.0 PEOPLE/7.3 NPCs/Agnes Finch\|Agnes Finch]]
+Relationship:: Brother of [[1 DIGITAL GARDEN/7.0 PEOPLE/7.3 NPCs/Septimus Finch\|Septimus Finch]]
+
+##### Inbound
+| Related to:                                                                | Their relationship to this person                     | Their role                            |
+| -------------------------------------------------------------------------- | ----------------------------------------------------- | ------------------------------------- |
+| [[1 DIGITAL GARDEN/7.0 PEOPLE/7.3 NPCs/Agnes Finch\|Agnes Finch]]       | Great niece of [[1 DIGITAL GARDEN/7.0 PEOPLE/7.3 NPCs/Jackdaw Finch\|Jackdaw Finch]] & [[1 DIGITAL GARDEN/7.0 PEOPLE/7.3 NPCs/Septimus Finch\|Septimus Finch]] | Hufflepuff student (1st year in 1939) |
+| [[1 DIGITAL GARDEN/7.0 PEOPLE/7.3 NPCs/Septimus Finch\|Septimus Finch]] | Brother of [[1 DIGITAL GARDEN/7.0 PEOPLE/7.3 NPCs/Jackdaw Finch\|Jackdaw Finch]]                          | [About this person text here]         |
 
 { .block-language-dataview}

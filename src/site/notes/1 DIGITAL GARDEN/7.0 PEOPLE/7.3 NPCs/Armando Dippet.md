@@ -5,7 +5,7 @@
 >[!info] 
 >[[ ==CHARACTER PORTRAIT HERE (with |left|300)==
 >**Role**:: Headteacher of [[1 DIGITAL GARDEN/8.0 PLACES/8.2 Hogwarts School/8.2.0 Hogwarts School - Overview\|Hogwarts School of Witchcraft & Wizardry]]
->**ThreeWordSummary**:: *Personality summary here*
+>**ThreeWordSummary**:: Kindly, softly-spoken, seemingly detached
 >**UsuallyFoundIn**:: [[1 DIGITAL GARDEN/8.0 PLACES/8.2 Hogwarts School/8.4.01 Headmaster's Office\|Headmaster's Office]], 
 
 - **Appearance:** A kindly, rather old wizard with a perpetually slightly bewildered expression, a neatly trimmed beard, and often a dusting of snuff on his robes. He exudes an aura of gentle authority, but also a certain academic detachment.
@@ -25,3 +25,5 @@
 # DM Notes
 
 [[0 DM SCREEN/1 REFERENCE SOURCES/NPC Secrets#Armando Dippet\|NPC Secrets#Armando Dippet]]
+
+Postnominals: Order of Merlin, First Class, Chief Diplomat of the International Confederation of Wizards, Recipient of the Gamp Award for Services to Magical Theory, Member of the Supreme Council of Magical Education, Master of Ancient Runes, Master Arithmancer

@@ -14,3 +14,14 @@
 | ------- | ------------ |
 
 { .block-language-dataview}
+
+# Relationships
+##### Outbound:
+Relationship:: Nephew of [[1 DIGITAL GARDEN/7.0 PEOPLE/7.3 NPCs/Gideon Ollivander\|Gideon Ollivander]]
+
+##### Inbound
+| Related to:                                                                      | Their relationship to this person          |
+| -------------------------------------------------------------------------------- | ------------------------------------------ |
+| [[1 DIGITAL GARDEN/7.0 PEOPLE/7.3 NPCs/Gideon Ollivander\|Gideon Ollivander]] | Uncle of [[1 DIGITAL GARDEN/7.0 PEOPLE/7.3 NPCs/Archibald (Archie) Ollivander\|Archibald (Archie) Ollivander]] |
+
+{ .block-language-dataview}

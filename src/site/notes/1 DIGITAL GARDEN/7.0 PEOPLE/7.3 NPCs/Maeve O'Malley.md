@@ -20,3 +20,18 @@ Relationships:: Sister of [[1 DIGITAL GARDEN/7.0 PEOPLE/7.3 NPCs/Finnian (Finn) 
 | ------- | ------------ |
 
 { .block-language-dataview}
+
+# Relationships
+##### Outbound:
+Relationship:: Sister of [[1 DIGITAL GARDEN/7.0 PEOPLE/7.3 NPCs/Aoife O'Malley\|Aoife O'Malley]], [[1 DIGITAL GARDEN/7.0 PEOPLE/7.3 NPCs/Cian O'Malley\|Cian O'Malley]], [[1 DIGITAL GARDEN/7.0 PEOPLE/7.3 NPCs/Declan O'Malley\|Declan O'Malley]] & [[1 DIGITAL GARDEN/7.0 PEOPLE/7.3 NPCs/Finnian (Finn) O'Malley\|Finnian (Finn) O'Malley]]
+Relationship::
+
+##### Inbound
+| Related to:                                                                                  | Their relationship to this person                                                                         |
+| -------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------- |
+| [[1 DIGITAL GARDEN/7.0 PEOPLE/7.3 NPCs/Aoife O'Malley\|Aoife O'Malley]]                   | Sister of [[1 DIGITAL GARDEN/7.0 PEOPLE/7.3 NPCs/Cian O'Malley\|Cian O'Malley]], [[1 DIGITAL GARDEN/7.0 PEOPLE/7.3 NPCs/Maeve O'Malley\|Maeve O'Malley]], [[1 DIGITAL GARDEN/7.0 PEOPLE/7.3 NPCs/Declan O'Malley\|Declan O'Malley]] & [[1 DIGITAL GARDEN/7.0 PEOPLE/7.3 NPCs/Finnian (Finn) O'Malley\|Finnian (Finn) O'Malley]]        |
+| [[1 DIGITAL GARDEN/7.0 PEOPLE/7.3 NPCs/Cian O'Malley\|Cian O'Malley]]                     | Brother of [[1 DIGITAL GARDEN/7.0 PEOPLE/7.3 NPCs/Aoife O'Malley\|Aoife O'Malley]], [[1 DIGITAL GARDEN/7.0 PEOPLE/7.3 NPCs/Maeve O'Malley\|Maeve O'Malley]], [[1 DIGITAL GARDEN/7.0 PEOPLE/7.3 NPCs/Declan O'Malley\|Declan O'Malley]] & [[1 DIGITAL GARDEN/7.0 PEOPLE/7.3 NPCs/Finnian (Finn) O'Malley\|Finnian (Finn) O'Malley]]      |
+| [[1 DIGITAL GARDEN/7.0 PEOPLE/7.3 NPCs/Declan O'Malley\|Declan O'Malley]]                 | Brother of [[1 DIGITAL GARDEN/7.0 PEOPLE/7.3 NPCs/Aoife O'Malley\|Aoife O'Malley]], [[1 DIGITAL GARDEN/7.0 PEOPLE/7.3 NPCs/Cian O'Malley\|Cian O'Malley]], [[1 DIGITAL GARDEN/7.0 PEOPLE/7.3 NPCs/Maeve O'Malley\|Maeve O'Malley]] & [[1 DIGITAL GARDEN/7.0 PEOPLE/7.3 NPCs/Finnian (Finn) O'Malley\|Finnian (Finn) O'Malley]]        |
+| [[1 DIGITAL GARDEN/7.0 PEOPLE/7.3 NPCs/Finnian (Finn) O'Malley\|Finnian (Finn) O'Malley]] | Relationship:: Brother of [[1 DIGITAL GARDEN/7.0 PEOPLE/7.3 NPCs/Aoife O'Malley\|Aoife O'Malley]], [[1 DIGITAL GARDEN/7.0 PEOPLE/7.3 NPCs/Cian O'Malley\|Cian O'Malley]], [[1 DIGITAL GARDEN/7.0 PEOPLE/7.3 NPCs/Maeve O'Malley\|Maeve O'Malley]] & [[1 DIGITAL GARDEN/7.0 PEOPLE/7.3 NPCs/Declan O'Malley\|Declan O'Malley]] |
+
+{ .block-language-dataview}

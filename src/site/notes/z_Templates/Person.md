@@ -19,4 +19,21 @@
 
 { .block-language-dataview}
 
-# DM Notes
+# Relationships
+##### Outbound:
+Relationship::
+Relationship::
+
+##### Inbound
+| Related to: | Their relationship to this person | Their role |
+| ----------- | --------------------------------- | ---------- |
+
+{ .block-language-dataview}
+
+
+
+
+
+
+
+## DM Notes
