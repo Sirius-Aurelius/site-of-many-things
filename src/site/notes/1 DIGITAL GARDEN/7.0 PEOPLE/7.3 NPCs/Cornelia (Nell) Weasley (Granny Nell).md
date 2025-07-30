@@ -4,7 +4,7 @@
 
 ![[==LINK TO CHARACTER PORTRAIT IMAGE==\|left]]
 >[!info] 
->**Role**:: Matriarch of the Wesley Family
+>**Role**:: Matriarch of the Weasley Family
 >**ThreeWordSummary**:: 
 >**UsuallyFoundIn**:: [[1 DIGITAL GARDEN/8.0 PLACES/8.5 Wider World/8.5.2 London/8.5.2.01 The Weasley Tentement\|The Weasley Tentement]]
 
