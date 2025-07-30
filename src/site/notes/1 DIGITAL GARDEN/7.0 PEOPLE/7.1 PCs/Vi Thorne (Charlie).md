@@ -64,3 +64,6 @@ See [[1 DIGITAL GARDEN/1.0-2.0 RULES/1.0 Variant Rules/01.06.1.6 Background - Po
 [[1 DIGITAL GARDEN/1.0-2.0 RULES/1.0 Variant Rules/01.06.1.6 Background - Potioneer#**d6 Flexibility (Flaw)**\|01.06.1.6 Background - Potioneer#**d6 Flexibility (Flaw)**]]
 > *Quite Flexible: I'm horribly jealous of anyone who outshines my work. Everywhere I go, I'm surrounded by rivals.*
 
+## Viola's D.I.A.D.E.M. Abilities
+
+Vi is unsure - perhaps even insecure - about why she has been selected for the DIADEM program. Is this a mistake, or do they know or see something that she doesn't?

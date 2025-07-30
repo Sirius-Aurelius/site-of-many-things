@@ -5,7 +5,6 @@
 ## >[[1 DIGITAL GARDEN/7.0 PEOPLE/7.1 PCs/07.1.4.1 Back Story (Basil Featherstone)\|Basil Featherstone's Back Story]]
 
 Background: Dreamer
-Wand: 14" (haunted by dreams of future), Redwood (lucky), Dragon Heartstring (agent of change), Rigid
 Role:: Hufflepuff student (1st year in 1939)
 
 # Character Events
@@ -42,3 +41,21 @@ See [[1 DIGITAL GARDEN/1.0-2.0 RULES/1.0 Variant Rules/01.06.1.3 Background - Dr
 ### Wand flexibility (Flaws): Flexible
 [[1 DIGITAL GARDEN/1.0-2.0 RULES/1.0 Variant Rules/01.06.1.3 Background - Dreamer#**d6 Flexibility (Flaw)**\|01.06.1.3 Background - Dreamer#**d6 Flexibility (Flaw)**]]
 > *Rigid: I can't keep a secret to save my life, or anyone else's.*
+
+# Relationships
+##### Outbound:
+Relationship:: Son of X & Y
+
+##### Inbound
+| Related to: | Their relationship to this person | Their role |
+| ----------- | --------------------------------- | ---------- |
+
+{ .block-language-dataview}
+
+## Basil's D.I.A.D.E.M. Abilities
+
+From various player/DM WhatsApp chats:
+>A young man who is highly attuned to the spirit world. Now everyone sees ghosts in Wizarding World but this young man sees ALL ghosts, including many that others can't see.
+
+> Ghosts are attracted to him, and they like him. 
+
