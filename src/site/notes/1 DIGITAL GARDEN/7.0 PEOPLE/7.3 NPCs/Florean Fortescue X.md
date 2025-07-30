@@ -17,4 +17,16 @@ Son of [[1 DIGITAL GARDEN/7.0 PEOPLE/7.3 NPCs/Florean Fortescue IX\|Florean Fort
 
 { .block-language-dataview}
 
+# Relationships
+##### Outbound:
+Relationship:: Father of [[1 DIGITAL GARDEN/7.0 PEOPLE/7.3 NPCs/Florean Fortescue IX\|Florean Fortescue IX]]
+
+##### Inbound
+| Related to:                                                                            | Their relationship to this person | Their role                                                                                                                                                     |
+| -------------------------------------------------------------------------------------- | --------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [[1 DIGITAL GARDEN/7.0 PEOPLE/7.3 NPCs/Florean Fortescue IX\|Florean Fortescue IX]] | Son of [[1 DIGITAL GARDEN/7.0 PEOPLE/7.3 NPCs/Florean Fortescue X\|Florean Fortescue X]]    | Ninth generation proprietor of [[1 DIGITAL GARDEN/8.0 PLACES/8.1 Diagon Alley/8.1.05 Florean Fortescue's Ice Cream Parlour\|Fortescue's Ice Cream Parlour]] in [[1 DIGITAL GARDEN/8.0 PLACES/8.1 Diagon Alley/8.01 Diagon Alley Overview\|Diagon Alley]] |
+
+{ .block-language-dataview}
+
+
 # DM Notes

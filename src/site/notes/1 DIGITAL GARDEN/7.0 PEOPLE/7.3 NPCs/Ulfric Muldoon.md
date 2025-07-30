@@ -18,3 +18,14 @@ Relationships:: Father of [[1 DIGITAL GARDEN/7.0 PEOPLE/7.3 NPCs/Marcus Muldoon\
 | ------- | ------------ |
 
 { .block-language-dataview}
+
+# Relationships
+##### Outbound:
+Relationship:: Father of [[1 DIGITAL GARDEN/7.0 PEOPLE/7.3 NPCs/Marcus Muldoon\|Marcus Muldoon]]
+
+##### Inbound
+| Related to:                                                                | Their relationship to this person                        | Their role                           |
+| -------------------------------------------------------------------------- | -------------------------------------------------------- | ------------------------------------ |
+| [[1 DIGITAL GARDEN/7.0 PEOPLE/7.3 NPCs/Marcus Muldoon\|Marcus Muldoon]] | Son of [[1 DIGITAL GARDEN/7.0 PEOPLE/7.3 NPCs/Ulfric Muldoon\|Ulfric Muldoon]], Editor of *The Daily Prophet* | Slytherin student (1st year in 1939) |
+
+{ .block-language-dataview}

@@ -6,4 +6,4 @@
 
 ## Description
 
-Purchasable from [[1 DIGITAL GARDEN/8.0 PLACES/8.3 Hogsmeade Village/8.3.14 Dervish & Banges\|Dervish & Banges]] in [[1 DIGITAL GARDEN/8.0 PLACES/8.3 Hogsmeade Village/8.3.01 Hogsmeade VIllage - Overview\|Hogsmeade Village]]
+Purchasable from [[1 DIGITAL GARDEN/8.0 PLACES/8.3 Hogsmeade Village/8.3.14 Dervish & Banges\|Dervish & Banges]] in [[1 DIGITAL GARDEN/8.0 PLACES/8.3 Hogsmeade Village/8.3.01 Hogsmeade Village - Overview\|Hogsmeade Village]]

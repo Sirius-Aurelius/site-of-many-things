@@ -7,21 +7,13 @@
 ![Viola Thorne.png|left|200](/img/user/1%20DIGITAL%20GARDEN/Images%20&%20Banners/Viola%20Thorne.png)
 
 Name: Viola “Vi” Thorne
-
 House: Hufflepuff
-
 Blood Status: Half-blood
-
 Background: Potioneer
-
 School of Magic: Healing
-
 Feat: Steady Caster
-
 Wand: Larch, Dragon Heartstring, 10.5", Quite Flexible
-
 Hometown: Castle Coombe, Wiltshire (West Country)
-
 Role:: Hufflepuff student (1st year in 1939)
 
 # Character Events
@@ -33,6 +25,19 @@ Role:: Hufflepuff student (1st year in 1939)
 | [[1 DIGITAL GARDEN/9.0 Chronicles/Session 0 - The Wand Chooses the Wizard\|Session 0 - The Wand Chooses the Wizard]] | [[1 DIGITAL GARDEN/7.0 PEOPLE/7.1 PCs/Cassie Weasley (Karima)\|Cassie Weasley]], [[1 DIGITAL GARDEN/7.0 PEOPLE/7.1 PCs/Vi Thorne (Charlie)\|Vi Thorne]] & [[1 DIGITAL GARDEN/7.0 PEOPLE/7.1 PCs/Basil Featherstone (Nick)\|Basil Featherstone]] sorted into [[1 DIGITAL GARDEN/7.0 PEOPLE/7.2 Factions/07.2.03 Hufflepuff House\|Hufflepuff House]]    |
 
 { .block-language-dataview}
+
+# Relationships
+##### Outbound:
+Relationship:: Daughter of [[1 DIGITAL GARDEN/7.0 PEOPLE/7.3 NPCs/Morwenna (Moira) Thorne\|Morwenna (Moira) Thorne]] and [[1 DIGITAL GARDEN/7.0 PEOPLE/7.3 NPCs/Thomas Thorne\|Thomas Thorne]]
+
+##### Inbound
+| Related to:                                                                                  | Their relationship to this person            | Their role                                                                                                                                                 |
+| -------------------------------------------------------------------------------------------- | -------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [[1 DIGITAL GARDEN/7.0 PEOPLE/7.3 NPCs/Morwenna (Moira) Thorne\|Morwenna (Moira) Thorne]] | Mother of [[1 DIGITAL GARDEN/7.0 PEOPLE/7.1 PCs/Vi Thorne (Charlie)\|Vi Thorne]] | [[1 DIGITAL GARDEN/7.0 PEOPLE/7.1 PCs/Vi Thorne (Charlie)\|Vi Thorne]]'s mother. Co-owner of [[1 DIGITAL GARDEN/8.0 PLACES/8.5 Wider World/8.5.1 South West/8.5.1.01 Thorne’s Remedies, Castle Coombe\|Thorne's Remedies]] with [[1 DIGITAL GARDEN/7.0 PEOPLE/7.3 NPCs/Thomas Thorne\|Thomas Thorne]]           |
+| [[1 DIGITAL GARDEN/7.0 PEOPLE/7.3 NPCs/Thomas Thorne\|Thomas Thorne]]                     | Father of [[1 DIGITAL GARDEN/7.0 PEOPLE/7.1 PCs/Vi Thorne (Charlie)\|Vi Thorne]] | [[1 DIGITAL GARDEN/7.0 PEOPLE/7.1 PCs/Vi Thorne (Charlie)\|Vi Thorne]]'s father. Co-owner of [[1 DIGITAL GARDEN/8.0 PLACES/8.5 Wider World/8.5.1 South West/8.5.1.01 Thorne’s Remedies, Castle Coombe\|Thorne's Remedies]] with [[1 DIGITAL GARDEN/7.0 PEOPLE/7.3 NPCs/Morwenna (Moira) Thorne\|Morwenna (Moira) Thorne]] |
+
+{ .block-language-dataview}
+
 
 # Viola's Wand
 ![Wand - Viola Thorne.png|left|400](/img/user/1%20DIGITAL%20GARDEN/Images%20&%20Banners/Wand%20-%20Viola%20Thorne.png)

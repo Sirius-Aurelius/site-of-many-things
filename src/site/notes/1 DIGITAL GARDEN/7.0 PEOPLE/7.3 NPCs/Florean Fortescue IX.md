@@ -14,3 +14,14 @@
 | ------- | ------------ |
 
 { .block-language-dataview}
+
+# Relationships
+##### Outbound:
+Relationship:: Son of [[1 DIGITAL GARDEN/7.0 PEOPLE/7.3 NPCs/Florean Fortescue X\|Florean Fortescue X]]
+
+##### Inbound
+| Related to:                                                                          | Their relationship to this person  | Their role                            |
+| ------------------------------------------------------------------------------------ | ---------------------------------- | ------------------------------------- |
+| [[1 DIGITAL GARDEN/7.0 PEOPLE/7.3 NPCs/Florean Fortescue X\|Florean Fortescue X]] | Father of [[1 DIGITAL GARDEN/7.0 PEOPLE/7.3 NPCs/Florean Fortescue IX\|Florean Fortescue IX]] | Gryffindor student (1st year in 1939) |
+
+{ .block-language-dataview}

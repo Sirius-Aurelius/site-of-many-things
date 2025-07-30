@@ -18,3 +18,13 @@ Claire is small for her age but makes up for it with a fiery spirit and an unwav
 | ------- | ------------ |
 
 { .block-language-dataview}
+
+# Relationships
+##### Outbound:
+Relationship:: 
+
+##### Inbound
+| Related to: | Their relationship to this person | Their role |
+| ----------- | --------------------------------- | ---------- |
+
+{ .block-language-dataview}
