@@ -3,7 +3,7 @@
 ---
 
 >[!info] 
->[[ ==CHARACTER PORTRAIT HERE (with |left|300)==
+>![Armando Dippet.jpeg|left|300](/img/user/1%20DIGITAL%20GARDEN/7.0%20PEOPLE/7.3%20NPCs/Headshots/Armando%20Dippet.jpeg)
 >**Role**:: Headteacher of [[1 DIGITAL GARDEN/8.0 PLACES/8.2 Hogwarts School/8.2.0 Hogwarts School - Overview\|Hogwarts School of Witchcraft & Wizardry]]
 >**ThreeWordSummary**:: Kindly, softly-spoken, seemingly detached
 >**UsuallyFoundIn**:: [[1 DIGITAL GARDEN/8.0 PLACES/8.2 Hogwarts School/8.4.01 Headmaster's Office\|Headmaster's Office]], 
@@ -16,8 +16,9 @@
 
 # Interactions
 
-| Session | Interactions |
-| ------- | ------------ |
+| Session                                                                                                 | Interactions                                                                                                                                                                                                                                                                                              |
+| ------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [[1 DIGITAL GARDEN/9.0 Chronicles/Session 1 - Welcome to Hogwarts\|Session 1 - Welcome to Hogwarts]] | [[1 DIGITAL GARDEN/7.0 PEOPLE/7.1 PCs/Cassie Weasley (Karima)\|Cassie Weasley]], [[1 DIGITAL GARDEN/7.0 PEOPLE/7.1 PCs/Vi Thorne (Charlie)\|Vi Thorne]] & [[1 DIGITAL GARDEN/7.0 PEOPLE/7.1 PCs/Basil Featherstone (Nick)\|Basil Featherstone]] listen to Headmaster [[1 DIGITAL GARDEN/7.0 PEOPLE/7.3 NPCs/Armando Dippet\|Armando Dippet]]'s annual address, welcoming students against a backdrop of 'stirrings in the wider world', including rumours of a Muggle war. |
 
 { .block-language-dataview}
 

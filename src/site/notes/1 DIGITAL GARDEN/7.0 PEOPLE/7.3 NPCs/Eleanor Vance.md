@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/1-digital-garden/7-0-people/7-3-np-cs/eleanor-vance/","tags":["#person","hogwarts","student","hufflepuff"]}
 ---
 
-![[placeholder_image_3.jpg\|left]]
+![Eleanor Vance.png|left|300](/img/user/1%20DIGITAL%20GARDEN/7.0%20PEOPLE/7.3%20NPCs/Headshots/Eleanor%20Vance.png)
 >[!info]
 >**Role**:: Hufflepuff student (1st year in 1939)
 >**ThreeWordSummary**:: Organized, studious, observant

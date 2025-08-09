@@ -2,10 +2,10 @@
 {"dg-publish":true,"permalink":"/1-digital-garden/7-0-people/7-3-np-cs/penelope-penny-perkins/","tags":["#person","hogwarts","student","hufflepuff"]}
 ---
 
+![Penny Perkins.png|left|300](/img/user/1%20DIGITAL%20GARDEN/7.0%20PEOPLE/7.3%20NPCs/Headshots/Penny%20Perkins.png)
 >[!info] 
->[[ ==CHARACTER PORTRAIT HERE (with |left|300)==
 >**Role**:: Hufflepuff student (1st year in 1939)
->**ThreeWordSummary**:: *Personality summary here*
+>**ThreeWordSummary**:: Bright-eyed, worrier, Herbology-obsessed
 >**UsuallyFoundIn**:: [[1 DIGITAL GARDEN/8.0 PLACES/8.2 Hogwarts School/8.3.01 Hufflepuff Tower\|Hufflepuff Tower]], [[1 DIGITAL GARDEN/8.0 PLACES/8.2 Hogwarts School/8.2.01 Herbology Greenhouses\|Herbology Greenhouses]], [[1 DIGITAL GARDEN/8.0 PLACES/8.2 Hogwarts School/8.2.05 Charms Classroom\|Charms classroom]]
 
 - **Appearance:** Bright-eyed and earnest, usually with ink smudges on her cheek. Always wears her uniform neatly, but it often looks a bit rumpled from her latest project.

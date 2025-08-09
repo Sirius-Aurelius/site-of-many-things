@@ -10,8 +10,8 @@
 
 ## Used in:
 
-- [[1 DIGITAL GARDEN/4.0 Potions/Volubilis Potion\|Volubilis Potion]]
 - [[1 DIGITAL GARDEN/4.0 Potions/Wiggenweld Potion\|Wiggenweld Potion]]
+- [[1 DIGITAL GARDEN/4.0 Potions/Volubilis Potion\|Volubilis Potion]]
 - [[1 DIGITAL GARDEN/4.0 Potions/Invigoration Draught\|Invigoration Draught]]
 - [[1 DIGITAL GARDEN/4.0 Potions/Antidote of Common Poisons\|Antidote of Common Poisons]]
 

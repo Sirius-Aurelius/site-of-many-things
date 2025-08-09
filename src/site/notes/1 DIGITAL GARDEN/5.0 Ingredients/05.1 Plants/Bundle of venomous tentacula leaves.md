@@ -10,8 +10,8 @@
 
 ## Used in:
 
-- [[1 DIGITAL GARDEN/4.0 Potions/Drink of Despair\|Drink of Despair]]
 - [[1 DIGITAL GARDEN/4.0 Potions/Erumpent Potion\|Erumpent Potion]]
+- [[1 DIGITAL GARDEN/4.0 Potions/Drink of Despair\|Drink of Despair]]
 - [[1 DIGITAL GARDEN/4.0 Potions/Death-Cap Draught\|Death-Cap Draught]]
 
 { .block-language-dataview}

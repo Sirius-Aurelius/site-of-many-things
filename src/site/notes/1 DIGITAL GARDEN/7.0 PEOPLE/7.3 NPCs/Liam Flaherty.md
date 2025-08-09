@@ -3,7 +3,7 @@
 ---
 
 >[!info] 
->![[**image here**\|left]]
+>![Liam Flaherty.png|left|300](/img/user/1%20DIGITAL%20GARDEN/7.0%20PEOPLE/7.3%20NPCs/Headshots/Liam%20Flaherty.png)
 >**Role**:: Hufflepuff student (1st year in 1939)
 >**ThreeWordSummary**:: Sturdy, rumpled, earnest
 >**UsuallyFoundIn**:: [[1 DIGITAL GARDEN/8.0 PLACES/8.2 Hogwarts School/8.3.01 Hufflepuff Tower\|Hufflepuff Tower]], [[1 DIGITAL GARDEN/8.0 PLACES/8.2 Hogwarts School/8.2.01 Herbology Greenhouses\|Herbology Greenhouses]], [[1 DIGITAL GARDEN/8.0 PLACES/8.2 Hogwarts School/8.4.05 School Kitchens\|School Kitchens]]

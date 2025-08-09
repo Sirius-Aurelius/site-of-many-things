@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/1-digital-garden/7-0-people/7-3-np-cs/lily-buttercup/","tags":["#person","hogwarts","student","hufflepuff"]}
 ---
 
-![[placeholder_image_5.jpg\|left]]
+![Lily Buttercup.png|left|300](/img/user/1%20DIGITAL%20GARDEN/7.0%20PEOPLE/7.3%20NPCs/Headshots/Lily%20Buttercup.png)
 >[!info]
 >**Role**:: Hufflepuff student (1st year in 1939)
 >**ThreeWordSummary**:: Creative, empathetic, daydreamer

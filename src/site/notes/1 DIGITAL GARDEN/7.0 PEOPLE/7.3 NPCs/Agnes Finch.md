@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/1-digital-garden/7-0-people/7-3-np-cs/agnes-finch/","tags":["#person","hogwarts","student","hufflepuff"]}
 ---
 
-![[placeholder_image_1.jpg\|left]]
+![Agnes Finch.png|left|300](/img/user/1%20DIGITAL%20GARDEN/7.0%20PEOPLE/7.3%20NPCs/Headshots/Agnes%20Finch.png)
 >[!info]
 >**Role**:: Hufflepuff student (1st year in 1939)
 >**ThreeWordSummary**:: Gentle, patient, green-thumbed
@@ -30,3 +30,10 @@ Relationship:: Great niece of [[1 DIGITAL GARDEN/7.0 PEOPLE/7.3 NPCs/Jackdaw Fin
 | [[1 DIGITAL GARDEN/7.0 PEOPLE/7.3 NPCs/Septimus Finch\|Septimus Finch]] | Great uncle of [[1 DIGITAL GARDEN/7.0 PEOPLE/7.3 NPCs/Agnes Finch\|Agnes Finch]]    | [About this person text here]                                                                              |
 
 { .block-language-dataview}
+
+
+
+
+
+# DM Notes
+[[0 DM SCREEN/1 REFERENCE SOURCES/NPC Secrets#Agnes Finch\|NPC Secrets#Agnes Finch]]

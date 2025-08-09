@@ -11,8 +11,8 @@
 ## Used in:
 
 - [[1 DIGITAL GARDEN/4.0 Potions/Weedosoros\|Weedosoros]]
-- [[1 DIGITAL GARDEN/4.0 Potions/Drink of Despair\|Drink of Despair]]
 - [[1 DIGITAL GARDEN/4.0 Potions/Essence of Insanity\|Essence of Insanity]]
+- [[1 DIGITAL GARDEN/4.0 Potions/Drink of Despair\|Drink of Despair]]
 
 { .block-language-dataview}
 

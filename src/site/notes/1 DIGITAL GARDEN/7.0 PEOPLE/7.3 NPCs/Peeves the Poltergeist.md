@@ -16,8 +16,9 @@
 
 # Interactions
 
-| Session | Interactions |
-| ------- | ------------ |
+| Session                                                                                                 | Interactions                                                                                                                                                                                           |
+| ------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| [[1 DIGITAL GARDEN/9.0 Chronicles/Session 1 - Welcome to Hogwarts\|Session 1 - Welcome to Hogwarts]] | [[1 DIGITAL GARDEN/7.0 PEOPLE/7.1 PCs/Cassie Weasley (Karima)\|Cassie Weasley]], [[1 DIGITAL GARDEN/7.0 PEOPLE/7.1 PCs/Vi Thorne (Charlie)\|Vi Thorne]] & [[1 DIGITAL GARDEN/7.0 PEOPLE/7.1 PCs/Basil Featherstone (Nick)\|Basil Featherstone]] are tested against [[1 DIGITAL GARDEN/7.0 PEOPLE/7.3 NPCs/Peeves the Poltergeist\|Peeves the Poltergeist]] by [[1 DIGITAL GARDEN/7.0 PEOPLE/7.3 NPCs/Jackdaw Finch\|Jackdaw Finch]] |
 
 { .block-language-dataview}
 
