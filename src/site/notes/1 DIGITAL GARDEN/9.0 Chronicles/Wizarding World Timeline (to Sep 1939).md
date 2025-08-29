@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-digital-garden/9-0-chronicles/wizarding-world-timeline-to-sep-1939/"}
+{"dg-publish":true,"permalink":"/1-digital-garden/9-0-chronicles/wizarding-world-timeline-to-sep-1939/","tags":["MOC"]}
 ---
 
 ## Main Timeline: Events, Laws, and Organizations

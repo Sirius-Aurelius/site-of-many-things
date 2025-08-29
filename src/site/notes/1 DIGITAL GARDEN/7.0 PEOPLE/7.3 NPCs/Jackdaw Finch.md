@@ -30,11 +30,13 @@ Relationship:: Brother of [[1 DIGITAL GARDEN/7.0 PEOPLE/7.3 NPCs/Septimus Finch\
 Relationship:: Utiliser of [[1 DIGITAL GARDEN/7.0 PEOPLE/7.3 NPCs/Flick\|Flick]] the House Elf
 
 ##### Inbound
-| Related to:                                                                | Their relationship to this person                     | Their role                                                  |
-| -------------------------------------------------------------------------- | ----------------------------------------------------- | ----------------------------------------------------------- |
-| [[1 DIGITAL GARDEN/7.0 PEOPLE/7.3 NPCs/Agnes Finch\|Agnes Finch]]       | Great niece of [[1 DIGITAL GARDEN/7.0 PEOPLE/7.3 NPCs/Jackdaw Finch\|Jackdaw Finch]] & [[1 DIGITAL GARDEN/7.0 PEOPLE/7.3 NPCs/Septimus Finch\|Septimus Finch]] | Hufflepuff student (1st year in 1939)                       |
-| [[1 DIGITAL GARDEN/7.0 PEOPLE/7.3 NPCs/Septimus Finch\|Septimus Finch]] | Brother of [[1 DIGITAL GARDEN/7.0 PEOPLE/7.3 NPCs/Jackdaw Finch\|Jackdaw Finch]]                          | [About this person text here]                               |
-| [[1 DIGITAL GARDEN/7.0 PEOPLE/7.3 NPCs/Flick\|Flick]]                   | Ally/agent of [[1 DIGITAL GARDEN/7.0 PEOPLE/7.3 NPCs/Jackdaw Finch\|Jackdaw Finch]]                       | Senior Social Elf of the [[1 DIGITAL GARDEN/7.0 PEOPLE/7.2 Factions/07.2.18 Hogwarts Kitchen Elves\|07.2.18 Hogwarts Kitchen Elves]] |
+| Related to:                                                                | Their relationship to this person                     | Their role                                                                   |
+| -------------------------------------------------------------------------- | ----------------------------------------------------- | ---------------------------------------------------------------------------- |
+| [[1 DIGITAL GARDEN/7.0 PEOPLE/7.3 NPCs/Agnes Finch\|Agnes Finch]]       | Great niece of [[1 DIGITAL GARDEN/7.0 PEOPLE/7.3 NPCs/Jackdaw Finch\|Jackdaw Finch]] & [[1 DIGITAL GARDEN/7.0 PEOPLE/7.3 NPCs/Septimus Finch\|Septimus Finch]] | Hufflepuff student (1st year in 1939)                                        |
+| [[1 DIGITAL GARDEN/7.0 PEOPLE/7.3 NPCs/Septimus Finch\|Septimus Finch]] | Brother of [[1 DIGITAL GARDEN/7.0 PEOPLE/7.3 NPCs/Jackdaw Finch\|Jackdaw Finch]]                          | [About this person text here]                                                |
+| [[1 DIGITAL GARDEN/7.0 PEOPLE/7.3 NPCs/Flick\|Flick]]                   | Ally/agent of [[1 DIGITAL GARDEN/7.0 PEOPLE/7.3 NPCs/Jackdaw Finch\|Jackdaw Finch]]                       | Senior Social Elf of the [[1 DIGITAL GARDEN/7.0 PEOPLE/7.2 Factions/07.2.18 Hogwarts Kitchen Elves\|07.2.18 Hogwarts Kitchen Elves]]                  |
+| [[1 DIGITAL GARDEN/7.0 PEOPLE/7.3 NPCs/Fizzy\|Fizzy]]                   | Ally/agent of [[1 DIGITAL GARDEN/7.0 PEOPLE/7.3 NPCs/Jackdaw Finch\|Jackdaw Finch]]                       | Social Elf of the [[1 DIGITAL GARDEN/7.0 PEOPLE/7.2 Factions/07.2.18 Hogwarts Kitchen Elves\|Hogwarts Kitchen Elves]] |
+| [[1 DIGITAL GARDEN/7.0 PEOPLE/7.3 NPCs/Hokey\|Hokey]]                   | Ally/agent of [[1 DIGITAL GARDEN/7.0 PEOPLE/7.3 NPCs/Jackdaw Finch\|Jackdaw Finch]]                       | Social Elf of the [[1 DIGITAL GARDEN/7.0 PEOPLE/7.2 Factions/07.2.18 Hogwarts Kitchen Elves\|Hogwarts Kitchen Elves]] |
 
 { .block-language-dataview}
 
