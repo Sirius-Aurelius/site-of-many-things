@@ -3,7 +3,7 @@
 ---
 
 
-- [[1 DIGITAL GARDEN/9.0 Chronicles/Session 0 - The Wand Chooses the Wizard\|Session 0 - The Wand Chooses the Wizard]]
-- [[1 DIGITAL GARDEN/9.0 Chronicles/Session 1 - Welcome to Hogwarts\|Session 1 - Welcome to Hogwarts]]
+- [[1 DIGITAL GARDEN/9.0 Chronicles/Session 00 - The Wand Chooses the Wizard\|Session 00 - The Wand Chooses the Wizard]]
+- [[1 DIGITAL GARDEN/9.0 Chronicles/Session 01 - Welcome to Hogwarts\|Session 01 - Welcome to Hogwarts]]
 
 { .block-language-dataview}

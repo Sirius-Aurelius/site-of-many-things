@@ -31,9 +31,9 @@ Relationship:: Childhood friend of [[1 DIGITAL GARDEN/7.0 PEOPLE/7.3 NPCs/Barnab
 
 # Interactions
 
-| Session                                                                                                 | Interactions                                                                                                                                                                     |
-| ------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [[1 DIGITAL GARDEN/9.0 Chronicles/Session 1 - Welcome to Hogwarts\|Session 1 - Welcome to Hogwarts]] | [[1 DIGITAL GARDEN/7.0 PEOPLE/7.3 NPCs/Penelope (Penny) Perkins\|Penelope (Penny) Perkins]] is embarrassed at the welcome feast after [[1 DIGITAL GARDEN/7.0 PEOPLE/7.3 NPCs/Peeves the Poltergeist\|Peeves the Poltergeist]] accidentally amplifies [[1 DIGITAL GARDEN/7.0 PEOPLE/7.3 NPCs/Barnaby Butterfield\|Barnaby Butterfield]] declaring that he 'fancies her' |
+| Session                                                                                                   | Interactions                                                                                                                                                                     |
+| --------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [[1 DIGITAL GARDEN/9.0 Chronicles/Session 01 - Welcome to Hogwarts\|Session 01 - Welcome to Hogwarts]] | [[1 DIGITAL GARDEN/7.0 PEOPLE/7.3 NPCs/Penelope (Penny) Perkins\|Penelope (Penny) Perkins]] is embarrassed at the welcome feast after [[1 DIGITAL GARDEN/7.0 PEOPLE/7.3 NPCs/Peeves the Poltergeist\|Peeves the Poltergeist]] accidentally amplifies [[1 DIGITAL GARDEN/7.0 PEOPLE/7.3 NPCs/Barnaby Butterfield\|Barnaby Butterfield]] declaring that he 'fancies her' |
 
 { .block-language-dataview}
 
