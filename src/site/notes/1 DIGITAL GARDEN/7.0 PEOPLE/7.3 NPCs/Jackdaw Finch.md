@@ -1,10 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/1-digital-garden/7-0-people/7-3-np-cs/jackdaw-finch/","tags":["#person","hogwarts-faculty","hogwarts","professor","slytherin","diadem"]}
+{"dg-publish":true,"permalink":"/1-digital-garden/7-0-people/7-3-np-cs/jackdaw-finch/","tags":["#person","hogwarts-faculty","hogwarts","professor","slytherin","diadem","#animagus"]}
 ---
 
 >[!info] 
 >![Jackdaw Finch.png|left|300](/img/user/1%20DIGITAL%20GARDEN/7.0%20PEOPLE/7.3%20NPCs/Headshots/Jackdaw%20Finch.png)
 >**Role**:: "Professor of Herbology" at [[1 DIGITAL GARDEN/8.0 PLACES/8.2 Hogwarts School/8.2.0 Hogwarts School - Overview\|Hogwarts School of Witchcraft & Wizardry]]
+>**VoiceNotes**:: Tally-ho, BBC
 >**ThreeWordSummary**:: Enigmatic, RAF jolly boy, King's English
 >**UsuallyFoundIn**:: [[1 DIGITAL GARDEN/8.0 PLACES/8.2 Hogwarts School/8.4.03.2 School Library - Restricted Section\|School Library (restricted section)]], [[1 DIGITAL GARDEN/8.0 PLACES/8.3 Hogsmeade Village/8.3.06 The Hog's Head\|The Hog's Head]]
 
@@ -14,6 +15,9 @@
 >*A figure of both seasoned magic and wartime grit, his face is etched with lines of experience and a confident, almost roguish, smirk, that is framed by a neatly trimmed and upturned mustache. Instead of a traditional wizard's hat, he wears a worn leather flying cap, its straps dangling by his chin, with a pair of antique flying goggles perched on his forehead.*
 >*Over a dark blue, long-flowing robe adorned with subtle, medallion-like symbols of arcane rank, he wears a classic, brown leather flight jacket. The sheepskin collar is turned up against the chill, and the jacket itself looks well-loved and lived-in. A broad leather belt cinches his robe at the waist, from which a large buckle gleams.*
 >*In one gloved hand, he clutches a gnarled, dark wooden staff, its top branching out to cradle a brilliant, icy-blue crystal that hums with magical energy. In his other hand, he holds a rolled-up scroll, its edges yellowed and its surface bearing the faint lines of an ancient, enchanted map. The faintest ethereal, glowing ring of pale blue light swirls around his head, a subtle crown of power earned in swirling clouds. Here is a man who clearly navigates the skies, not with some newfound muggle "plane" contraption, but with a broomstick and pure, unbridled magic.*
+
+## Canon
+- Has an animagus form of a large hairy moth
 
 # Relationships
 ##### Outbound:

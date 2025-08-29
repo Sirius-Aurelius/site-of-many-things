@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-digital-garden/3-0-spells/wingardium-leviosa/"}
+{"dg-publish":true,"permalink":"/1-digital-garden/3-0-spells/wingardium-leviosa/","tags":["DnDB-done"]}
 ---
 
 The Levitation Charm - Charm cantrip

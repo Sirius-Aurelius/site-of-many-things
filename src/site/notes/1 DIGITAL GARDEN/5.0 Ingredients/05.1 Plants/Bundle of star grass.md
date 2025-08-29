@@ -10,6 +10,7 @@
 
 ## Used in:
 
+- [[1 DIGITAL GARDEN/8.0 PLACES/8.2 Hogwarts School/8.5.01 Cold Plant Room\|8.5.01 Cold Plant Room]]
 - [[1 DIGITAL GARDEN/4.0 Potions/Wound-Cleaning Potion\|Wound-Cleaning Potion]]
 - [[1 DIGITAL GARDEN/4.0 Potions/Star Grass Salve\|Star Grass Salve]]
 

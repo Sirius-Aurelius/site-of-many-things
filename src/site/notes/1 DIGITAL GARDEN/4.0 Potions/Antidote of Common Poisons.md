@@ -18,7 +18,7 @@ If you took poison damage the previous minute, you regain half of your hit point
 
 ## Recipe:
 
-- I [[1 DIGITAL GARDEN/5.0 Ingredients/05.1 Plants/Bundle of galanthus nivalis\|Bundle of galanthus nivalis]]
+- 1 [[1 DIGITAL GARDEN/5.0 Ingredients/05.1 Plants/Bundle of galanthus nivalis\|Bundle of galanthus nivalis]]
 - 1 [[1 DIGITAL GARDEN/5.0 Ingredients/05.1 Plants/Cluster of mistletoe berries\|Cluster of mistletoe berries]]
 - 1 [[1 DIGITAL GARDEN/5.0 Ingredients/05.1 Mundane/Flask of honeywater\|Flask of honeywater]]
 - 1 [[1 DIGITAL GARDEN/5.0 Ingredients/05.1 Creatures/Vial of billywig stings\|Vial of billywig stings]]

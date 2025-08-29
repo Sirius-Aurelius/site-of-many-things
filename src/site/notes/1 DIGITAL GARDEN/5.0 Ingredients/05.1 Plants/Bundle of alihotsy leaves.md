@@ -10,6 +10,7 @@
 
 ## Used in:
 
+- [[1 DIGITAL GARDEN/8.0 PLACES/8.2 Hogwarts School/8.2.07 Potions Classroom\|8.2.07 Potions Classroom]]
 - [[1 DIGITAL GARDEN/4.0 Potions/Veritaserum\|Veritaserum]]
 - [[1 DIGITAL GARDEN/4.0 Potions/Kissing Concoction (Love)\|Kissing Concoction (Love)]]
 - [[1 DIGITAL GARDEN/4.0 Potions/Invigoration Draught\|Invigoration Draught]]

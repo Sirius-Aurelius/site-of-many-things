@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-digital-garden/3-0-spells/vera-verto/"}
+{"dg-publish":true,"permalink":"/1-digital-garden/3-0-spells/vera-verto/","tags":["DnDB-done"]}
 ---
 
 The General Transfiguration Incantation - Transfiguration cantrip
