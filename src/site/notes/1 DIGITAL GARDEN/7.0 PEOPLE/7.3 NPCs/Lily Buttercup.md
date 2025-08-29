@@ -6,7 +6,7 @@
 >[!info]
 >**Role**:: Hufflepuff student (1st year in 1939)
 >**ThreeWordSummary**:: Creative, empathetic, daydreamer
->**UsuallyFoundIn**:: [[1 DIGITAL GARDEN/8.0 PLACES/8.2 Hogwarts School/8.3.01 Hufflepuff Tower\|Hufflepuff Tower]], 
+>**UsuallyFoundIn**:: [[1 DIGITAL GARDEN/8.0 PLACES/8.2 Hogwarts School/8.3.01 Hufflepuff Tower\|Hufflepuff Tower]], [[1 DIGITAL GARDEN/8.0 PLACES/8.2 Hogwarts School/8.3.01.01 Hufflepuff Common Room\|Hufflepuff Common Room]], [[1 DIGITAL GARDEN/8.0 PLACES/8.2 Hogwarts School/8.3.01.02 Hufflepuff Dormitories\|Hufflepuff Dormitories]]
 
 # Description
 
@@ -14,8 +14,10 @@ Lily is a cheerful, artistic girl who expresses herself through her whimsical dr
 
 # Interactions
 
-| Session | Interactions |
-| ------- | ------------ |
+| Session                                                                                                 | Interactions                                                                                                                                                                                                                                                                     |
+| ------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [[1 DIGITAL GARDEN/9.0 Chronicles/Session 1 - Welcome to Hogwarts\|Session 1 - Welcome to Hogwarts]] | [[1 DIGITAL GARDEN/7.0 PEOPLE/7.1 PCs/Cassie Weasley (Karima)\|Cassie Weasley]], [[1 DIGITAL GARDEN/7.0 PEOPLE/7.1 PCs/Vi Thorne (Charlie)\|Vi Thorne]] & [[1 DIGITAL GARDEN/7.0 PEOPLE/7.1 PCs/Basil Featherstone (Nick)\|Basil Featherstone]] meet [[1 DIGITAL GARDEN/7.0 PEOPLE/7.3 NPCs/Finnian (Finn) O'Malley\|Finnian (Finn) O'Malley]] (lots of siblings), [[1 DIGITAL GARDEN/7.0 PEOPLE/7.3 NPCs/Lily Buttercup\|Lily Buttercup]] (space cadet) & [[1 DIGITAL GARDEN/7.0 PEOPLE/7.3 NPCs/Liam Flaherty\|Liam Flaherty]] (food-lover) at the welcome feast. |
+| [[1 DIGITAL GARDEN/9.0 Chronicles/Session 1 - Welcome to Hogwarts\|Session 1 - Welcome to Hogwarts]] | [[1 DIGITAL GARDEN/7.0 PEOPLE/7.1 PCs/Cassie Weasley (Karima)\|Cassie Weasley]], [[1 DIGITAL GARDEN/7.0 PEOPLE/7.1 PCs/Vi Thorne (Charlie)\|Vi Thorne]] & [[1 DIGITAL GARDEN/7.0 PEOPLE/7.1 PCs/Basil Featherstone (Nick)\|Basil Featherstone]] observe [[1 DIGITAL GARDEN/7.0 PEOPLE/7.3 NPCs/Cassian Black\|Cassian Black]], the Alpha Slytherin from afar ([[1 DIGITAL GARDEN/7.0 PEOPLE/7.3 NPCs/Lily Buttercup\|Lily Buttercup]] warns the party that he is 'a nasty piece of work')             |
 
 { .block-language-dataview}
 

@@ -11,8 +11,8 @@
 ## Used in:
 
 - [[1 DIGITAL GARDEN/4.0 Potions/Forgetfulness Potion\|Forgetfulness Potion]]
-- [[1 DIGITAL GARDEN/4.0 Potions/Befuddlement Draught\|Befuddlement Draught]]
 - [[1 DIGITAL GARDEN/4.0 Potions/Confusing Concoction\|Confusing Concoction]]
+- [[1 DIGITAL GARDEN/4.0 Potions/Befuddlement Draught\|Befuddlement Draught]]
 
 { .block-language-dataview}
 

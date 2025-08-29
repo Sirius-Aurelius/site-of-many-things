@@ -6,7 +6,7 @@
 >[!info]
 >**Role**:: Hufflepuff student (3rd year in 1939)
 >**ThreeWordSummary**:: Artistic, observant, quietly rebellious
->**UsuallyFoundIn**:: [[1 DIGITAL GARDEN/8.0 PLACES/8.2 Hogwarts School/8.3.01 Hufflepuff Tower\|Hufflepuff Tower]],
+>**UsuallyFoundIn**:: [[1 DIGITAL GARDEN/8.0 PLACES/8.2 Hogwarts School/8.3.01 Hufflepuff Tower\|Hufflepuff Tower]], [[1 DIGITAL GARDEN/8.0 PLACES/8.2 Hogwarts School/8.3.01.01 Hufflepuff Common Room\|Hufflepuff Common Room]], [[1 DIGITAL GARDEN/8.0 PLACES/8.2 Hogwarts School/8.3.01.02 Hufflepuff Dormitories\|Hufflepuff Dormitories]]
 
 # Description
 

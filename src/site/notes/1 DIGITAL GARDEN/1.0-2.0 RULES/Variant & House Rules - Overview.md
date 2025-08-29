@@ -53,6 +53,7 @@
 - [[1 DIGITAL GARDEN/1.0-2.0 RULES/2.0 HOUSE RULES/02.04 Inspiration permits reroll\|02.04 Inspiration permits reroll]]
 - [[1 DIGITAL GARDEN/1.0-2.0 RULES/2.0 HOUSE RULES/02.05 Initiative Tie Breaker\|02.05 Initiative Tie Breaker]]
 - [[1 DIGITAL GARDEN/1.0-2.0 RULES/2.0 HOUSE RULES/02.06 Option to decrease initiative roll\|02.06 Option to decrease initiative roll]]
+- [[1 DIGITAL GARDEN/1.0-2.0 RULES/2.0 HOUSE RULES/02.07 Learning a New Proficiency\|02.07 Learning a New Proficiency]]
 - [[1 DIGITAL GARDEN/1.0-2.0 RULES/2.0 HOUSE RULES/02.08 Critical Hits\|02.08 Critical Hits]]
 - [[1 DIGITAL GARDEN/1.0-2.0 RULES/2.0 HOUSE RULES/02.09 Critical Fails\|02.09 Critical Fails]]
 - [[1 DIGITAL GARDEN/1.0-2.0 RULES/2.0 HOUSE RULES/02.10 Long rests only in a place of safety\|02.10 Long rests only in a place of safety]]

@@ -5,19 +5,18 @@
 // Add faction, house, job and location tags as well as 'teaching subject for professors to properties. *==Then delete this line==*
 ![[==LINK TO CHARACTER PORTRAIT IMAGE==\|left]]
 >[!info] 
->**Role**::      // About this person in very brief terms
+>**Role**:: // About this person in very brief terms
+>**VoiceNotes**::
 >**ThreeWordSummary**:: // *Personality summary goes here in three words or three short phrases*
 >**UsuallyFoundIn**:: // Links to appropriate location pages go here
 
-# Description
+# Details
 
+## Description
 
-# Interactions
+## Notes
 
-| Session | Interactions |
-| ------- | ------------ |
-
-{ .block-language-dataview}
+# Canon
 
 # Relationships
 ##### Outbound:
@@ -30,10 +29,12 @@ Relationship::
 
 { .block-language-dataview}
 
+# Interactions
 
+| Session | Interactions |
+| ------- | ------------ |
 
-
-
+{ .block-language-dataview}
 
 
 ## DM Notes

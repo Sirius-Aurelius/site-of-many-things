@@ -26,6 +26,7 @@
 Relationship:: Arch-rival of [[1 DIGITAL GARDEN/7.0 PEOPLE/7.3 NPCs/Gellert Grindelwald\|Gellert Grindelwald]]
 Relationship:: Brother of [[1 DIGITAL GARDEN/7.0 PEOPLE/7.3 NPCs/Aberforth Dumbledore\|Aberforth Dumbledore]]
 Relationship:: Brother of [[1 DIGITAL GARDEN/7.0 PEOPLE/7.3 NPCs/Ariana Dumbledore (dec.)\|Ariana Dumbledore (dec.)]]
+Relationship:: Sponsor of [[1 DIGITAL GARDEN/7.0 PEOPLE/7.3 NPCs/Rubeus Hagrid\|Rubeus Hagrid]] from 1940 to his expulsion in 1943
 
 ##### Inbound
 | Related to:                                                                                    | Their relationship to this person   | Their role                                                                                  |
@@ -33,6 +34,7 @@ Relationship:: Brother of [[1 DIGITAL GARDEN/7.0 PEOPLE/7.3 NPCs/Ariana Dumbledo
 | [[1 DIGITAL GARDEN/7.0 PEOPLE/7.3 NPCs/Aberforth Dumbledore\|Aberforth Dumbledore]]         | Brother of [[1 DIGITAL GARDEN/7.0 PEOPLE/7.3 NPCs/Albus Dumbledore\|Albus Dumbledore]]     | Brother to [[1 DIGITAL GARDEN/7.0 PEOPLE/7.3 NPCs/Albus Dumbledore\|Albus Dumbledore]]                                                             |
 | [[1 DIGITAL GARDEN/7.0 PEOPLE/7.3 NPCs/Ariana Dumbledore (dec.)\|Ariana Dumbledore (dec.)]] | Late sister of [[1 DIGITAL GARDEN/7.0 PEOPLE/7.3 NPCs/Albus Dumbledore\|Albus Dumbledore]] | Late sister of [[1 DIGITAL GARDEN/7.0 PEOPLE/7.3 NPCs/Albus Dumbledore\|Albus]] & [[1 DIGITAL GARDEN/7.0 PEOPLE/7.3 NPCs/Aberforth Dumbledore\|Aberforth]] Dumbledore |
 | [[1 DIGITAL GARDEN/7.0 PEOPLE/7.3 NPCs/Gellert Grindelwald\|Gellert Grindelwald]]           | Archrival of [[1 DIGITAL GARDEN/7.0 PEOPLE/7.3 NPCs/Albus Dumbledore\|Albus Dumbledore]]   | Revolutionary/Terrorist Leader                                                              |
+| [[1 DIGITAL GARDEN/7.0 PEOPLE/7.3 NPCs/Rubeus Hagrid\|Rubeus Hagrid]]                       | Sponsored by [[1 DIGITAL GARDEN/7.0 PEOPLE/7.3 NPCs/Albus Dumbledore\|Albus Dumbledore]]   | Gryffindor Student (1st year in 1940)                                                       |
 
 { .block-language-dataview}
 

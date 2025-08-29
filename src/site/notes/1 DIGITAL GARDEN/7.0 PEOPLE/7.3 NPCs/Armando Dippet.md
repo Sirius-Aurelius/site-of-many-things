@@ -16,9 +16,8 @@
 
 # Interactions
 
-| Session                                                                                                 | Interactions                                                                                                                                                                                                                                                                                              |
-| ------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [[1 DIGITAL GARDEN/9.0 Chronicles/Session 1 - Welcome to Hogwarts\|Session 1 - Welcome to Hogwarts]] | [[1 DIGITAL GARDEN/7.0 PEOPLE/7.1 PCs/Cassie Weasley (Karima)\|Cassie Weasley]], [[1 DIGITAL GARDEN/7.0 PEOPLE/7.1 PCs/Vi Thorne (Charlie)\|Vi Thorne]] & [[1 DIGITAL GARDEN/7.0 PEOPLE/7.1 PCs/Basil Featherstone (Nick)\|Basil Featherstone]] listen to Headmaster [[1 DIGITAL GARDEN/7.0 PEOPLE/7.3 NPCs/Armando Dippet\|Armando Dippet]]'s annual address, welcoming students against a backdrop of 'stirrings in the wider world', including rumours of a Muggle war. |
+| Session | Interactions |
+| ------- | ------------ |
 
 { .block-language-dataview}
 

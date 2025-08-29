@@ -10,8 +10,8 @@
 
 ## Used in:
 
-- [[1 DIGITAL GARDEN/4.0 Potions/Herbicide Potion\|Herbicide Potion]]
 - [[1 DIGITAL GARDEN/4.0 Potions/Invisibility Potion\|Invisibility Potion]]
+- [[1 DIGITAL GARDEN/4.0 Potions/Herbicide Potion\|Herbicide Potion]]
 - [[1 DIGITAL GARDEN/4.0 Potions/Girding Potion\|Girding Potion]]
 - [[1 DIGITAL GARDEN/10.0 CREATURES/WW Bestiary/Doxy\|Doxy]]
 

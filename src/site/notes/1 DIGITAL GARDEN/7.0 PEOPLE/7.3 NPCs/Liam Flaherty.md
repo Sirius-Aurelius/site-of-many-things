@@ -6,7 +6,7 @@
 >![Liam Flaherty.png|left|300](/img/user/1%20DIGITAL%20GARDEN/7.0%20PEOPLE/7.3%20NPCs/Headshots/Liam%20Flaherty.png)
 >**Role**:: Hufflepuff student (1st year in 1939)
 >**ThreeWordSummary**:: Sturdy, rumpled, earnest
->**UsuallyFoundIn**:: [[1 DIGITAL GARDEN/8.0 PLACES/8.2 Hogwarts School/8.3.01 Hufflepuff Tower\|Hufflepuff Tower]], [[1 DIGITAL GARDEN/8.0 PLACES/8.2 Hogwarts School/8.2.01 Herbology Greenhouses\|Herbology Greenhouses]], [[1 DIGITAL GARDEN/8.0 PLACES/8.2 Hogwarts School/8.4.05 School Kitchens\|School Kitchens]]
+>**UsuallyFoundIn**:: [[1 DIGITAL GARDEN/8.0 PLACES/8.2 Hogwarts School/8.3.01 Hufflepuff Tower\|Hufflepuff Tower]], [[1 DIGITAL GARDEN/8.0 PLACES/8.2 Hogwarts School/8.2.01 Herbology Greenhouses\|Herbology Greenhouses]], [[1 DIGITAL GARDEN/8.0 PLACES/8.2 Hogwarts School/8.4.05 School Kitchens\|School Kitchens]], [[1 DIGITAL GARDEN/8.0 PLACES/8.2 Hogwarts School/8.3.01.01 Hufflepuff Common Room\|Hufflepuff Common Room]], [[1 DIGITAL GARDEN/8.0 PLACES/8.2 Hogwarts School/8.3.01.02 Hufflepuff Dormitories\|Hufflepuff Dormitories]]
 
 
 # Description
@@ -19,8 +19,9 @@
 
 # Interactions
 
-| Session | Interactions |
-| ------- | ------------ |
+| Session                                                                                                 | Interactions                                                                                                                                                                                                                                                                     |
+| ------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [[1 DIGITAL GARDEN/9.0 Chronicles/Session 1 - Welcome to Hogwarts\|Session 1 - Welcome to Hogwarts]] | [[1 DIGITAL GARDEN/7.0 PEOPLE/7.1 PCs/Cassie Weasley (Karima)\|Cassie Weasley]], [[1 DIGITAL GARDEN/7.0 PEOPLE/7.1 PCs/Vi Thorne (Charlie)\|Vi Thorne]] & [[1 DIGITAL GARDEN/7.0 PEOPLE/7.1 PCs/Basil Featherstone (Nick)\|Basil Featherstone]] meet [[1 DIGITAL GARDEN/7.0 PEOPLE/7.3 NPCs/Finnian (Finn) O'Malley\|Finnian (Finn) O'Malley]] (lots of siblings), [[1 DIGITAL GARDEN/7.0 PEOPLE/7.3 NPCs/Lily Buttercup\|Lily Buttercup]] (space cadet) & [[1 DIGITAL GARDEN/7.0 PEOPLE/7.3 NPCs/Liam Flaherty\|Liam Flaherty]] (food-lover) at the welcome feast. |
 
 { .block-language-dataview}
 
