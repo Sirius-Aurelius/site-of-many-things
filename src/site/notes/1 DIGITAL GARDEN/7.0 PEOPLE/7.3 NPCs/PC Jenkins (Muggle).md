@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-digital-garden/7-0-people/7-3-np-cs/pc-jenkins-muggle/","tags":["#person","wider-world","muggle"]}
+{"dg-publish":true,"permalink":"/1-digital-garden/7-0-people/7-3-np-cs/pc-jenkins-muggle/","tags":["#person","wider-world","muggle","local-official"]}
 ---
 
 ![[==LINK TO CHARACTER PORTRAIT IMAGE==\|left]]
