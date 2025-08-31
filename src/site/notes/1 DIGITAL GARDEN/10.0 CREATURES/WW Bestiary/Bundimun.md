@@ -3,7 +3,7 @@
 ---
 
 
-[IMAGE]
+![Bundimun.jpeg|left|250](/img/user/1%20DIGITAL%20GARDEN/10.0%20CREATURES/(Attachments)/WW%20Bestiary/Bundimun.jpeg)
 
 ## Variants
 *Statblocks only visible to DM*

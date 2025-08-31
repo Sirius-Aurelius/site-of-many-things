@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-digital-garden/3-0-spells/flagrate/"}
+{"dg-publish":true,"permalink":"/1-digital-garden/3-0-spells/flagrate/","tags":["DnDB-done"]}
 ---
 
  The Lettering Charm - Charm cantrip 

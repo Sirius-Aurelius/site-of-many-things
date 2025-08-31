@@ -15,6 +15,17 @@
 - **Gossip:** "Reggie can tell who's been out of bed just by the dust on the floor." "He's got a map of the entire castle in his head." "He's always complaining about Peeves, but I think he secretly enjoys the chase." "He keeps talking to the gargoyles."
     
 
+# Relationships
+##### Outbound:
+Relationship:: Frenemy of [[Sophomora Meadowsweet\|Sophomora Meadowsweet]]
+
+##### Inbound
+| Related to: | Their relationship to this person | Their role |
+| ----------- | --------------------------------- | ---------- |
+
+{ .block-language-dataview}
+
+
 # Interactions
 
 | Session                                                                                                   | Interactions                                                                                                                                                                                                                                                                                                                        |

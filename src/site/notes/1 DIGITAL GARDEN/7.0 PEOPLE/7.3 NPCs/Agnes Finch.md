@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-digital-garden/7-0-people/7-3-np-cs/agnes-finch/","tags":["#person","hogwarts","student","hufflepuff"]}
+{"dg-publish":true,"permalink":"/1-digital-garden/7-0-people/7-3-np-cs/agnes-finch/","tags":["#person","hogwarts","student","hufflepuff","slug-club"]}
 ---
 
 ![Agnes Finch.png|left|300](/img/user/1%20DIGITAL%20GARDEN/7.0%20PEOPLE/7.3%20NPCs/Headshots/Agnes%20Finch.png)

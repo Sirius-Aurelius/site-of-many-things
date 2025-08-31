@@ -6,7 +6,7 @@
 
 **Source::** Creature part ([[1 DIGITAL GARDEN/10.0 CREATURES/WW Bestiary/Billywig\|Billywig]] stings)
 
-**Likely Habitats::** * Warm, tropical climates * Bushland and open fields * Near magical flora
+**Likely Habitats::** Warm, tropical climates (native to Autralia), Bushland, open fields, near magical flora
 
 ## Used in:
 

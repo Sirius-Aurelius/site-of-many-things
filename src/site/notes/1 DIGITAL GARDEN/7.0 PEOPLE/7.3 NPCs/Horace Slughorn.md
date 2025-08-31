@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/1-digital-garden/7-0-people/7-3-np-cs/horace-slughorn/","tags":["#person","hogwarts-faculty","hogwarts","professor","slytherin","slug-club"]}
 ---
 
+![Horace Slughorn.png|left|300](/img/user/1%20DIGITAL%20GARDEN/7.0%20PEOPLE/7.3%20NPCs/Headshots/Horace%20Slughorn.png)
 >[!info] 
 >**Role**:: Professor of Potions at [[1 DIGITAL GARDEN/8.0 PLACES/8.2 Hogwarts School/8.2.0 Hogwarts School - Overview\|Hogwarts School of Witchcraft & Wizardry]]. Head of [[1 DIGITAL GARDEN/7.0 PEOPLE/7.2 Factions/07.2.06 Slytherin House\|Slytherin House]]
 >**ThreeWordSummary**:: Jovial, opulent, celebrity-obsessed
