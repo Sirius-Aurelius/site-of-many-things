@@ -17,9 +17,9 @@ None
 
 ## Recipe:
 
-- 1 [[1 DIGITAL GARDEN/5.0 Ingredients/05.1 Plants/Bundle of peppermint\|Bundle of peppermint]]
-- 1 [[1 DIGITAL GARDEN/5.0 Ingredients/05.1 Plants/Bundle of shrivelfigs\|Bundle of shrivelfigs]]
-- 1 [[1 DIGITAL GARDEN/5.0 Ingredients/05.1 Plants/Flask of wormwood infusion\|Flask of wormwood infusion]]
+- 1 [[1 DIGITAL GARDEN/5.0 Ingredients/05.1 Plants/Peppermint, Bundle of\|Peppermint, Bundle of]]
+- 1 [[1 DIGITAL GARDEN/5.0 Ingredients/05.1 Plants/Shrivelfigs, Bundle of\|Shrivelfigs, Bundle of]]
+- 1 [[1 DIGITAL GARDEN/5.0 Ingredients/05.1 Plants/Wormwood infusion, Flask of\|Wormwood infusion, Flask of]]
 - 1 [[1 DIGITAL GARDEN/5.0 Ingredients/05.1 Creatures/Porcupine quill\|Porcupine quill]]
 
 **Flawed**:

@@ -18,11 +18,11 @@ On its next turn, the victim must take the dash action and move away from that c
 
 ## Recipe:
 
-* 1 [[1 DIGITAL GARDEN/5.0 Ingredients/05.1 Plants/Bundle of weed-of-sorrows\|Bundle of weed-of-sorrows]]
+* 1 [[1 DIGITAL GARDEN/5.0 Ingredients/05.1 Plants/Weed-of-sorrows, Bundle of\|Weed-of-sorrows, Bundle of]]
 * 1 [[1 DIGITAL GARDEN/5.0 Ingredients/05.1 Creatures/Clutch of runespoor eggs\|Clutch of runespoor eggs]]
 * 1 [[1 DIGITAL GARDEN/5.0 Ingredients/05.1 Creatures/Giant purple toad wart\|Giant purple toad wart]]
-* 1 [[1 DIGITAL GARDEN/5.0 Ingredients/05.1 Plants/Vial of belladonna essence\|Vial of belladonna essence]]
-* 1 [[1 DIGITAL GARDEN/5.0 Ingredients/05.1 Plants/Vial of syrup of arnica\|Vial of syrup of arnica]]
+* 1 [[1 DIGITAL GARDEN/5.0 Ingredients/05.1 Plants/Belladonna essence, Vial of\|Belladonna essence, Vial of]]
+* 1 [[1 DIGITAL GARDEN/5.0 Ingredients/05.1 Plants/Arnica, Vial of syrup of\|Arnica, Vial of syrup of]]
 
 **Flawed**:
 The duration is 10 minutes, instead of 1 hour.

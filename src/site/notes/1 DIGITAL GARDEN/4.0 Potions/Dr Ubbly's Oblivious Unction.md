@@ -16,7 +16,7 @@ None
 ## Recipe:
 
 - 1 [[1 DIGITAL GARDEN/5.0 Ingredients/05.1 Mundane/Flask of Lethe river water\|Flask of Lethe river water]]
-- 1 [[1 DIGITAL GARDEN/5.0 Ingredients/05.1 Plants/Flask of vervain infusion\|Flask of vervain infusion]]
+- 1 [[1 DIGITAL GARDEN/5.0 Ingredients/05.1 Plants/Vervain infusion, Flask of\|Vervain infusion, Flask of]]
 - 1 [[1 DIGITAL GARDEN/5.0 Ingredients/05.1 Creatures/Frog brain\|Frog brain]]
 - 1 [[1 DIGITAL GARDEN/5.0 Ingredients/05.1 Creatures/Granian hair\|Granian hair]]
 

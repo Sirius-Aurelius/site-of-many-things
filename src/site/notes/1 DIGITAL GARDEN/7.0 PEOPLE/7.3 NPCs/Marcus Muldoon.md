@@ -14,8 +14,9 @@ Marcus is a self-assured and often arrogant boy, accustomed to getting his way. 
 
 # Interactions
 
-| Session | Interactions |
-| ------- | ------------ |
+| Session                                                                                                                           | Interactions                                                                                                                                                                                                                                                                   |
+| --------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| [[1 DIGITAL GARDEN/9.0 Chronicles/Session 03 - Foray Into the Forbidden Forest\|Session 03 - Foray Into the Forbidden Forest]] | [[1 DIGITAL GARDEN/7.0 PEOPLE/7.1 PCs/Cassie Weasley (Karima)\|Cassie Weasley]] antagonises [[1 DIGITAL GARDEN/7.0 PEOPLE/7.3 NPCs/Marcus Muldoon\|Marcus Muldoon]] during the joint ([[1 DIGITAL GARDEN/8.0 PLACES/8.4 Hogwarts Valley/8.4.1.0 Forbidden Forest\|Forbidden Forest]]) Potions/Herbology class with [[1 DIGITAL GARDEN/7.0 PEOPLE/7.2 Factions/07.2.06 Slytherin House\|Slytherin House]], tripping him so that he falls into [[1 DIGITAL GARDEN/7.0 PEOPLE/7.3 NPCs/Horace Slughorn\|Horace Slughorn]] |
 
 { .block-language-dataview}
 

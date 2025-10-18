@@ -18,9 +18,9 @@ Until this poison ends, the creature can't be healed by any means. After seven s
 
 ## Recipe:
 
-- 1 [[1 DIGITAL GARDEN/5.0 Ingredients/05.1 Plants/Bundle of cowbane\|Bundle of cowbane]]
-- 1 [[1 DIGITAL GARDEN/5.0 Ingredients/05.1 Plants/Bundle of shrivelfigs\|Bundle of shrivelfigs]]
-- 2 [[1 DIGITAL GARDEN/5.0 Ingredients/05.1 Plants/Cluster of baneberries\|Cluster of baneberries]]
+- 1 [[1 DIGITAL GARDEN/5.0 Ingredients/05.1 Plants/Cowbane, Bundle of\|Cowbane, Bundle of]]
+- 1 [[1 DIGITAL GARDEN/5.0 Ingredients/05.1 Plants/Shrivelfigs, Bundle of\|Shrivelfigs, Bundle of]]
+- 2 [[1 DIGITAL GARDEN/5.0 Ingredients/05.1 Plants/Baneberries, Cluster of\|Baneberries, Cluster of]]
 
 **Flawed**:
 The saving throw's DC is 10 instead of 13

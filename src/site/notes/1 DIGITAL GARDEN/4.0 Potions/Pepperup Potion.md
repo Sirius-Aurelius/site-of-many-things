@@ -15,9 +15,9 @@ One level of exhaustion is removed for the duration, but it is regained at the e
 
 ## Recipe:
 
-* 1 [[1 DIGITAL GARDEN/5.0 Ingredients/05.1 Plants/Cluster of boom berries\|Cluster of boom berries]]
-* 1 [[1 DIGITAL GARDEN/5.0 Ingredients/05.1 Mundane/Flask of ethanol\|Flask of ethanol]]
-* 1 [[1 DIGITAL GARDEN/5.0 Ingredients/05.1 Plants/Flask of vervain infusion\|Flask of vervain infusion]]
+* 1 [[1 DIGITAL GARDEN/5.0 Ingredients/05.1 Plants/Boom berries, Cluster of\|Boom berries, Cluster of]]
+* 1 [[1 DIGITAL GARDEN/5.0 Ingredients/05.1 Mundane/Ethanol, Flask of\|Ethanol, Flask of]]
+* 1 [[1 DIGITAL GARDEN/5.0 Ingredients/05.1 Plants/Vervain infusion, Flask of\|Vervain infusion, Flask of]]
 * 1 [[1 DIGITAL GARDEN/5.0 Ingredients/05.1 Creatures/Powdered octopus\|Powdered octopus]]
 
 **Flawed**:

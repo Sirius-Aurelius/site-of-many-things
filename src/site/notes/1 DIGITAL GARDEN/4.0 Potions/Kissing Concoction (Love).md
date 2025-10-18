@@ -18,10 +18,10 @@ If the brewer uses a bonus action to tell the charmed subject where the chosen b
 
 ## Recipe:
 
-- 1 [[1 DIGITAL GARDEN/5.0 Ingredients/05.1 Plants/Bundle of alihotsy leaves\|Bundle of alihotsy leaves]]
-- 1 [[1 DIGITAL GARDEN/5.0 Ingredients/05.1 Plants/Cluster of mistletoe berries\|Cluster of mistletoe berries]]
-- 1 [[1 DIGITAL GARDEN/5.0 Ingredients/05.1 Mundane/Powdered moonstone\|Powdered moonstone]]
-- 2 [[1 DIGITAL GARDEN/5.0 Ingredients/05.1 Mundane/Vial of pearl dust\|Vial of pearl dust]]
+- 1 [[1 DIGITAL GARDEN/5.0 Ingredients/05.1 Plants/Alihotsy leaves, Bundle of\|Alihotsy leaves, Bundle of]]
+- 1 [[1 DIGITAL GARDEN/5.0 Ingredients/05.1 Plants/Mistletoe berries, Cluster of\|Mistletoe berries, Cluster of]]
+- 1 [[1 DIGITAL GARDEN/5.0 Ingredients/05.1 Mundane/Moonstone, Powdered\|Moonstone, Powdered]]
+- 2 [[1 DIGITAL GARDEN/5.0 Ingredients/05.1 Mundane/Pearl dust, Vial of\|Pearl dust, Vial of]]
 
 
 **Flawed**:

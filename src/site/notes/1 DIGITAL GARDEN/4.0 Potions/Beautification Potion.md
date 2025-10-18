@@ -13,7 +13,7 @@ None
 
 ## Recipe:
 
-- 1 [[1 DIGITAL GARDEN/5.0 Ingredients/05.1 Plants/Bundle of lady's mantle\|Bundle of lady's mantle]]
+- 1 [[1 DIGITAL GARDEN/5.0 Ingredients/05.1 Plants/Lady's mantle, Bundle of\|Lady's mantle, Bundle of]]
 - 1 [[1 DIGITAL GARDEN/5.0 Ingredients/05.1 Creatures/Granian hair\|Granian hair]]
 - 1 [[1 DIGITAL GARDEN/5.0 Ingredients/05.1 Creatures/Set of fairy wings\|Set of fairy wings]]
 

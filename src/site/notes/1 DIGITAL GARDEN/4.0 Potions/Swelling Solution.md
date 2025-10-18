@@ -16,9 +16,9 @@ When you drink this potion, you gain the effects of the [[1 DIGITAL GARDEN/3.0 S
 ## Recipe:
 
 - 1 [[1 DIGITAL GARDEN/5.0 Ingredients/05.1 Creatures/Bat spleen\|Bat spleen]]
-- 1 [[1 DIGITAL GARDEN/5.0 Ingredients/05.1 Plants/Bundle of nettles\|Bundle of nettles]]
+- 1 [[1 DIGITAL GARDEN/5.0 Ingredients/05.1 Plants/Nettles, Bundle of\|Nettles, Bundle of]]
 - 1 [[1 DIGITAL GARDEN/5.0 Ingredients/05.1 Creatures/Flask of pufferfish eyes\|Flask of pufferfish eyes]]
-- 1 [[1 DIGITAL GARDEN/5.0 Ingredients/05.1 Plants/Vial of exploding ginger eyelashes\|Vial of exploding ginger eyelashes]]
+- 1 [[1 DIGITAL GARDEN/5.0 Ingredients/05.1 Plants/Exploding ginger eyelashes, Vial of\|Exploding ginger eyelashes, Vial of]]
 
 **Flawed**:
 The duration 1d4 is divided by 2 (rounded up)

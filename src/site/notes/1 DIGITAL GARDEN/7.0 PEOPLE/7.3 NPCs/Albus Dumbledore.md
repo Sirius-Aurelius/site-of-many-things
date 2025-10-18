@@ -16,8 +16,9 @@
 
 # Interactions
 
-| Session | Interactions |
-| ------- | ------------ |
+| Session                                                                                       | Interactions                                                                                                                                                                                                                                                                                                    |
+| --------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [[1 DIGITAL GARDEN/9.0 Chronicles/Session 02 - First Lessons\|Session 02 - First Lessons]] | [[1 DIGITAL GARDEN/7.0 PEOPLE/7.1 PCs/Cassie Weasley (Karima)\|Cassie Weasley]], [[1 DIGITAL GARDEN/7.0 PEOPLE/7.1 PCs/Vi Thorne (Charlie)\|Vi Thorne]] & [[1 DIGITAL GARDEN/7.0 PEOPLE/7.1 PCs/Basil Featherstone (Nick)\|Basil Featherstone]] learn - with some kindly steering from [[1 DIGITAL GARDEN/7.0 PEOPLE/7.3 NPCs/Albus Dumbledore\|Albus Dumbledore]] - [[1 DIGITAL GARDEN/3.0 Spells/Vera Verto\|Vera Verto]] ([[1 DIGITAL GARDEN/7.0 PEOPLE/7.1 PCs/Vi Thorne (Charlie)\|Vi Thorne]] being somewhat starstruck by the Frog Card face in person) |
 
 { .block-language-dataview}
 

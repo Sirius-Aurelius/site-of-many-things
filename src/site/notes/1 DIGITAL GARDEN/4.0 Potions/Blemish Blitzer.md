@@ -14,8 +14,8 @@ This specially formulated potion will magically remove any acne or blemishes fro
 
 ## Recipe:
 
-* 1 [[1 DIGITAL GARDEN/5.0 Ingredients/05.1 Plants/Bundle of nettles\|Bundle of nettles]]
-* 1 [[1 DIGITAL GARDEN/5.0 Ingredients/05.1 Plants/Flask of bubotuber pus\|Flask of bubotuber pus]]
+* 1 [[1 DIGITAL GARDEN/5.0 Ingredients/05.1 Plants/Nettles, Bundle of\|Nettles, Bundle of]]
+* 1 [[1 DIGITAL GARDEN/5.0 Ingredients/05.1 Plants/Bubotuber pus, Flask of\|Bubotuber pus, Flask of]]
 * 1 [[1 DIGITAL GARDEN/5.0 Ingredients/05.1 Creatures/Flask of flobberworm mucus\|Flask of flobberworm mucus]]
 * 1 [[1 DIGITAL GARDEN/5.0 Ingredients/05.1 Creatures/Porcupine quill\|Porcupine quill]]
 

@@ -14,8 +14,9 @@ Agnes is a quiet, observant student with a surprising knack for herbology. She's
 
 # Interactions
 
-| Session | Interactions |
-| ------- | ------------ |
+| Session                                                                                       | Interactions                                                                                                                                                                                                  |
+| --------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [[1 DIGITAL GARDEN/9.0 Chronicles/Session 02 - First Lessons\|Session 02 - First Lessons]] | [[1 DIGITAL GARDEN/7.0 PEOPLE/7.1 PCs/Vi Thorne (Charlie)\|Vi Thorne]] & [[1 DIGITAL GARDEN/7.0 PEOPLE/7.1 PCs/Cassie Weasley (Karima)\|Cassie Weasley (Karima)]] meet [[1 DIGITAL GARDEN/7.0 PEOPLE/7.3 NPCs/Agnes Finch\|Agnes Finch]], a fellow Hufflepuff 1st year who revealed herself as the niece of [[1 DIGITAL GARDEN/7.0 PEOPLE/7.3 NPCs/Jackdaw Finch\|Jackdaw Finch]] and the missing [[1 DIGITAL GARDEN/7.0 PEOPLE/7.3 NPCs/Septimus Finch\|Septimus Finch]] |
 
 { .block-language-dataview}
 

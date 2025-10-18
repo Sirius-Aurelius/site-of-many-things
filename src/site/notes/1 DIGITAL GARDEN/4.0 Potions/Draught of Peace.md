@@ -21,8 +21,8 @@ Additionally, if you are hostile, you will become indifferent to the targets of 
 ## Recipe:
 
 * 1 [[1 DIGITAL GARDEN/5.0 Ingredients/05.1 Creatures/Porcupine quill\|Porcupine quill]]
-* 1 [[1 DIGITAL GARDEN/5.0 Ingredients/05.1 Mundane/Powdered moonstone\|Powdered moonstone]]
-* 1 [[1 DIGITAL GARDEN/5.0 Ingredients/05.1 Plants/Vial of syrup of hellebore\|Vial of syrup of hellebore]]
+* 1 [[1 DIGITAL GARDEN/5.0 Ingredients/05.1 Mundane/Moonstone, Powdered\|Moonstone, Powdered]]
+* 1 [[1 DIGITAL GARDEN/5.0 Ingredients/05.1 Plants/Hellebore, Vial of syrup of\|Hellebore, Vial of syrup of]]
 
 **Flawed**:
 There are no effects on the charmed condition

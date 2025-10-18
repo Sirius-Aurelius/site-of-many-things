@@ -5,5 +5,9 @@
 
 - [[1 DIGITAL GARDEN/9.0 Chronicles/Session 00 - The Wand Chooses the Wizard\|Session 00 - The Wand Chooses the Wizard]]
 - [[1 DIGITAL GARDEN/9.0 Chronicles/Session 01 - Welcome to Hogwarts\|Session 01 - Welcome to Hogwarts]]
+- [[1 DIGITAL GARDEN/9.0 Chronicles/Session 02 - First Lessons\|Session 02 - First Lessons]]
+- [[1 DIGITAL GARDEN/9.0 Chronicles/Session 03 - Foray Into the Forbidden Forest\|Session 03 - Foray Into the Forbidden Forest]]
+- [[1 DIGITAL GARDEN/9.0 Chronicles/Session 04 - Voices from Elsewhere\|Session 04 - Voices from Elsewhere]]
+- [[1 DIGITAL GARDEN/9.0 Chronicles/Session 05 - Trouble at the Mine\|Session 05 - Trouble at the Mine]]
 
 { .block-language-dataview}

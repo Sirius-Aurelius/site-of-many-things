@@ -10,6 +10,7 @@
 
 ## Used in:
 
+- [[0 DM SCREEN/0 LIVE SESSION NOTES/Session 03 - First Foray to the Forbidden Forest\|Session 03 - First Foray to the Forbidden Forest]]
 - [[1 DIGITAL GARDEN/4.0 Potions/Sleeping Draught\|Sleeping Draught]]
 - [[1 DIGITAL GARDEN/4.0 Potions/Herbicide Potion\|Herbicide Potion]]
 - [[1 DIGITAL GARDEN/4.0 Potions/Blemish Blitzer\|Blemish Blitzer]]

@@ -40,8 +40,9 @@ Relationship::
 
 # Interactions
 
-| Session | Interactions |
-| ------- | ------------ |
+| Session                                                                                       | Interactions                                                                                                                                                                                                                                                                                                                                                                             |
+| --------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [[1 DIGITAL GARDEN/9.0 Chronicles/Session 02 - First Lessons\|Session 02 - First Lessons]] | [[1 DIGITAL GARDEN/7.0 PEOPLE/7.1 PCs/Cassie Weasley (Karima)\|Cassie Weasley]] seeks some familiarity in Quidditch, but instead finds the arena mothballed because Professor [[1 DIGITAL GARDEN/7.0 PEOPLE/7.3 NPCs/Cirrus Vane\|Cirrus Vane]], a former Bow Hammers U21, has not joined the faculty for the start of term. She has "extended her summer break for personal reasons". There will be no flying lessons or Quidditch tryouts until after the October Half Term. |
 
 { .block-language-dataview}
 

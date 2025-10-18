@@ -10,6 +10,7 @@
 
 ## Used in:
 
+- [[1 DIGITAL GARDEN/9.0 Chronicles/Session 03 - Foray Into the Forbidden Forest\|Session 03 - Foray Into the Forbidden Forest]]
 - [[1 DIGITAL GARDEN/4.0 Potions/Wide-Eye Potion\|Wide-Eye Potion]]
 - [[1 DIGITAL GARDEN/4.0 Potions/Antidote of Uncommon Poisons\|Antidote of Uncommon Poisons]]
 - [[1 DIGITAL GARDEN/4.0 Potions/Antidote of Common Poisons\|Antidote of Common Poisons]]

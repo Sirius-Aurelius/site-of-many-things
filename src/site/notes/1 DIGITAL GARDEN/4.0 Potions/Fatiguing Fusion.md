@@ -13,9 +13,9 @@ None
 
 ## Recipe:
 
-- 1 [[1 DIGITAL GARDEN/5.0 Ingredients/05.1 Plants/Bundle of angel's trumpet\|Bundle of angel's trumpet]]
+- 1 [[1 DIGITAL GARDEN/5.0 Ingredients/05.1 Plants/Angel's trumpet, Bundle of\|Angel's trumpet, Bundle of]]
 - 1 [[1 DIGITAL GARDEN/5.0 Ingredients/05.1 Creatures/Vial of chizpurfle carapaces\|Vial of chizpurfle carapaces]]
-- 1 [[1 DIGITAL GARDEN/5.0 Ingredients/05.1 Plants/Vial of syrup of arnica\|Vial of syrup of arnica]]
+- 1 [[1 DIGITAL GARDEN/5.0 Ingredients/05.1 Plants/Arnica, Vial of syrup of\|Arnica, Vial of syrup of]]
 
 **Flawed**:
 The potion's effect is 2 levels of exhaustion, instead of 3 levels.

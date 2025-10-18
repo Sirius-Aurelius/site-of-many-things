@@ -12,9 +12,9 @@ None
 
 ## Recipe:
 - 1 [[1 DIGITAL GARDEN/5.0 Ingredients/05.1 Creatures/Bat spleen\|Bat spleen]]
-- 1 [[1 DIGITAL GARDEN/5.0 Ingredients/05.1 Plants/Bundle of gurdyroots\|Bundle of gurdyroots]]
-- 1 [[1 DIGITAL GARDEN/5.0 Ingredients/05.1 Plants/Bundle of poppy heads\|Bundle of poppy heads]]
-- 1 [[1 DIGITAL GARDEN/5.0 Ingredients/05.1 Mundane/Flask of ethanol\|Flask of ethanol]]
+- 1 [[1 DIGITAL GARDEN/5.0 Ingredients/05.1 Plants/Gurdyroots, Bundle of\|Gurdyroots, Bundle of]]
+- 1 [[1 DIGITAL GARDEN/5.0 Ingredients/05.1 Plants/Poppy heads, Bundle of\|Poppy heads, Bundle of]]
+- 1 [[1 DIGITAL GARDEN/5.0 Ingredients/05.1 Mundane/Ethanol, Flask of\|Ethanol, Flask of]]
 
 **Flawed**:
 The duration is 12 seconds instead of 1 minute

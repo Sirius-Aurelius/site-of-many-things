@@ -73,7 +73,7 @@
 * **1937:** Minerva McGonagall starts attending Hogwarts.
 * **Spring or Summer 1938:** Albus Dumbledore visits Tom Riddle at Wool's Orphanage, informs him he is a wizard, and invites him to Hogwarts.
 * **September 1, 1938:** Tom Riddle begins his first year at Hogwarts School of Witchcraft and Wizardry and is sorted into Slytherin House.
-* **September 1, 1939:** World War II officially begins.
+* **September 1, 1939:** World War II, and the story of [[1 DIGITAL GARDEN/7.0 PEOPLE/7.1 PCs/Cassie Weasley (Karima)\|Cassie Weasley]], [[1 DIGITAL GARDEN/7.0 PEOPLE/7.1 PCs/Vi Thorne (Charlie)\|Vi Thorne]] & [[1 DIGITAL GARDEN/7.0 PEOPLE/7.1 PCs/Basil Featherstone (Nick)\|Basil Featherstone]], begin.
 
 ### Ongoing Rules and Laws of Note (Active during this period):
 
@@ -133,5 +133,5 @@
     * *Ex-Auror.*
 * **1912 - 1923:** **Archer Evermonde**
 * **1923 - 1925:** **Lorcan McLaird**
-* **1925 - 1939 (and beyond):** **Hector Fawley**
+* **1925 - 1939 (and beyond):** **[[1 DIGITAL GARDEN/7.0 PEOPLE/7.3 NPCs/Hector Fawley, Minister of Magic\|Hector Fawley, Minister of Magic]]**
 

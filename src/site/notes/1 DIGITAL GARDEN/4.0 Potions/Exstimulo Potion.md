@@ -14,7 +14,7 @@ None
 ## Recipe:
 
 - 1 [[1 DIGITAL GARDEN/5.0 Ingredients/05.1 Creatures/Abraxan hair\|Abraxan hair]]
-- 1 [[1 DIGITAL GARDEN/5.0 Ingredients/05.1 Plants/Bundle of galanthus nivalis\|Bundle of galanthus nivalis]]
+- 1 [[1 DIGITAL GARDEN/5.0 Ingredients/05.1 Plants/Galanthus nivalis, Bundle of\|Galanthus nivalis, Bundle of]]
 - 1 [[1 DIGITAL GARDEN/5.0 Ingredients/05.1 Creatures/Flask of re'em blood\|Flask of re'em blood]]
 
 **Flawed**:

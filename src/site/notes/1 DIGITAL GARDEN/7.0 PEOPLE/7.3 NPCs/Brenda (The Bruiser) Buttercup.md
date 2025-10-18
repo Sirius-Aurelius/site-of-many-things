@@ -17,8 +17,9 @@ From player back story:
 
 # Interactions
 
-| Session | Interactions |
-| ------- | ------------ |
+| Session                                                                                       | Interactions                                                                                                                                                                                                                                                                                                                             |
+| --------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [[1 DIGITAL GARDEN/9.0 Chronicles/Session 02 - First Lessons\|Session 02 - First Lessons]] | [[1 DIGITAL GARDEN/7.0 PEOPLE/7.1 PCs/Cassie Weasley (Karima)\|Cassie Weasley]] approached [[1 DIGITAL GARDEN/7.0 PEOPLE/7.3 NPCs/Lily Buttercup\|Lily Buttercup]] to seek an autograph for [[1 DIGITAL GARDEN/7.0 PEOPLE/7.3 NPCs/Brenda (The Bruiser) Buttercup\|Brenda (The Bruiser) Buttercup]], Lily's professional Quidditch playing aunt. Lily says she is unable to get such a thing, though [[1 DIGITAL GARDEN/7.0 PEOPLE/7.1 PCs/Basil Featherstone (Nick)\|Basil Featherstone]] sensed there may be more to the story than that |
 
 { .block-language-dataview}
 

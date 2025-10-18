@@ -19,7 +19,7 @@ None
 
 ## Recipe:
 
-- 2 [[1 DIGITAL GARDEN/5.0 Ingredients/05.1 Plants/Bundle of bloodroot\|Bundle of bloodroot]]
+- 2 [[1 DIGITAL GARDEN/5.0 Ingredients/05.1 Plants/Bloodroot, Bundle of\|Bloodroot, Bundle of]]
 - 1 [[1 DIGITAL GARDEN/5.0 Ingredients/05.1 Creatures/Powdered streeler shell\|Powdered streeler shell]]
 
 **Flawed**:

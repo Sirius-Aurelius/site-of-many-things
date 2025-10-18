@@ -18,8 +18,8 @@ If the victim of this poison is a tiny Beast, it is paralyzed for 1 hour on a fa
 
 ## Recipe:
 
-* 1 [[1 DIGITAL GARDEN/5.0 Ingredients/05.1 Plants/Bundle of cowbane\|Bundle of cowbane]]
-* 1 [[1 DIGITAL GARDEN/5.0 Ingredients/05.1 Plants/Bundle of hemlock\|Bundle of hemlock]]
+* 1 [[1 DIGITAL GARDEN/5.0 Ingredients/05.1 Plants/Cowbane, Bundle of\|Cowbane, Bundle of]]
+* 1 [[1 DIGITAL GARDEN/5.0 Ingredients/05.1 Plants/Hemlock, Bundle of\|Hemlock, Bundle of]]
 * 1 [[1 DIGITAL GARDEN/5.0 Ingredients/05.1 Creatures/Flask of bundimun secretion\|Flask of bundimun secretion]]
 * 1 [[1 DIGITAL GARDEN/5.0 Ingredients/05.1 Creatures/Powdered streeler shell\|Powdered streeler shell]]
 

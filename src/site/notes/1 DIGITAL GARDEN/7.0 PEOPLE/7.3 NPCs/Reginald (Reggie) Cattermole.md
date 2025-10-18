@@ -17,11 +17,12 @@
 
 # Relationships
 ##### Outbound:
-Relationship:: Frenemy of [[Sophomora Meadowsweet\|Sophomora Meadowsweet]]
+Relationship:: Frenemy of [[1 DIGITAL GARDEN/7.0 PEOPLE/7.3 NPCs/Sophomora Meadowsweet\|Sophomora Meadowsweet]]
 
 ##### Inbound
-| Related to: | Their relationship to this person | Their role |
-| ----------- | --------------------------------- | ---------- |
+| Related to:                                                                              | Their relationship to this person           | Their role                                                                                                 |
+| ---------------------------------------------------------------------------------------- | ------------------------------------------- | ---------------------------------------------------------------------------------------------------------- |
+| [[1 DIGITAL GARDEN/7.0 PEOPLE/7.3 NPCs/Sophomora Meadowsweet\|Sophomora Meadowsweet]] | Frenemy of [[1 DIGITAL GARDEN/7.0 PEOPLE/7.3 NPCs/Reginald (Reggie) Cattermole\|Reginald (Reggie) Cattermole]] | Keeper of Grounds & Keys at [[1 DIGITAL GARDEN/8.0 PLACES/8.2 Hogwarts School/8.2.0 Hogwarts School - Overview\|Hogwarts School of Witchcraft & Wizardry]] |
 
 { .block-language-dataview}
 
@@ -31,7 +32,7 @@ Relationship:: Frenemy of [[Sophomora Meadowsweet\|Sophomora Meadowsweet]]
 | Session                                                                                                   | Interactions                                                                                                                                                                                                                                                                                                                        |
 | --------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | [[1 DIGITAL GARDEN/9.0 Chronicles/Session 01 - Welcome to Hogwarts\|Session 01 - Welcome to Hogwarts]] | [[1 DIGITAL GARDEN/7.0 PEOPLE/7.3 NPCs/Reginald (Reggie) Cattermole\|Reginald (Reggie) Cattermole]] finds the (Bernard) stolen anklet in a plant pot where [[1 DIGITAL GARDEN/7.0 PEOPLE/7.3 NPCs/Peeves the Poltergeist\|Peeves the Poltergeist]] reports [[1 DIGITAL GARDEN/7.0 PEOPLE/7.1 PCs/Basil Featherstone (Nick)\|Basil Featherstone]] & [[1 DIGITAL GARDEN/7.0 PEOPLE/7.1 PCs/Cassie Weasley (Karima)\|Cassie Weasley]] were sick                                                                                                |
-| [[1 DIGITAL GARDEN/9.0 Chronicles/Session 01 - Welcome to Hogwarts\|Session 01 - Welcome to Hogwarts]] | [[1 DIGITAL GARDEN/7.0 PEOPLE/7.1 PCs/Vi Thorne (Charlie)\|Vi Thorne]] cleans up the vomit of [[1 DIGITAL GARDEN/7.0 PEOPLE/7.1 PCs/Basil Featherstone (Nick)\|Basil Featherstone]] & [[1 DIGITAL GARDEN/7.0 PEOPLE/7.1 PCs/Cassie Weasley (Karima)\|Cassie Weasley]], leaving [[1 DIGITAL GARDEN/7.0 PEOPLE/7.3 NPCs/Reginald (Reggie) Cattermole\|Reginald (Reggie) Cattermole]] to conclude that [[1 DIGITAL GARDEN/7.0 PEOPLE/7.3 NPCs/Peeves the Poltergeist\|Peeves the Poltergeist]] stole the bracelet from [[A 4th year Hufflepuff girl\|A 4th year Hufflepuff girl]]. In reality, Bernard did it. |
+| [[1 DIGITAL GARDEN/9.0 Chronicles/Session 01 - Welcome to Hogwarts\|Session 01 - Welcome to Hogwarts]] | [[1 DIGITAL GARDEN/7.0 PEOPLE/7.1 PCs/Vi Thorne (Charlie)\|Vi Thorne]] cleans up the vomit of [[1 DIGITAL GARDEN/7.0 PEOPLE/7.1 PCs/Basil Featherstone (Nick)\|Basil Featherstone]] & [[1 DIGITAL GARDEN/7.0 PEOPLE/7.1 PCs/Cassie Weasley (Karima)\|Cassie Weasley]], leaving [[1 DIGITAL GARDEN/7.0 PEOPLE/7.3 NPCs/Reginald (Reggie) Cattermole\|Reginald (Reggie) Cattermole]] to conclude that [[1 DIGITAL GARDEN/7.0 PEOPLE/7.3 NPCs/Peeves the Poltergeist\|Peeves the Poltergeist]] stole the bracelet from [[1 DIGITAL GARDEN/7.0 PEOPLE/7.3 NPCs/A 4th year Hufflepuff girl\|A 4th year Hufflepuff girl]]. In reality, Bernard did it. |
 
 { .block-language-dataview}
 

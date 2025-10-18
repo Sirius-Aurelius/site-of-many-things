@@ -19,7 +19,7 @@ This potion has been stated to greatly resemble molten gold. It is meant to be u
 
 ## Recipe:
 
-- 1 [[1 DIGITAL GARDEN/5.0 Ingredients/05.1 Plants/Bundle of niffler's fancy\|Bundle of niffler's fancy]]
+- 1 [[1 DIGITAL GARDEN/5.0 Ingredients/05.1 Plants/Niffler's fancy, Bundle of\|Niffler's fancy, Bundle of]]
 - 2 [[1 DIGITAL GARDEN/5.0 Ingredients/05.1 Creatures/Clutch of ashwinder eggs\|Clutch of ashwinder eggs]]
 - 1 [[1 DIGITAL GARDEN/5.0 Ingredients/05.1 Creatures/Murtlap tentacle\|Murtlap tentacle]]
 - 1 [[1 DIGITAL GARDEN/5.0 Ingredients/05.1 Creatures/Powdered erumpent horn\|Powdered erumpent horn]]

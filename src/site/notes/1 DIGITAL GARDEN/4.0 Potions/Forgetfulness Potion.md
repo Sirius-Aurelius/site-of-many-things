@@ -16,8 +16,8 @@ None
 
 ## Recipe:
 
-- 1 [[1 DIGITAL GARDEN/5.0 Ingredients/05.1 Plants/Bundle of lovage\|Bundle of lovage]]
-* 1 [[1 DIGITAL GARDEN/5.0 Ingredients/05.1 Plants/Cluster of mistletoe berries\|Cluster of mistletoe berries]]
+- 1 [[1 DIGITAL GARDEN/5.0 Ingredients/05.1 Plants/Lovage, Bundle of\|Lovage, Bundle of]]
+* 1 [[1 DIGITAL GARDEN/5.0 Ingredients/05.1 Plants/Mistletoe berries, Cluster of\|Mistletoe berries, Cluster of]]
 * 2 [[1 DIGITAL GARDEN/5.0 Ingredients/05.1 Mundane/Flask of Lethe river water\|Flask of Lethe river water]]
 
 **Flawed**:

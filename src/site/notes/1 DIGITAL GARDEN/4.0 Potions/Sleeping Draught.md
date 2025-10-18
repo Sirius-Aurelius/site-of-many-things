@@ -21,8 +21,8 @@ None
 
 ## Recipe:
 
-- 1 [[1 DIGITAL GARDEN/5.0 Ingredients/05.1 Plants/Bundle of angel's trumpet\|Bundle of angel's trumpet]]
-- 1 [[1 DIGITAL GARDEN/5.0 Ingredients/05.1 Plants/Bundle of scurvy grass\|Bundle of scurvy grass]]
+- 1 [[1 DIGITAL GARDEN/5.0 Ingredients/05.1 Plants/Angel's trumpet, Bundle of\|Angel's trumpet, Bundle of]]
+- 1 [[1 DIGITAL GARDEN/5.0 Ingredients/05.1 Plants/Scurvy grass, Bundle of\|Scurvy grass, Bundle of]]
 - 1 [[1 DIGITAL GARDEN/5.0 Ingredients/05.1 Creatures/Flask of flobberworm mucus\|Flask of flobberworm mucus]]
 
 **Flawed**:

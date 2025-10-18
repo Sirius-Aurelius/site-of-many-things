@@ -16,8 +16,8 @@ When a lycanthrope drinks this potion once a day for the entire week before the 
 
 ## Recipe:
 
-- 1 [[1 DIGITAL GARDEN/5.0 Ingredients/05.1 Plants/Bundle of aconite\|Bundle of aconite]]
-- 1 [[1 DIGITAL GARDEN/5.0 Ingredients/05.1 Plants/Bundle of niffler's fancy\|Bundle of niffler's fancy]]
+- 1 [[1 DIGITAL GARDEN/5.0 Ingredients/05.1 Plants/Aconite, Bundle of\|Aconite, Bundle of]]
+- 1 [[1 DIGITAL GARDEN/5.0 Ingredients/05.1 Plants/Niffler's fancy, Bundle of\|Niffler's fancy, Bundle of]]
 - 2 [[1 DIGITAL GARDEN/5.0 Ingredients/05.1 Creatures/Clutch of runespoor eggs\|Clutch of runespoor eggs]]
 - 1 [[1 DIGITAL GARDEN/5.0 Ingredients/05.1 Creatures/Dragon liver\|Dragon liver]]
 - 1 [[1 DIGITAL GARDEN/5.0 Ingredients/05.1 Creatures/Powdered graphorn horn\|Powdered graphorn horn]]

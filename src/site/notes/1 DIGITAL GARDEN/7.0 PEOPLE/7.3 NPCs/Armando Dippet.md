@@ -16,8 +16,9 @@
 
 # Interactions
 
-| Session | Interactions |
-| ------- | ------------ |
+| Session                                                                                                                           | Interactions                                                                                                                                                                                                                                                                                                                                                                   |
+| --------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| [[1 DIGITAL GARDEN/9.0 Chronicles/Session 03 - Foray Into the Forbidden Forest\|Session 03 - Foray Into the Forbidden Forest]] | [[1 DIGITAL GARDEN/8.0 PLACES/8.1 Diagon Alley/8.1.26 The Daily Prophet\|The Daily Prophet]] carries a story that the muggle government are sending evacuees to more rural locations and that the muggle military are being seen increasingly often training near magical sites. The ministry and [[1 DIGITAL GARDEN/7.0 PEOPLE/7.3 NPCs/Armando Dippet\|Headmaster Dippet]] encourage - as [[1 DIGITAL GARDEN/7.0 PEOPLE/7.3 NPCs/Euphemia Blight\|Prof. Blight]] would say - _"constant vigilance!_ |
 
 { .block-language-dataview}
 

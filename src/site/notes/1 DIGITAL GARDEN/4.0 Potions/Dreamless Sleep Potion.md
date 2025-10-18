@@ -17,8 +17,8 @@ None
 
 ## Recipe:
 
-- 1 [[1 DIGITAL GARDEN/5.0 Ingredients/05.1 Plants/Bundle of poppy heads\|Bundle of poppy heads]]
-- 1 [[1 DIGITAL GARDEN/5.0 Ingredients/05.1 Plants/Cluster of baneberries\|Cluster of baneberries]]
+- 1 [[1 DIGITAL GARDEN/5.0 Ingredients/05.1 Plants/Poppy heads, Bundle of\|Poppy heads, Bundle of]]
+- 1 [[1 DIGITAL GARDEN/5.0 Ingredients/05.1 Plants/Baneberries, Cluster of\|Baneberries, Cluster of]]
 - 1 [[1 DIGITAL GARDEN/5.0 Ingredients/05.1 Creatures/Frog brain\|Frog brain]]
 - 1 [[1 DIGITAL GARDEN/5.0 Ingredients/05.1 Creatures/Powdered octopus\|Powdered octopus]]
 

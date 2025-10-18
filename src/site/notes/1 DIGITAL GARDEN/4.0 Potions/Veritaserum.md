@@ -19,8 +19,8 @@ the truth.
 
 ## Recipe:
 
-- 1 [[1 DIGITAL GARDEN/5.0 Ingredients/05.1 Plants/Bundle of alihotsy leaves\|Bundle of alihotsy leaves]]
-- 2 [[1 DIGITAL GARDEN/5.0 Ingredients/05.1 Plants/Bundle of thaumatagoria\|Bundle of thaumatagoria]]
+- 1 [[1 DIGITAL GARDEN/5.0 Ingredients/05.1 Plants/Alihotsy leaves, Bundle of\|Alihotsy leaves, Bundle of]]
+- 2 [[1 DIGITAL GARDEN/5.0 Ingredients/05.1 Plants/Thaumatagoria, Bundle of\|Thaumatagoria, Bundle of]]
 - 1 [[1 DIGITAL GARDEN/5.0 Ingredients/05.1 Plants/Death cap mushroom\|Death cap mushroom]]
 - 1 [[1 DIGITAL GARDEN/5.0 Ingredients/05.1 Creatures/Jobberknoll feather\|Jobberknoll feather]]
 - 1 [[1 DIGITAL GARDEN/5.0 Ingredients/05.1 Creatures/Powdered scarab beetle\|Powdered scarab beetle]]

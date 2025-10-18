@@ -17,9 +17,9 @@ When you drink this potion, you have advantage on Dexterity checks for 1 hour. D
 
 ## Recipe:
 
-- 1 [[1 DIGITAL GARDEN/5.0 Ingredients/05.1 Plants/Bundle of aconite\|Bundle of aconite]]
-- 1 [[1 DIGITAL GARDEN/5.0 Ingredients/05.1 Plants/Flask of wormwood infusion\|Flask of wormwood infusion]]
-- 1 [[1 DIGITAL GARDEN/5.0 Ingredients/05.1 Plants/Powdered root of asphodel\|Powdered root of asphodel]]
+- 1 [[1 DIGITAL GARDEN/5.0 Ingredients/05.1 Plants/Aconite, Bundle of\|Aconite, Bundle of]]
+- 1 [[1 DIGITAL GARDEN/5.0 Ingredients/05.1 Plants/Wormwood infusion, Flask of\|Wormwood infusion, Flask of]]
+- 1 [[1 DIGITAL GARDEN/5.0 Ingredients/05.1 Plants/Asphodel, Powdered root of\|Asphodel, Powdered root of]]
 
 **Flawed**:
 The duration is 10 minutes instead of 1 hour.

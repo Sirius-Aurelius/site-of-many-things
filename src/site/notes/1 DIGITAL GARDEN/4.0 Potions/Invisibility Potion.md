@@ -18,7 +18,7 @@ When you drink this silvery potion, you gain the effects of [[1 DIGITAL GARDEN/3
 
 * 2 [[1 DIGITAL GARDEN/5.0 Ingredients/05.1 Creatures/Boomslang skin\|Boomslang skin]]
 * 1 [[1 DIGITAL GARDEN/5.0 Ingredients/05.1 Creatures/Unicorn hair\|Unicorn hair]]
-* 1 [[1 DIGITAL GARDEN/5.0 Ingredients/05.1 Mundane/Vial of African sea salt\|Vial of African sea salt]]
+* 1 [[1 DIGITAL GARDEN/5.0 Ingredients/05.1 Mundane/African sea salt, Vial of\|African sea salt, Vial of]]
 * 1 [[1 DIGITAL GARDEN/5.0 Ingredients/05.1 Creatures/Vial of doxy eggs\|Vial of doxy eggs]]
 
 **Flawed**:

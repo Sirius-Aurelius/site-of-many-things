@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/z-templates/faction/","tags":["MOC"]}
+{"dg-publish":true,"permalink":"/z-templates/faction/"}
 ---
 
 # Description
@@ -33,5 +33,12 @@
 - [[1 DIGITAL GARDEN/7.0 PEOPLE/7.3 NPCs/Ulfric Muldoon\|Ulfric Muldoon]]
 - [[1 DIGITAL GARDEN/7.0 PEOPLE/7.3 NPCs/Violet Sorrengail\|Violet Sorrengail]]
 - [[1 DIGITAL GARDEN/7.0 PEOPLE/7.3 NPCs/Zacharias Agrippa\|Zacharias Agrippa]]
+
+{ .block-language-dataview}
+
+# Interactions
+
+| Session | Interactions |
+| ------- | ------------ |
 
 { .block-language-dataview}

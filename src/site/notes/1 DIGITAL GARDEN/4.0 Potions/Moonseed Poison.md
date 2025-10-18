@@ -16,7 +16,7 @@ A creature that ingests this poison must succeed on a DC 11 Constitution saving 
 
 ## Recipe:
 
-- 1 [[1 DIGITAL GARDEN/5.0 Ingredients/05.1 Plants/Bundle of hemlock\|bundle of hemlock]]
+- 1 [[1 DIGITAL GARDEN/5.0 Ingredients/05.1 Plants/Hemlock, Bundle of\|Hemlock, Bundle of]]
 - 2 [[1 DIGITAL GARDEN/5.0 Ingredients/05.1 Plants/Cluster of moonseed berries\|Cluster of moonseed berries]]
 - 1 [[1 DIGITAL GARDEN/5.0 Ingredients/05.1 Creatures/Flask of pufferfish eyes\|flask of pufferfish eyes]]
 

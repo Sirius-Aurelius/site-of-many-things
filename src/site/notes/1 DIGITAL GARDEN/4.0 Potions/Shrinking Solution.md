@@ -17,9 +17,9 @@ When you drink this potion, you gain the effects of the [[1 DIGITAL GARDEN/3.0 S
 
 ## Recipe:
 
-- 1 [[1 DIGITAL GARDEN/5.0 Ingredients/05.1 Plants/Bundle of cowbane\|Bundle of cowbane]]
-- 1 [[1 DIGITAL GARDEN/5.0 Ingredients/05.1 Plants/Bundle of shrivelfigs\|Bundle of shrivelfigs]]
-- 1 [[1 DIGITAL GARDEN/5.0 Ingredients/05.1 Plants/Flask of wormwood infusion\|Flask of wormwood infusion]]
+- 1 [[1 DIGITAL GARDEN/5.0 Ingredients/05.1 Plants/Cowbane, Bundle of\|Cowbane, Bundle of]]
+- 1 [[1 DIGITAL GARDEN/5.0 Ingredients/05.1 Plants/Shrivelfigs, Bundle of\|Shrivelfigs, Bundle of]]
+- 1 [[1 DIGITAL GARDEN/5.0 Ingredients/05.1 Plants/Wormwood infusion, Flask of\|Wormwood infusion, Flask of]]
 - 1 [[1 DIGITAL GARDEN/5.0 Ingredients/05.1 Creatures/Vial of woodlice extract\|Vial of woodlice extract]]
 
 **Flawed**:

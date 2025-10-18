@@ -6,7 +6,7 @@
 
 ## Variants
 *Statblocks only visible to DM*
-- [[Dugbog CR 0.125.png]]]
+- [[Dugbog CR 0.125.png]]
 
 ## Description
 

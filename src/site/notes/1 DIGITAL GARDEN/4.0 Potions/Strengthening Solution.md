@@ -17,7 +17,7 @@ None
 ## Recipe:
 
 * 1 [[1 DIGITAL GARDEN/5.0 Ingredients/05.1 Creatures/Flask of re'em blood\|Flask of re'em blood]]
-* 1 [[1 DIGITAL GARDEN/5.0 Ingredients/05.1 Plants/Vial of fanged geranium fangs\|Vial of fanged geranium fangs]]
+* 1 [[1 DIGITAL GARDEN/5.0 Ingredients/05.1 Plants/Fanged geranium fangs, Vial of\|Fanged geranium fangs, Vial of]]
 * 1 [[1 DIGITAL GARDEN/5.0 Ingredients/05.1 Creatures/Vial of salamander blood\|Vial of salamander blood]]
 
 **Flawed**:

@@ -13,10 +13,10 @@ When this potion is poured over the roots of a dying plant, it is revitalized. I
 
 ## Recipe:
 
-- 1 [[1 DIGITAL GARDEN/5.0 Ingredients/05.1 Plants/Bundle of galanthus nivalis\|Bundle of galanthus nivalis]]
-- 1 [[1 DIGITAL GARDEN/5.0 Ingredients/05.1 Plants/Bundle of nettles\|Bundle of nettles]]
+- 1 [[1 DIGITAL GARDEN/5.0 Ingredients/05.1 Plants/Galanthus nivalis, Bundle of\|Galanthus nivalis, Bundle of]]
+- 1 [[1 DIGITAL GARDEN/5.0 Ingredients/05.1 Plants/Nettles, Bundle of\|Nettles, Bundle of]]
 - 1 [[1 DIGITAL GARDEN/5.0 Ingredients/05.1 Creatures/Giant purple toad wart\|Giant purple toad wart]]
-- 1 [[1 DIGITAL GARDEN/5.0 Ingredients/05.1 Plants/Vial of fanged geranium fangs\|Vial of fanged geranium fangs]]
+- 1 [[1 DIGITAL GARDEN/5.0 Ingredients/05.1 Plants/Fanged geranium fangs, Vial of\|Fanged geranium fangs, Vial of]]
 
 **Flawed**:
 None

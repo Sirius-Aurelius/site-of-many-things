@@ -15,10 +15,10 @@ None
 
 ## Recipe:
 
-* 1 [[1 DIGITAL GARDEN/5.0 Ingredients/05.1 Plants/Bundle of star grass\|Bundle of star grass]]
-* 1 [[1 DIGITAL GARDEN/5.0 Ingredients/05.1 Plants/Flask of vervain infusion\|Flask of vervain infusion]]
+* 1 [[1 DIGITAL GARDEN/5.0 Ingredients/05.1 Plants/Star grass, Bundle of\|Star grass, Bundle of]]
+* 1 [[1 DIGITAL GARDEN/5.0 Ingredients/05.1 Plants/Vervain infusion, Flask of\|Vervain infusion, Flask of]]
 * 1 [[1 DIGITAL GARDEN/5.0 Ingredients/05.1 Plants/Staghorn mushroom\|Staghorn mushroom]]
-* 1 [[1 DIGITAL GARDEN/5.0 Ingredients/05.1 Plants/Vial of spirit of myrrh\|vial of spirit of myrrh]]
+* 1 [[1 DIGITAL GARDEN/5.0 Ingredients/05.1 Plants/Spirit of myrrh, Vial of\|Spirit of myrrh, Vial of]]
 
 **Flawed**:
 The bottle has four doses.

@@ -19,8 +19,8 @@ The potion works for part-humans, but not less-than-half-humans. The consistency
 ## Recipe:
 
 - 1 [[1 DIGITAL GARDEN/5.0 Ingredients/05.1 Creatures/Boomslang skin\|boomslang skin]]
-* 1 [[1 DIGITAL GARDEN/5.0 Ingredients/05.1 Plants/Bundle of full-moon fluxweed\|Bundle of full-moon fluxweed]]
-* 2 [[1 DIGITAL GARDEN/5.0 Ingredients/05.1 Plants/Bundle of knotgrass\|Bundle of knotgrass]]
+* 1 [[1 DIGITAL GARDEN/5.0 Ingredients/05.1 Plants/Full-moon fluxweed, Bundle of\|Full-moon fluxweed, Bundle of]]
+* 2 [[1 DIGITAL GARDEN/5.0 Ingredients/05.1 Plants/Knotgrass, Bundle of\|Knotgrass, Bundle of]]
 * 1 [[1 DIGITAL GARDEN/5.0 Ingredients/05.1 Creatures/Flask of lacewing flies\|Flask of lacewing flies]]
 * 1 [[1 DIGITAL GARDEN/5.0 Ingredients/05.1 Creatures/Powdered bicorn horn\|Powdered bicorn horn]]
 * 1 [[1 DIGITAL GARDEN/5.0 Ingredients/05.1 Plants/Sopophorous bean\|Sopophorous bean]]

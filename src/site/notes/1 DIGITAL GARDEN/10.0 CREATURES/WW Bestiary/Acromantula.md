@@ -15,7 +15,7 @@
 
 ### Description
 
-Acromantulas are giant, highly intelligent spiders native of the dense rainforests of Borneo, though they have been illegally bred and introduced to various locations, including the [[1 DIGITAL GARDEN/8.0 PLACES/8.4 Hogwarts Valley/8.4.1 Forbidden Forest\|Forbidden Forest]] at Hogwarts. These monstrous arachnids can grow up to 15 feet in leg span and are covered in thick black hair, with large, glossy eyes that enable them to see in the dark.
+Acromantulas are giant, highly intelligent spiders native of the dense rainforests of Borneo, though they have been illegally bred and introduced to various locations, including the [[1 DIGITAL GARDEN/8.0 PLACES/8.4 Hogwarts Valley/8.4.1.0 Forbidden Forest\|Forbidden Forest]] at Hogwarts. These monstrous arachnids can grow up to 15 feet in leg span and are covered in thick black hair, with large, glossy eyes that enable them to see in the dark.
 
 #### Classification and Origin
 

@@ -19,10 +19,10 @@ None
 
 ## Recipe:
 
-- 1 [[1 DIGITAL GARDEN/5.0 Ingredients/05.1 Plants/Bundle of peppermint\|Bundle of peppermint]]
-- 1 [[1 DIGITAL GARDEN/5.0 Ingredients/05.1 Plants/Cluster of boom berries\|Cluster of boom berries]]
+- 1 [[1 DIGITAL GARDEN/5.0 Ingredients/05.1 Plants/Peppermint, Bundle of\|Peppermint, Bundle of]]
+- 1 [[1 DIGITAL GARDEN/5.0 Ingredients/05.1 Plants/Boom berries, Cluster of\|Boom berries, Cluster of]]
 - 1 [[1 DIGITAL GARDEN/5.0 Ingredients/05.1 Creatures/Powdered lionfish spine\|Powdered lionfish spine]]
-- 1 [[1 DIGITAL GARDEN/5.0 Ingredients/05.1 Mundane/Vial of rose oil\|Vial of rose oil]]
+- 1 [[1 DIGITAL GARDEN/5.0 Ingredients/05.1 Plants/Rose oil, Vial of\|Rose oil, Vial of]]
 
 **Flawed**:
 The duration is 10 minutes, instead of 1 hour.

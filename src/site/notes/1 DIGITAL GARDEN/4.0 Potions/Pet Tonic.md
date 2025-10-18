@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-digital-garden/4-0-potions/pet-tonic/","tags":["potion","extracurricular","common"]}
+{"dg-publish":true,"permalink":"/1-digital-garden/4-0-potions/pet-tonic/","tags":["potion","extracurricular","common","DnDB-done"]}
 ---
 
 *Potion, common* 
@@ -15,8 +15,8 @@ When this potion is given to a magical pet, all of its hit points are restored, 
 
 - 1 [[1 DIGITAL GARDEN/5.0 Ingredients/05.1 Creatures/Bat spleen\|bat spleen]]
 - 1 [[1 DIGITAL GARDEN/5.0 Ingredients/05.1 Creatures/Powdered vipers-flesh\|Powdered vipers-flesh]]
-- 1 [[1 DIGITAL GARDEN/5.0 Ingredients/05.1 Plants/Vial of fanged geranium fangs\|Vial of fanged geranium fangs]]
-- 1 [[1 DIGITAL GARDEN/5.0 Ingredients/05.1 Mundane/Vial of rose oil\|Vial of rose oil]]
+- 1 [[1 DIGITAL GARDEN/5.0 Ingredients/05.1 Plants/Fanged geranium fangs, Vial of\|Fanged geranium fangs, Vial of]]
+- 1 [[1 DIGITAL GARDEN/5.0 Ingredients/05.1 Plants/Rose oil, Vial of\|Rose oil, Vial of]]
 
 **Flawed**:
 There are no temporary hit points gained

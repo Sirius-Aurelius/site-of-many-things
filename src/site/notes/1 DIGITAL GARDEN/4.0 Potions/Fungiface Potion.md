@@ -16,7 +16,7 @@ None
 
 ## Recipe:
 
-- 1 [[1 DIGITAL GARDEN/5.0 Ingredients/05.1 Plants/Flask of bubotuber pus\|Flask of bubotuber pus]]
+- 1 [[1 DIGITAL GARDEN/5.0 Ingredients/05.1 Plants/Bubotuber pus, Flask of\|Bubotuber pus, Flask of]]
 - 1 [[1 DIGITAL GARDEN/5.0 Ingredients/05.1 Creatures/Giant purple toad wart\|Giant purple toad wart]]
 - 1 [[1 DIGITAL GARDEN/5.0 Ingredients/05.1 Plants/Staghorn mushroom\|Staghorn mushroom]]
 - 1 [[1 DIGITAL GARDEN/5.0 Ingredients/05.1 Creatures/Vial of woodlice extract\|Vial of woodlice extract]]

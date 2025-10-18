@@ -16,9 +16,9 @@ None
 
 ## Recipe:
 
-* 1 [[1 DIGITAL GARDEN/5.0 Ingredients/05.1 Plants/Bundle of lovage\|Bundle of lovage]]
-* 1 [[1 DIGITAL GARDEN/5.0 Ingredients/05.1 Plants/Bundle of scurvy grass\|Bundle of scurvy grass]]
-* 1 [[1 DIGITAL GARDEN/5.0 Ingredients/05.1 Plants/Bundle of sneezewort\|Bundle of sneezewort]]
+* 1 [[1 DIGITAL GARDEN/5.0 Ingredients/05.1 Plants/Lovage, Bundle of\|Lovage, Bundle of]]
+* 1 [[1 DIGITAL GARDEN/5.0 Ingredients/05.1 Plants/Scurvy grass, Bundle of\|Scurvy grass, Bundle of]]
+* 1 [[1 DIGITAL GARDEN/5.0 Ingredients/05.1 Plants/Sneezewort, Bundle of\|Sneezewort, Bundle of]]
 
 **Flawed**:
 There is no advantage on saving throws against being frightened.

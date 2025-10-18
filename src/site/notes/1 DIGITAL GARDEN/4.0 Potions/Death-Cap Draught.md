@@ -16,12 +16,12 @@ Death cap mushrooms are the key ingredient to one of the most deadly poisons. A 
 
 ## Recipe:
 
-- 1 [[1 DIGITAL GARDEN/5.0 Ingredients/05.1 Plants/Bundle of angel's trumpet\|Bundle of angel's trumpet]]
-- 2 [[1 DIGITAL GARDEN/5.0 Ingredients/05.1 Plants/Bundle of venomous tentacula leaves\|Bundle of venomous tentacula leaves]]
+- 1 [[1 DIGITAL GARDEN/5.0 Ingredients/05.1 Plants/Angel's trumpet, Bundle of\|Angel's trumpet, Bundle of]]
+- 2 [[1 DIGITAL GARDEN/5.0 Ingredients/05.1 Plants/Venomous tentacula leaves, Bundle of\|Venomous tentacula leaves, Bundle of]]
 - 1 [[1 DIGITAL GARDEN/5.0 Ingredients/05.1 Plants/Chinese chomping cabbage\|Chinese chomping cabbage]]
 - 1 [[1 DIGITAL GARDEN/5.0 Ingredients/05.1 Plants/Death cap mushroom\|Death cap mushroom]]
 - 1 [[1 DIGITAL GARDEN/5.0 Ingredients/05.1 Creatures/Vial of acromantula venom\|Vial of acromantula venom]]
-- 1 [[1 DIGITAL GARDEN/5.0 Ingredients/05.1 Mundane/Vial of African sea salt\|Vial of African sea salt]]
+- 1 [[1 DIGITAL GARDEN/5.0 Ingredients/05.1 Mundane/African sea salt, Vial of\|African sea salt, Vial of]]
 
 **Flawed**:
 The damage is 60 (24d4) instead of 84 (24d6), and the saving throw's DC is 17 instead of 19.
