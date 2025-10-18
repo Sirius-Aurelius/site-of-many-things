@@ -15,10 +15,14 @@
 - **Gossip:** "Kettleburn lost another finger to a Niffler, can you believe it?" "His classes are a death wish, but you learn a lot if you survive." "He sleeps in the Forbidden Forest sometimes, they say." "He's always trying to smuggle new creatures into the school."
     
 
+# Canon
+- Is inclined to favour the [[1 DIGITAL GARDEN/7.0 PEOPLE/7.2 Factions/07.02.19 Wizarding Interventionist Unit\|Wizarding Interventionist Unit]]
+
 # Interactions
 
-| Session | Interactions |
-| ------- | ------------ |
+| Session                                                                                                       | Interactions                                                                                                                                                                                                                                                                                                                                                      |
+| ------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [[1 DIGITAL GARDEN/9.0 Chronicles/Session 04 - Voices from Elsewhere\|Session 04 - Voices from Elsewhere]] | At breakfast one morning in [[1 DIGITAL GARDEN/8.0 PLACES/8.2 Hogwarts School/8.4.07 The Great Hall\|The Great Hall]], [[1 DIGITAL GARDEN/7.0 PEOPLE/7.1 PCs/Cassie Weasley (Karima)\|Cassie]] closely observes the [[1 DIGITAL GARDEN/7.0 PEOPLE/7.2 Factions/07.2.02 Hogwarts Faculty\|Hogwarts Faculty]] as [[1 DIGITAL GARDEN/7.0 PEOPLE/7.3 NPCs/Armando Dippet\|Armando Dippet]] espouses non-intervention with Muggles yet again. She strongly senses that both [[1 DIGITAL GARDEN/7.0 PEOPLE/7.3 NPCs/Mirabel Garlick\|Mirabel Garlick]] and [[1 DIGITAL GARDEN/7.0 PEOPLE/7.3 NPCs/Silvanus Kettleburn\|Silvanus Kettleburn]] are interventionist-inclined |
 
 { .block-language-dataview}
 

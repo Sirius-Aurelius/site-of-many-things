@@ -11,7 +11,8 @@
 >**UsuallyFoundIn**:: // Links to appropriate location pages go here
 
 # Details
-One of many portraits on the [[1 DIGITAL GARDEN/8.0 PLACES/8.2 Hogwarts School/8.9.01 Entrance Hall#Wall of Heroes (Portraits)\|Wall of Heroes]] in the [[1 DIGITAL GARDEN/8.0 PLACES/8.2 Hogwarts School/8.2.0 Hogwarts School - Overview\|Hogwarts School of Witchcraft & Wizardry]] [[1 DIGITAL GARDEN/8.0 PLACES/8.2 Hogwarts School/8.9.01 Entrance Hall\|Entrance Hall]].
+- One of many portraits on the [[1 DIGITAL GARDEN/8.0 PLACES/8.2 Hogwarts School/8.9.01 Entrance Hall#Wall of Heroes (Portraits)\|Wall of Heroes]] in the [[1 DIGITAL GARDEN/8.0 PLACES/8.2 Hogwarts School/8.2.0 Hogwarts School - Overview\|Hogwarts School of Witchcraft & Wizardry]] [[1 DIGITAL GARDEN/8.0 PLACES/8.2 Hogwarts School/8.9.01 Entrance Hall\|Entrance Hall]].
+- A legendary herbologist
 
 ## Description
 

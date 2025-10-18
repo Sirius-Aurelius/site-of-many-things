@@ -46,7 +46,7 @@
 
 # Relationships
 ##### Outbound:
-Relationship::
+Relationship:: Old friend/confidante of [[1 DIGITAL GARDEN/7.0 PEOPLE/7.3 NPCs/Cornelia (Nell) Weasley (Granny Nell)\|Granny Nell]]
 Relationship::
 
 ##### Inbound
