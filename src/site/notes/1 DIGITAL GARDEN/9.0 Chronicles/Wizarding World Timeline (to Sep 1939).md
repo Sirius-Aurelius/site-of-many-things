@@ -125,8 +125,10 @@
 * **1841 - 1849:** **Hortensia Milliphutt**
 * **1849 - 1855:** **Evangeline Orpington**
     * *Responsible for creating the concealed Platform 9 and 3/4 at King's Cross Station.*
-* **1855 - 1858:** **Priscilla Dupont**
+* **1855 - 1858:** **Priscilla Humblewood (nee Dupont)**
+	* Only Minister ever removed for 'conduct unbecoming', when she raised an army "to save wizardkind", which was widely believed to be ready to attack muggledom
 * **1858 - 1865:** **Dugald McPhail**
+	* Safe pair of hand intended to smoothe the situation after the Dupont Incident 
 * **1865 - 1903:** **Faris "Spout-Hole" Spavin**
     * *Served an exceptionally long tenure.*
 * **1903 - 1912:** **Venusia Crickerly**

@@ -12,8 +12,8 @@
 
 - [[1 DIGITAL GARDEN/4.0 Potions/Swelling Solution\|Swelling Solution]]
 - [[1 DIGITAL GARDEN/4.0 Potions/Skele-Gro\|Skele-Gro]]
-- [[1 DIGITAL GARDEN/4.0 Potions/Moonseed Poison\|Moonseed Poison]]
 - [[1 DIGITAL GARDEN/4.0 Potions/Oculus Potion\|Oculus Potion]]
+- [[1 DIGITAL GARDEN/4.0 Potions/Moonseed Poison\|Moonseed Poison]]
 
 { .block-language-dataview}
 
