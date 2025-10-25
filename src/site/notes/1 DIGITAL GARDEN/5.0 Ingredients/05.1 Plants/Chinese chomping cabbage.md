@@ -10,9 +10,9 @@
 
 ## Used in:
 
-- [[0 DM SCREEN/0 ENCOUNTERS/Hogwarts Encounters\|Hogwarts Encounters]]
 - [[1 DIGITAL GARDEN/4.0 Potions/Skele-Gro\|Skele-Gro]]
 - [[1 DIGITAL GARDEN/4.0 Potions/Death-Cap Draught\|Death-Cap Draught]]
+- [[0 DM SCREEN/0 ENCOUNTERS/Hogwarts Encounters\|Hogwarts Encounters]]
 
 { .block-language-dataview}
 

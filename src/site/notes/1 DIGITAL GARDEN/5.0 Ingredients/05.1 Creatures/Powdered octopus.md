@@ -10,8 +10,8 @@
 
 ## Used in:
 
-- [[1 DIGITAL GARDEN/4.0 Potions/Pepperup Potion\|Pepperup Potion]]
 - [[1 DIGITAL GARDEN/4.0 Potions/Oculus Potion\|Oculus Potion]]
+- [[1 DIGITAL GARDEN/4.0 Potions/Pepperup Potion\|Pepperup Potion]]
 - [[1 DIGITAL GARDEN/4.0 Potions/Dreamless Sleep Potion\|Dreamless Sleep Potion]]
 
 { .block-language-dataview}

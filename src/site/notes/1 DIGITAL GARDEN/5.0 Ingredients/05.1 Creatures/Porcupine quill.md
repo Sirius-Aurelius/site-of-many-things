@@ -10,10 +10,10 @@
 
 ## Used in:
 
-- [[0 DM SCREEN/2 Campaign Notes & Archive/Completed Sessions/Session 03 - First Foray to the Forbidden Forest\|Session 03 - First Foray to the Forbidden Forest]]
 - [[1 DIGITAL GARDEN/4.0 Potions/Elixir to Induce Euphoria\|Elixir to Induce Euphoria]]
 - [[1 DIGITAL GARDEN/4.0 Potions/Draught of Peace\|Draught of Peace]]
 - [[1 DIGITAL GARDEN/4.0 Potions/Blemish Blitzer\|Blemish Blitzer]]
+- [[0 DM SCREEN/2 Campaign Notes & Archive/Completed Sessions/Session 03 - First Foray to the Forbidden Forest\|Session 03 - First Foray to the Forbidden Forest]]
 
 { .block-language-dataview}
 

@@ -17,8 +17,9 @@
 
 # Interactions
 
-| Session | Interactions |
-| ------- | ------------ |
+| Session                                                                                                   | Interactions                                                                                                                                                                                                                                                                                                                                                                                                                                             |
+| --------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [[1 DIGITAL GARDEN/9.0 Chronicles/Session 05 - Trouble at the Mine\|Session 05 - Trouble at the Mine]] | [[1 DIGITAL GARDEN/7.0 PEOPLE/7.1 PCs/Basil Featherstone (Nick)\|Basil]] visits the [[1 DIGITAL GARDEN/8.0 PLACES/8.2 Hogwarts School/8.4.03.1 School Library - Open Section\|School Library (open section)]], where he seeks maps and plans of the castle from [[1 DIGITAL GARDEN/7.0 PEOPLE/7.3 NPCs/Irma (Madam) Pince\|Irma (Madam) Pince]]. She tells him that the entirety of [[1 DIGITAL GARDEN/8.0 PLACES/8.2 Hogwarts School/8.2.0 Hogwarts School - Overview\|Hogwarts School of Witchcraft & Wizardry]] is anti-cartographical. Only the main areas of the school are plottable and even some of them seem resistant to being pinned down. |
 
 { .block-language-dataview}
 
