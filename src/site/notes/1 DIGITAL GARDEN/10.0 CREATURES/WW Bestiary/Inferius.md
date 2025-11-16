@@ -7,7 +7,7 @@
 
 ## Variants
 *Statblocks only visible to DM*
-- [[Inferius - Single CR 2.png]]
+- [[Inferius - Single CR 2.png\|Inferius - Single CR 2.png]]
 - [[Inferii - Swarm CR 5.png]]
 - [[Inferii - Horde CR 10.png]]
 

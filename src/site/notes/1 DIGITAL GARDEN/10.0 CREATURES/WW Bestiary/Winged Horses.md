@@ -6,12 +6,12 @@
 
 ## Variants
 *Statblocks only visible to DM*
-- [[Winged Horse - Foal CR 0.25.png]]
-- [[Winged Horse - Aethonan CR 1.png]]
-- [[Winged Horse - Aethonan (alternate) CR 1.png]]
-- [[Winged Horse - Granian CR 2.png]]
-- [[Winged Horse - Abraxan, young CR 2.png]]
-- [[Winged Horse - Abraxan CR 3.png]]
+- [[Winged Horse - Foal CR 0.25.png\|Winged Horse - Foal CR 0.25.png]]
+- [[Winged Horse - Aethonan CR 1.png\|Winged Horse - Aethonan CR 1.png]]
+- [[Winged Horse - Aethonan (alternate) CR 1.png\|Winged Horse - Aethonan (alternate) CR 1.png]]
+- [[Winged Horse - Granian CR 2.png\|Winged Horse - Granian CR 2.png]]
+- [[Winged Horse - Abraxan, young CR 2.png\|Winged Horse - Abraxan, young CR 2.png]]
+- [[Winged Horse - Abraxan CR 3.png\|Winged Horse - Abraxan CR 3.png]]
 
 ## Description
 

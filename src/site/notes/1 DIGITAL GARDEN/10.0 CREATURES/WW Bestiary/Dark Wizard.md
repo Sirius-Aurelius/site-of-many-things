@@ -7,8 +7,8 @@
 ## Variants
 *Statblocks only visible to DM*
 - [[Dark Wizard CR 3.png]]
-- [[Dark Wizard Veteran CR 7.png]]
-- [[Dark Wizard - Dark Lord  CR 20.png]]
+- [[Dark Wizard Veteran CR 7.png\|Dark Wizard Veteran CR 7.png]]
+- [[Dark Wizard - Dark Lord  CR 20.png\|Dark Wizard - Dark Lord  CR 20.png]]
 
 ## Description
 

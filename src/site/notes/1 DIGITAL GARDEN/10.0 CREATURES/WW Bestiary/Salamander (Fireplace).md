@@ -6,7 +6,7 @@
 
 ## Variants
 *Statblocks only visible to DM*
-- [[Salamander (Fireplace) CR 0.png]]
+- [[Salamander (Fireplace) CR 0.png\|Salamander (Fireplace) CR 0.png]]
 
 ## Description
 

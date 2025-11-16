@@ -5,9 +5,9 @@
 ![Goblin Warrior.png|left|200](/img/user/1%20DIGITAL%20GARDEN/10.0%20CREATURES/(Attachments)/WW%20Bestiary/Goblin%20Warrior.png)
 ## Variants
 *Statblocks only visible to DM*
-- [[Goblin Banker CR 0.125.png]]
-- [[Goblin Treasurer CR 0.25.png]]
-- [[Goblin Armoursmith CR 0.5.png]]
+- [[Goblin Banker CR 0.125.png\|Goblin Banker CR 0.125.png]]
+- [[Goblin Treasurer CR 0.25.png\|Goblin Treasurer CR 0.25.png]]
+- [[Goblin Armoursmith CR 0.5.png\|Goblin Armoursmith CR 0.5.png]]
 - [[Goblin Guard CR 0.5.png]]
 - [[Goblin Warrior CR 2.png]]
 

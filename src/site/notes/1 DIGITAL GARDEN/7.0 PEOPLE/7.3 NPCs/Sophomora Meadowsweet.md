@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/1-digital-garden/7-0-people/7-3-np-cs/sophomora-meadowsweet/","tags":["#person","hogwarts","hogwarts-faculty","support-staff","hufflepuff"]}
 ---
 
-![Sophomora Meadowsweet.png|left|300](/img/user/1%20DIGITAL%20GARDEN/7.0%20PEOPLE/7.3%20NPCs/Headshots/Sophomora%20Meadowsweet.png)
+![[Sophomora Meadowsweet.png\|left]]
 >[!info] 
 >**Role**:: Keeper of Grounds & Keys at [[1 DIGITAL GARDEN/8.0 PLACES/8.2 Hogwarts School/8.2.0 Hogwarts School - Overview\|Hogwarts School of Witchcraft & Wizardry]]
 >**VoiceNotes**:: Minimal

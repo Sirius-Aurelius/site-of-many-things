@@ -4,7 +4,7 @@
 
 ## Variants
 *Statblocks only visible to DM*
-- [[Goblin Treasurer CR 0.25.png]]
+- [[Goblin Treasurer CR 0.25.png\|Goblin Treasurer CR 0.25.png]]
 
 ## Description
 

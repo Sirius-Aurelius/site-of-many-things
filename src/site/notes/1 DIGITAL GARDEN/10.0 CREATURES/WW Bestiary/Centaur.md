@@ -7,8 +7,8 @@
 ## Variants
 *Statblocks only visible to DM*
 - [[Centaur CR 2.png]]
-- [[Centaur Professor CR 3.png]]
-- [[Bull Centaur (Duergar) CR 5.png|Centaur Warrior (5e) CR 5.png]]
+- [[Centaur Professor CR 3.png\|Centaur Professor CR 3.png]]
+- [[Bull Centaur (Duergar) CR 5.png\|Centaur Warrior (5e) CR 5.png]]
 
 ## Description
 

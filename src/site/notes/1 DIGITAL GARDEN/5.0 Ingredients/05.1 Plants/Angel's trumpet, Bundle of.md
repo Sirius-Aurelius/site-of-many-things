@@ -10,6 +10,7 @@
 
 ## Used in:
 
+- [[1 DIGITAL GARDEN/9.0 Chronicles/Session 06 - Arania Exumai!\|Session 06 - Arania Exumai!]]
 - [[1 DIGITAL GARDEN/4.0 Potions/Sleeping Draught\|Sleeping Draught]]
 - [[1 DIGITAL GARDEN/4.0 Potions/Noxious Potion\|Noxious Potion]]
 - [[1 DIGITAL GARDEN/4.0 Potions/Fatiguing Fusion\|Fatiguing Fusion]]

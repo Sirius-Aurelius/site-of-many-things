@@ -18,8 +18,9 @@
 
 # Interactions
 
-| Session | Interactions |
-| ------- | ------------ |
+| Session                                                                                         | Interactions                                                                                                                                                                                                                                                                               |
+| ----------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| [[1 DIGITAL GARDEN/9.0 Chronicles/Session 06 - Arania Exumai!\|Session 06 - Arania Exumai!]] | Contemplating the fate of [[1 DIGITAL GARDEN/7.0 PEOPLE/7.3 NPCs/Eleonora Humblewood (dec.)\|Eleonora Humblewood (dec.)]], Basil recalls seeing [[1 DIGITAL GARDEN/7.0 PEOPLE/7.3 NPCs/The Fat Friar\|The Fat Friar]] watching her sadly during her school years. [[1 DIGITAL GARDEN/7.0 PEOPLE/7.3 NPCs/Cuthbert Binns (Ghost)\|Cuthbert Binns (Ghost)]] would also have been post-deceased by then and has an active interest in the history of magic and Hogwarts itself. |
 
 { .block-language-dataview}
 

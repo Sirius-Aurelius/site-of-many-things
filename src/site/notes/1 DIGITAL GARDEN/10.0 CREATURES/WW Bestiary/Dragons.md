@@ -8,40 +8,40 @@
 ## Variants
 *Statblocks only visible to DM*
 - ==[[1 DIGITAL GARDEN/10.0 CREATURES/WW Bestiary/Dragons#Hungarian Horntail\|Hungarian Horntail]]==
-	- [[Dragon - Wyrmling (Hungarian Horntail) CR 4.png]]
-	- [[Dragon - Young (Hungarian Horntail) CR 9.png]]
-	- [[Dragon - Full-grown (Hungarian Horntail) CR 13.png]]
-	- [[Dragon - Adult (Hungarian Horntail) CR 16.png]]
+	- [[Dragon - Wyrmling (Hungarian Horntail) CR 4.png\|Dragon - Wyrmling (Hungarian Horntail) CR 4.png]]
+	- [[Dragon - Young (Hungarian Horntail) CR 9.png\|Dragon - Young (Hungarian Horntail) CR 9.png]]
+	- [[Dragon - Full-grown (Hungarian Horntail) CR 13.png\|Dragon - Full-grown (Hungarian Horntail) CR 13.png]]
+	- [[Dragon - Adult (Hungarian Horntail) CR 16.png\|Dragon - Adult (Hungarian Horntail) CR 16.png]]
 - ==[[1 DIGITAL GARDEN/10.0 CREATURES/WW Bestiary/Dragons#Norwegian Ridgeback\|Norwegian Ridgeback]]==
-	- [[Dragon - Wyrmling (Norwegian Ridgeback) CR 3.png]]
-	- [[Dragon - Young (Norwegian Ridgeback) CR 8.png]]
-	- [[Dragon - Full-grown (Norwegian Ridgeback) CR 10.png]]
-	- [[Dragon - Adult (Norwegian Ridgeback) CR 14.png]]
+	- [[Dragon - Wyrmling (Norwegian Ridgeback) CR 3.png\|Dragon - Wyrmling (Norwegian Ridgeback) CR 3.png]]
+	- [[Dragon - Young (Norwegian Ridgeback) CR 8.png\|Dragon - Young (Norwegian Ridgeback) CR 8.png]]
+	- [[Dragon - Full-grown (Norwegian Ridgeback) CR 10.png\|Dragon - Full-grown (Norwegian Ridgeback) CR 10.png]]
+	- [[Dragon - Adult (Norwegian Ridgeback) CR 14.png\|Dragon - Adult (Norwegian Ridgeback) CR 14.png]]
 - ==[[1 DIGITAL GARDEN/10.0 CREATURES/WW Bestiary/Dragons#Ukranian Ironbelly\|Ukranian Ironbelly]]==
-	- [[Dragon - Wyrmling (Ukranian Ironbelly) CR 4.png]]
-	- [[Dragon - Young (Ukranian Ironbelly) CR 9.png]]
-	- [[Dragon - Adult (Ukranian Ironbelly) CR 15.png]]
-	- [[Dragon - Legendary (Ukranian Ironbelly) CR 16.png]]
+	- [[Dragon - Wyrmling (Ukranian Ironbelly) CR 4.png\|Dragon - Wyrmling (Ukranian Ironbelly) CR 4.png]]
+	- [[Dragon - Young (Ukranian Ironbelly) CR 9.png\|Dragon - Young (Ukranian Ironbelly) CR 9.png]]
+	- [[Dragon - Adult (Ukranian Ironbelly) CR 15.png\|Dragon - Adult (Ukranian Ironbelly) CR 15.png]]
+	- [[Dragon - Legendary (Ukranian Ironbelly) CR 16.png\|Dragon - Legendary (Ukranian Ironbelly) CR 16.png]]
 - ==[[1 DIGITAL GARDEN/10.0 CREATURES/WW Bestiary/Dragons#Swedish Short-Snout\|Swedish Short-Snout]]
-	- [[Dragon - Wyrmling (Swedish Snortsnout) CR 2.png]]
-	- [[Dragon - Young (Swedish Snortsnout) CR 7.png]]
-	- [[Dragon - Adult (Swedish Snortsnout) CR 11.png]]
+	- [[Dragon - Wyrmling (Swedish Snortsnout) CR 2.png\|Dragon - Wyrmling (Swedish Snortsnout) CR 2.png]]
+	- [[Dragon - Young (Swedish Snortsnout) CR 7.png\|Dragon - Young (Swedish Snortsnout) CR 7.png]]
+	- [[Dragon - Adult (Swedish Snortsnout) CR 11.png\|Dragon - Adult (Swedish Snortsnout) CR 11.png]]
 - ==[[1 DIGITAL GARDEN/10.0 CREATURES/WW Bestiary/Dragons#Common Welsh Green\|Common Welsh Green]]
-	- [[Dragon - Wyrmling (Common Welsh Green) CR 2.png]]
-	- [[Dragon - Young (Common Welsh Green) CR 6.png]]
-	- [[Dragon - Adult (Common Welsh Green) CR 10.png]]
+	- [[Dragon - Wyrmling (Common Welsh Green) CR 2.png\|Dragon - Wyrmling (Common Welsh Green) CR 2.png]]
+	- [[Dragon - Young (Common Welsh Green) CR 6.png\|Dragon - Young (Common Welsh Green) CR 6.png]]
+	- [[Dragon - Adult (Common Welsh Green) CR 10.png\|Dragon - Adult (Common Welsh Green) CR 10.png]]
 - ==[[1 DIGITAL GARDEN/10.0 CREATURES/WW Bestiary/Dragons#Chinese Fireball (Liondragon)\|Chinese Fireball (Liondragon)]]==
-	- [[Dragon - Wyrmling (Chinese Fireball) CR 3.png]]
-	- [[Dragon - Young (Chinese Fireball) CR 8.png]]
-	- [[Dragon - Adult (Chinese Fireball) CR 13.png]]
+	- [[Dragon - Wyrmling (Chinese Fireball) CR 3.png\|Dragon - Wyrmling (Chinese Fireball) CR 3.png]]
+	- [[Dragon - Young (Chinese Fireball) CR 8.png\|Dragon - Young (Chinese Fireball) CR 8.png]]
+	- [[Dragon - Adult (Chinese Fireball) CR 13.png\|Dragon - Adult (Chinese Fireball) CR 13.png]]
 - ==[[1 DIGITAL GARDEN/10.0 CREATURES/WW Bestiary/Dragons#Peruvian Vipertooth\|Peruvian Vipertooth]]==
-	- [[Dragon - Wyrmling (Peruvian Vipertooth) CR 2.png]]
-	- [[Dragon - Young (Peruvian Vipertooth) CR 7.png]]
-	- [[Dragon - Adult (Peruvian Vipertooth) CR 12.png]]
+	- [[Dragon - Wyrmling (Peruvian Vipertooth) CR 2.png\|Dragon - Wyrmling (Peruvian Vipertooth) CR 2.png]]
+	- [[Dragon - Young (Peruvian Vipertooth) CR 7.png\|Dragon - Young (Peruvian Vipertooth) CR 7.png]]
+	- [[Dragon - Adult (Peruvian Vipertooth) CR 12.png\|Dragon - Adult (Peruvian Vipertooth) CR 12.png]]
 - ==[[1 DIGITAL GARDEN/10.0 CREATURES/WW Bestiary/Dragons#Antipodean Opaleye\|Antipodean Opaleye]]
-	- [[Dragon - Wyrmling (Antipodean Opaleye) CR 2.png]]
-	- [[Dragon - Young (Antipodean Opaleye) CR 7.png]]
-	- [[Dragon - Adult (Antipodean Opaleye) CR 12.png]]
+	- [[Dragon - Wyrmling (Antipodean Opaleye) CR 2.png\|Dragon - Wyrmling (Antipodean Opaleye) CR 2.png]]
+	- [[Dragon - Young (Antipodean Opaleye) CR 7.png\|Dragon - Young (Antipodean Opaleye) CR 7.png]]
+	- [[Dragon - Adult (Antipodean Opaleye) CR 12.png\|Dragon - Adult (Antipodean Opaleye) CR 12.png]]
 
 ## General Description
 
@@ -99,10 +99,10 @@ The Hungarian Horntail is widely regarded as one of the most fearsome dragon bre
 * Acquiring these materials is extremely dangerous and requires specialized dragon tamer teams.
 
 #### Variants
-- [[Dragon - Wyrmling (Hungarian Horntail) CR 4.png]]
-- [[Dragon - Young (Hungarian Horntail) CR 9.png]]
-- [[Dragon - Full-grown (Hungarian Horntail) CR 13.png]]
-- [[Dragon - Adult (Hungarian Horntail) CR 16.png]]
+- [[Dragon - Wyrmling (Hungarian Horntail) CR 4.png\|Dragon - Wyrmling (Hungarian Horntail) CR 4.png]]
+- [[Dragon - Young (Hungarian Horntail) CR 9.png\|Dragon - Young (Hungarian Horntail) CR 9.png]]
+- [[Dragon - Full-grown (Hungarian Horntail) CR 13.png\|Dragon - Full-grown (Hungarian Horntail) CR 13.png]]
+- [[Dragon - Adult (Hungarian Horntail) CR 16.png\|Dragon - Adult (Hungarian Horntail) CR 16.png]]
 
 ### ==Norwegian Ridgeback==
 
@@ -130,14 +130,14 @@ The Norwegian Ridgeback is a rare and highly sought-after dragon species, known 
 * Challenging for even experienced dragon tamers.
 
 #### Variants
-- [[Dragon - Wyrmling (Norwegian Ridgeback) CR 3.png]]
-- [[Dragon - Young (Norwegian Ridgeback) CR 8.png]]
-- [[Dragon - Full-grown (Norwegian Ridgeback) CR 10.png]]
-- [[Dragon - Adult (Norwegian Ridgeback) CR 14.png]]
+- [[Dragon - Wyrmling (Norwegian Ridgeback) CR 3.png\|Dragon - Wyrmling (Norwegian Ridgeback) CR 3.png]]
+- [[Dragon - Young (Norwegian Ridgeback) CR 8.png\|Dragon - Young (Norwegian Ridgeback) CR 8.png]]
+- [[Dragon - Full-grown (Norwegian Ridgeback) CR 10.png\|Dragon - Full-grown (Norwegian Ridgeback) CR 10.png]]
+- [[Dragon - Adult (Norwegian Ridgeback) CR 14.png\|Dragon - Adult (Norwegian Ridgeback) CR 14.png]]
 
 ### ==Ukranian Ironbelly==
 
-![Dragon - Ukranian Ironbelly.png|left|200](/img/user/1%20DIGITAL%20GARDEN/10.0%20CREATURES/(Attachments)/WW%20Bestiary/Dragon%20-%20Ukranian%20Ironbelly.png)
+![[Dragon - Ukranian Ironbelly.png\|left]]
 The Ukrainian Ironbelly is the largest dragon breed in the world, known for its immense size, strength, and shimmering metallic gray scales that give it a unique, iron-like appearance. Native to the mountainous regions of Ukraine, this colossal dragon can weigh up to six tons, making it both a formidable sight and one of the most feared dragon species.
 
 #### Physical Characteristics and Abilities
@@ -163,10 +163,10 @@ The Ukrainian Ironbelly is the largest dragon breed in the world, known for its 
 * Native to mountainous regions of Ukraine.
 
 #### Variants
-- [[Dragon - Wyrmling (Ukranian Ironbelly) CR 4.png]]
-- [[Dragon - Young (Ukranian Ironbelly) CR 9.png]]
-- [[Dragon - Adult (Ukranian Ironbelly) CR 15.png]]
-- [[Dragon - Legendary (Ukranian Ironbelly) CR 16.png]]
+- [[Dragon - Wyrmling (Ukranian Ironbelly) CR 4.png\|Dragon - Wyrmling (Ukranian Ironbelly) CR 4.png]]
+- [[Dragon - Young (Ukranian Ironbelly) CR 9.png\|Dragon - Young (Ukranian Ironbelly) CR 9.png]]
+- [[Dragon - Adult (Ukranian Ironbelly) CR 15.png\|Dragon - Adult (Ukranian Ironbelly) CR 15.png]]
+- [[Dragon - Legendary (Ukranian Ironbelly) CR 16.png\|Dragon - Legendary (Ukranian Ironbelly) CR 16.png]]
 
 ### ==Swedish Short-Snout==
 
@@ -190,9 +190,9 @@ The Swedish Short-Snout is a stunning silver-blue dragon, known for its beautifu
 * Requires experienced handlers due to the heat of its flame.
 
 #### Variants
-- [[Dragon - Wyrmling (Swedish Snortsnout) CR 2.png]]
-- [[Dragon - Young (Swedish Snortsnout) CR 7.png]]
-- [[Dragon - Adult (Swedish Snortsnout) CR 11.png]]
+- [[Dragon - Wyrmling (Swedish Snortsnout) CR 2.png\|Dragon - Wyrmling (Swedish Snortsnout) CR 2.png]]
+- [[Dragon - Young (Swedish Snortsnout) CR 7.png\|Dragon - Young (Swedish Snortsnout) CR 7.png]]
+- [[Dragon - Adult (Swedish Snortsnout) CR 11.png\|Dragon - Adult (Swedish Snortsnout) CR 11.png]]
 
 ### ==Common Welsh Green==
 
@@ -216,9 +216,9 @@ The Common Welsh Green is a relatively docile dragon compared to other breeds, t
 * Requires careful handling due to its size and fire capabilities.
 
 #### Variants
-- [[Dragon - Wyrmling (Common Welsh Green) CR 2.png]]
-- [[Dragon - Young (Common Welsh Green) CR 6.png]]
-- [[Dragon - Adult (Common Welsh Green) CR 10.png]]
+- [[Dragon - Wyrmling (Common Welsh Green) CR 2.png\|Dragon - Wyrmling (Common Welsh Green) CR 2.png]]
+- [[Dragon - Young (Common Welsh Green) CR 6.png\|Dragon - Young (Common Welsh Green) CR 6.png]]
+- [[Dragon - Adult (Common Welsh Green) CR 10.png\|Dragon - Adult (Common Welsh Green) CR 10.png]]
 
 ### ==Chinese Fireball (Liondragon)==
 
@@ -242,9 +242,9 @@ The Chinese Fireball is a striking scarlet and gold dragon with smooth scales an
 * Used in various Chinese magical practices.
 
 #### Variants
-- [[Dragon - Wyrmling (Chinese Fireball) CR 3.png]]
-- [[Dragon - Young (Chinese Fireball) CR 8.png]]
-- [[Dragon - Adult (Chinese Fireball) CR 13.png]]
+- [[Dragon - Wyrmling (Chinese Fireball) CR 3.png\|Dragon - Wyrmling (Chinese Fireball) CR 3.png]]
+- [[Dragon - Young (Chinese Fireball) CR 8.png\|Dragon - Young (Chinese Fireball) CR 8.png]]
+- [[Dragon - Adult (Chinese Fireball) CR 13.png\|Dragon - Adult (Chinese Fireball) CR 13.png]]
 
 ### ==Peruvian Vipertooth==
 
@@ -268,9 +268,9 @@ The Peruvian Vipertooth is a small, venomous dragon known for its copper scales 
 * Strictly controlled by the Peruvian Ministry of Magic.
 
 #### Variants
-- [[Dragon - Wyrmling (Peruvian Vipertooth) CR 2.png]]
-- [[Dragon - Young (Peruvian Vipertooth) CR 7.png]]
-- [[Dragon - Adult (Peruvian Vipertooth) CR 12.png]]
+- [[Dragon - Wyrmling (Peruvian Vipertooth) CR 2.png\|Dragon - Wyrmling (Peruvian Vipertooth) CR 2.png]]
+- [[Dragon - Young (Peruvian Vipertooth) CR 7.png\|Dragon - Young (Peruvian Vipertooth) CR 7.png]]
+- [[Dragon - Adult (Peruvian Vipertooth) CR 12.png\|Dragon - Adult (Peruvian Vipertooth) CR 12.png]]
 
 ### ==Antipodean Opaleye==
 
@@ -294,6 +294,6 @@ The Antipodean Opaleye is a strikingly beautiful dragon, known for its pearlesce
 * Requires careful handling due to its unpredictable nature.
 
 #### Variants
-- [[Dragon - Wyrmling (Antipodean Opaleye) CR 2.png]]
-- [[Dragon - Young (Antipodean Opaleye) CR 7.png]]
-- [[Dragon - Adult (Antipodean Opaleye) CR 12.png]]
+- [[Dragon - Wyrmling (Antipodean Opaleye) CR 2.png\|Dragon - Wyrmling (Antipodean Opaleye) CR 2.png]]
+- [[Dragon - Young (Antipodean Opaleye) CR 7.png\|Dragon - Young (Antipodean Opaleye) CR 7.png]]
+- [[Dragon - Adult (Antipodean Opaleye) CR 12.png\|Dragon - Adult (Antipodean Opaleye) CR 12.png]]

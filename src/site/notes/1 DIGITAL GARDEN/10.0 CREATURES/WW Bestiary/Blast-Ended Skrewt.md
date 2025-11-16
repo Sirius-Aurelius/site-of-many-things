@@ -7,7 +7,7 @@
 
 ## Variants
 *Statblocks only visible to DM*
-- [[Blast-Ended Skrewt CR 3.png]]
+- [[Blast-Ended Skrewt CR 3.png\|Blast-Ended Skrewt CR 3.png]]
 
 ## Description
 

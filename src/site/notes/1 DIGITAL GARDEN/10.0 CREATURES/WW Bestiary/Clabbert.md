@@ -8,7 +8,7 @@
 ## Variants
 *Statblocks only visible to DM*
 - [[Clabbert CR 0.png]]
-- [[Clabbert (alternate) CR 0.png]]
+- [[Clabbert (alternate) CR 0.png\|Clabbert (alternate) CR 0.png]]
 
 ## Description
 

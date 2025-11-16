@@ -7,7 +7,7 @@
 
 ## Variants
 *Statblocks only visible to DM*
-- [[Goblin Banker CR 0.125.png]]
+- [[Goblin Banker CR 0.125.png\|Goblin Banker CR 0.125.png]]
 
 ## Description
 

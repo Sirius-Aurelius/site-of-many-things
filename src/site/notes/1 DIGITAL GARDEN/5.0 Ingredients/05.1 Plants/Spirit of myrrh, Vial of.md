@@ -11,8 +11,8 @@
 ## Used in:
 
 - [[1 DIGITAL GARDEN/4.0 Potions/Wound-Cleaning Potion\|Wound-Cleaning Potion]]
-- [[1 DIGITAL GARDEN/4.0 Potions/Mandrake Restorative Draught\|Mandrake Restorative Draught]]
 - [[1 DIGITAL GARDEN/4.0 Potions/Murtlap Essence\|Murtlap Essence]]
+- [[1 DIGITAL GARDEN/4.0 Potions/Mandrake Restorative Draught\|Mandrake Restorative Draught]]
 
 { .block-language-dataview}
 

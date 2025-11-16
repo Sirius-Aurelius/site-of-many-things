@@ -6,7 +6,7 @@
 
 ## Variants
 *Statblocks only visible to DM*
-- [[Goblin Armoursmith CR 0.5.png]]
+- [[Goblin Armoursmith CR 0.5.png\|Goblin Armoursmith CR 0.5.png]]
 
 ## Description
 

@@ -7,5 +7,5 @@
 - [[Rat CR 0.png]]
 - [[Rat, Plague CR 0.125.png]]
 - [[Rat, Giant CR 0.125.png]]
-- [[Rat, Giant Plague  CR 0.25.png]]
+- [[Rat, Giant Plague  CR 0.25.png\|Rat, Giant Plague  CR 0.25.png]]
 
