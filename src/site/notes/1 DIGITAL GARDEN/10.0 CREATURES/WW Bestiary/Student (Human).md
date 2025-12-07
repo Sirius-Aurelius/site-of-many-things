@@ -4,11 +4,11 @@
 
 ## Variants
 *Statblocks only visible to DM*
-- [[Student - 1st Year CR 0.125.png\|Student - 1st Year CR 0.125.png]]
-- [[Student - 3rd Year CR 0.5.png\|Student - 3rd Year CR 0.5.png]]
+- [[Student - 1st Year CR 0.125.png]]
+- [[Student - 3rd Year CR 0.5.png]]
 - [[Student - 5th Year CR 1.png\|Student - 5th Year CR 1.png]]
 - [[Student - 7th Year CR 2.png\|Student - 7th Year CR 2.png]]
-- **[[Student Additional Actions.png\|Student Additional Actions.png]]**
+- **[[Student Additional Actions.png]]**
 
 ## Description
 

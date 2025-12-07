@@ -8,7 +8,7 @@
 *Statblocks only visible to DM*
 - [[Yeti - Young CR 3.png]]
 - [[Yeti - Adult CR 5.png]]
-- [[Yeti - Adult (alternate) CR 5.png\|Yeti - Adult (alternate) CR 5.png]]
+- [[Yeti - Adult (alternate) CR 5.png]]
 
 ## Description
 

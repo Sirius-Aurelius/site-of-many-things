@@ -7,7 +7,7 @@
 
 ## Variants
 *Statblocks only visible to DM*
-- [[Thunderbird - Young CR 8.png\|Thunderbird - Young CR 8.png]]
+- [[Thunderbird - Young CR 8.png]]
 - [[Thunderbird CR 15.png]]
 
 ## Description

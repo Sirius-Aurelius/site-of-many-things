@@ -10,10 +10,10 @@
 
 ## Used in:
 
+- [[0 DM SCREEN/2 Campaign Notes & Archive/Completed Sessions/Session 03 - First Foray to the Forbidden Forest\|Session 03 - First Foray to the Forbidden Forest]]
 - [[1 DIGITAL GARDEN/4.0 Potions/Star Grass Salve\|Star Grass Salve]]
 - [[1 DIGITAL GARDEN/4.0 Potions/Fungiface Potion\|Fungiface Potion]]
 - [[1 DIGITAL GARDEN/4.0 Potions/Blemish Blitzer\|Blemish Blitzer]]
-- [[0 DM SCREEN/2 Campaign Notes & Archive/Completed Sessions/Session 03 - First Foray to the Forbidden Forest\|Session 03 - First Foray to the Forbidden Forest]]
 
 { .block-language-dataview}
 

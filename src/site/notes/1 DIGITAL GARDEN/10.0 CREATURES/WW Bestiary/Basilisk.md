@@ -7,9 +7,9 @@
 
 ## Variants
 *Statblocks only visible to DM*
-- [[Basilisk - Juvenile CR 12.png\|Basilisk - Juvenile CR 12.png]]
+- [[Basilisk - Juvenile CR 12.png]]
 - [[Basilisk - Adult CR 16.png\|Basilisk - Adult CR 16.png]]
-- [[Basilisk - Ancient CR 21.png\|Basilisk - Ancient CR 21.png]]
+- [[Basilisk - Ancient CR 21.png]]
 
 ## Description
 

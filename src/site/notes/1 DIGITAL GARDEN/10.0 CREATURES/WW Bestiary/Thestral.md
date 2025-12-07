@@ -8,8 +8,8 @@
 ## Variants
 *Statblocks only visible to DM*
 - [[Thestral CR 0.5.png]]
-- [[Thestral - Juvenile CR 1.png\|Thestral - Juvenile CR 1.png]]
-- [[Thestral - Full-grown CR 2.png\|Thestral - Full-grown CR 2.png]]
+- [[Thestral - Juvenile CR 1.png]]
+- [[Thestral - Full-grown CR 2.png]]
 
 ## Description
 

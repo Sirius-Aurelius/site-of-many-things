@@ -8,7 +8,7 @@
 ## Variants
 *Statblocks only visible to DM*
 - [[Demiguise CR 0.125.png]]
-- [[Demiguise - Adult CR 0.5.png\|Demiguise - Adult CR 0.5.png]]
+- [[Demiguise - Adult CR 0.5.png]]
 
 ## Description
 

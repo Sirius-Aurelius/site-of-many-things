@@ -3,7 +3,7 @@
 ---
 
 
-![[Myrddin Blishwick.png\|left]]
+![Myrddin Blishwick.png|left|300](/img/user/1%20DIGITAL%20GARDEN/7.0%20PEOPLE/7.3%20NPCs/Headshots/Myrddin%20Blishwick.png)
 >[!info] 
 >**Role**:: Divination professor at [[1 DIGITAL GARDEN/8.0 PLACES/8.2 Hogwarts School/8.2.0 Hogwarts School - Overview\|Hogwarts School of Witchcraft & Wizardry]]
 >**VoiceNotes**:: Quietly silken. Brief. *The gaps speak volumes*

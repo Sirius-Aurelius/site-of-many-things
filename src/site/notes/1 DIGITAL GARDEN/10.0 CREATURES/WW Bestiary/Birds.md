@@ -4,5 +4,5 @@
 
 ## Stats
 *Statblocks only visible to DM*
-- [[Swarm of Tiny Birds CR 1.png\|Swarm of Tiny Birds CR 1.png]]
-- [[Swarm of Small Birds CR 2.png\|Swarm of Small Birds CR 2.png]]
+- [[Swarm of Tiny Birds CR 1.png]]
+- [[Swarm of Small Birds CR 2.png]]

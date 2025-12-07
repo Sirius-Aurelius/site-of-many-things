@@ -7,8 +7,8 @@
 
 ## Variants
 *Statblocks only visible to DM*
-- [[Grindylow - Single CR 0.125.png\|Grindylow - Single CR 0.125.png]]
-- [[Grindylow - Full-grown CR 0.25.png\|Grindylow - Full-grown CR 0.25.png]]
+- [[Grindylow - Single CR 0.125.png]]
+- [[Grindylow - Full-grown CR 0.25.png]]
 - [[Grindylow - Swarm CR 2.png\|Grindylow - Swarm CR 2.png]]
 
 ## Description

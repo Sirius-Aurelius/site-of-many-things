@@ -10,11 +10,12 @@
 
 ## Used in:
 
+- [[0 DM SCREEN/2 Campaign Notes & Archive/Completed Sessions/Session 03 - First Foray to the Forbidden Forest\|Session 03 - First Foray to the Forbidden Forest]]
+- [[1 DIGITAL GARDEN/9.0 Chronicles/Session 07 - Falling Down\|Session 07 - Falling Down]]
 - [[1 DIGITAL GARDEN/4.0 Potions/Sleeping Draught\|Sleeping Draught]]
 - [[1 DIGITAL GARDEN/4.0 Potions/Herbicide Potion\|Herbicide Potion]]
 - [[1 DIGITAL GARDEN/4.0 Potions/Blemish Blitzer\|Blemish Blitzer]]
 - [[1 DIGITAL GARDEN/10.0 CREATURES/WW Bestiary/Flobberworm\|Flobberworm]]
-- [[0 DM SCREEN/2 Campaign Notes & Archive/Completed Sessions/Session 03 - First Foray to the Forbidden Forest\|Session 03 - First Foray to the Forbidden Forest]]
 
 { .block-language-dataview}
 

@@ -6,9 +6,9 @@
 
 ## Variants
 *Statblocks only visible to DM*
-- [[Diricawl - Juvenile CR 0.png\|Diricawl - Juvenile CR 0.png]]
+- [[Diricawl - Juvenile CR 0.png]]
 - [[Diricawl - Young CR 0.png]]
-- [[Diricawl - Adult CR 0.125.png\|Diricawl - Adult CR 0.125.png]]
+- [[Diricawl - Adult CR 0.125.png]]
 
 ## Description
 

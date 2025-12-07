@@ -6,12 +6,12 @@
 
 ## Variants
 *Statblocks only visible to DM*
-- [[Acromantula - T1 CR 0.25.png\|Acromantula - T1 CR 0.25.png]]
-- [[Acromantula - Infant CR 3.png\|Acromantula - Infant CR 3.png]]
-- [[Acromantula - Elder (T2) CR 4.png\|Acromantula - Elder (T2) CR 4.png]]
-- [[Acromantula - Juvenile CR 5.png\|Acromantula - Juvenile CR 5.png]]
-- [[Acromantula - Young CR 5.png\|Acromantula - Young CR 5.png]]
-- [[Acromantula - Adult CR 7.png\|Acromantula - Adult CR 7.png]]
+- [[Acromantula - T1 CR 0.25.png]]
+- [[Acromantula - Infant CR 3.png]]
+- [[Acromantula - Elder (T2) CR 4.png]]
+- [[Acromantula - Juvenile CR 5.png]]
+- [[Acromantula - Young CR 5.png]]
+- [[Acromantula - Adult CR 7.png]]
 
 ### Description
 
