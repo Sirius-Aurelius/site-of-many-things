@@ -11,5 +11,6 @@
 - [[1 DIGITAL GARDEN/9.0 Chronicles/Session 05 - Trouble at the Mine\|Session 05 - Trouble at the Mine]]
 - [[1 DIGITAL GARDEN/9.0 Chronicles/Session 06 - Arania Exumai!\|Session 06 - Arania Exumai!]]
 - [[1 DIGITAL GARDEN/9.0 Chronicles/Session 07 - Falling Down\|Session 07 - Falling Down]]
+- [[1 DIGITAL GARDEN/9.0 Chronicles/Session 08 - Aftermath\|Session 08 - Aftermath]]
 
 { .block-language-dataview}

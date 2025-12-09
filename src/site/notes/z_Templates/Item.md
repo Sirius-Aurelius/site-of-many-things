@@ -5,3 +5,10 @@
 *Item type, rarity*
 
 ## Description
+
+# Mentions
+
+| Session | Interactions |
+| ------- | ------------ |
+
+{ .block-language-dataview}

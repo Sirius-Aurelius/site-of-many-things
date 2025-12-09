@@ -10,6 +10,7 @@
 
 ## Used in:
 
+- [[1 DIGITAL GARDEN/9.0 Chronicles/Session 08 - Aftermath\|Session 08 - Aftermath]]
 - [[1 DIGITAL GARDEN/4.0 Potions/Mandrake Restorative Draught\|Mandrake Restorative Draught]]
 - [[1 DIGITAL GARDEN/4.0 Potions/Invigoration Draught\|Invigoration Draught]]
 

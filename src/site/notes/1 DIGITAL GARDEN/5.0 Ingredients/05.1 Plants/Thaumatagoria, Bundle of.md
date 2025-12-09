@@ -11,6 +11,7 @@
 ## Used in:
 
 - [[1 DIGITAL GARDEN/4.0 Potions/Veritaserum\|Veritaserum]]
+- [[1 DIGITAL GARDEN/11.0 Plants/Thaumatagoria\|Thaumatagoria]]
 
 { .block-language-dataview}
 

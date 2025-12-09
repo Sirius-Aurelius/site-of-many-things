@@ -2,8 +2,8 @@
 {"dg-publish":true,"permalink":"/1-digital-garden/7-0-people/7-3-np-cs/euphemia-blight/","tags":["#person","hogwarts","hogwarts-faculty","professor","gryffindor"]}
 ---
 
+![[Euphemia Blight.png\|Euphemia Blight.png]]
 >[!info] 
->[[ ==CHARACTER PORTRAIT HERE (with |left|300)==
 >**Role**:: Professor of DADA at [[1 DIGITAL GARDEN/8.0 PLACES/8.2 Hogwarts School/8.2.0 Hogwarts School - Overview\|Hogwarts School of Witchcraft & Wizardry]]
 >**ThreeWordSummary**:: Intense, immaculate, "*constant vigilance!*"
 >**UsuallyFoundIn**:: [[1 DIGITAL GARDEN/8.0 PLACES/8.2 Hogwarts School/8.2.06 Defence Against the Dark Arts Classroom\|Defence Against the Dark Arts classroom]],
