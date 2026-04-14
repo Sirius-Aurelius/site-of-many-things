@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-digital-garden/3-0-spells/fumos/"}
+{"dg-publish":true,"permalink":"/1-digital-garden/3-0-spells/fumos/","tags":["DnDB-done"]}
 ---
 
 The Smokescreen Spell - 2nd-level Charm 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-digital-garden/3-0-spells/protego-maxima/"}
+{"dg-publish":true,"permalink":"/1-digital-garden/3-0-spells/protego-maxima/","tags":["DnDB-done"]}
 ---
 
 The Orb Shield Charm - 2nd-level Charm 

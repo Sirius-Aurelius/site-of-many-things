@@ -1,0 +1,23 @@
+---
+{"dg-publish":true,"permalink":"/1-digital-garden/9-0-chronicles/session-00-the-death-of-annabelle-featherstone/"}
+---
+
+## As recounted by [[1 DIGITAL GARDEN/7.0 PEOPLE/7.1 PCs/Basil Featherstone (Nick)\|Basil]] in [[1 DIGITAL GARDEN/9.0 Chronicles/Session 11 - First Year Flyby\|Session 11]]
+
+Event:: [[1 DIGITAL GARDEN/7.0 PEOPLE/7.3 NPCs/Maj. Rudolph Augustus Featherstone DSO MC (Ret.)\|Maj. Rudolph Augustus Featherstone DSO MC (Ret.)]] was born in South Africa to Muggle colonialists in the late 1800s
+
+Event:: [[1 DIGITAL GARDEN/7.0 PEOPLE/7.3 NPCs/Maj. Rudolph Augustus Featherstone DSO MC (Ret.)\|Maj. Rudolph Augustus Featherstone DSO MC (Ret.)]] learns his magic at [[1 DIGITAL GARDEN/8.0 PLACES/8.5 Wider World/8.5.0 General Locations/Ouagadou School of Magic\|Ouagadou School of Magic]] before his parents returned to the UK prior to the outbreak of the Great Muggle War. [[1 DIGITAL GARDEN/7.0 PEOPLE/7.3 NPCs/Maj. Rudolph Augustus Featherstone DSO MC (Ret.)\|young Rudolph]] was drafted as a Lieutenant in his Majesty's army
+
+Event:: During the course of the Great War, [[1 DIGITAL GARDEN/7.0 PEOPLE/7.3 NPCs/Maj. Rudolph Augustus Featherstone DSO MC (Ret.)\|Maj. Rudolph Augustus Featherstone DSO MC (Ret.)]] used his magic knowingly in the presence of muggles. Always seeking to help the injured, he even developed a way to mask his use of the non-lethal [[1 DIGITAL GARDEN/3.0 Spells/Devicto\|Devicto]] spell by making it sound like a rifle crack
+
+Event:: After the war, [[1 DIGITAL GARDEN/7.0 PEOPLE/7.3 NPCs/Maj. Rudolph Augustus Featherstone DSO MC (Ret.)\|Maj. Rudolph Augustus Featherstone DSO MC (Ret.)]] sought to conceal his magic and live a 'normal' life. He married [[1 DIGITAL GARDEN/7.0 PEOPLE/7.3 NPCs/Annabelle Featherstone (dec.)\|Annabelle]], and had a child: [[1 DIGITAL GARDEN/7.0 PEOPLE/7.1 PCs/Basil Featherstone (Nick)\|Basil]]. [[1 DIGITAL GARDEN/7.0 PEOPLE/7.3 NPCs/Maj. Rudolph Augustus Featherstone DSO MC (Ret.)\|Maj. Rudolph Augustus Featherstone DSO MC (Ret.)]] hoped that [[1 DIGITAL GARDEN/7.0 PEOPLE/7.1 PCs/Basil Featherstone (Nick)\|Basil]] would be spared magicality.
+
+Event:: [[1 DIGITAL GARDEN/7.0 PEOPLE/7.1 PCs/Basil Featherstone (Nick)\|Basil's]] mother, [[1 DIGITAL GARDEN/7.0 PEOPLE/7.3 NPCs/Annabelle Featherstone (dec.)\|Annabelle]] was a star and a socialite. Her life of partying meant that Basil was raised largely by his father, [[1 DIGITAL GARDEN/7.0 PEOPLE/7.3 NPCs/Maj. Rudolph Augustus Featherstone DSO MC (Ret.)\|Rudolph]] and always without magic
+
+Event:: Aged about 7-8 years, [[1 DIGITAL GARDEN/7.0 PEOPLE/7.1 PCs/Basil Featherstone (Nick)\|Basil]] first began to see spirits. It was during this time that he took [[1 DIGITAL GARDEN/6.0 Items/Ruffles the Teddy\|Ruffles the Teddy]] as his companion and comforter. The spirits would often visit him at night, often causing [[1 DIGITAL GARDEN/7.0 PEOPLE/7.1 PCs/Basil Featherstone (Nick)\|Basil]] night terrors
+
+Event:: One night, whilst half drunk, [[1 DIGITAL GARDEN/7.0 PEOPLE/7.3 NPCs/Annabelle Featherstone (dec.)\|Annabelle Featherstone (dec.)]] sought to tuck [[1 DIGITAL GARDEN/7.0 PEOPLE/7.1 PCs/Basil Featherstone (Nick)\|Basil]] in - a fairly uncharacteristic act - Basil awoke from a night terror to see her looming over him. There was a flash of light and [[1 DIGITAL GARDEN/7.0 PEOPLE/7.3 NPCs/Annabelle Featherstone (dec.)\|Annabelle]] lay dead. [[1 DIGITAL GARDEN/6.0 Items/Ruffles the Teddy\|Ruffles the Teddy]] was badly singed on the bed beside [[1 DIGITAL GARDEN/7.0 PEOPLE/7.1 PCs/Basil Featherstone (Nick)\|Basil]]
+
+Event:: After the unexpected incident that killed [[1 DIGITAL GARDEN/7.0 PEOPLE/7.3 NPCs/Annabelle Featherstone (dec.)\|his mother]], [[1 DIGITAL GARDEN/7.0 PEOPLE/7.1 PCs/Basil Featherstone (Nick)\|Basil]]'s father - [[1 DIGITAL GARDEN/7.0 PEOPLE/7.3 NPCs/Maj. Rudolph Augustus Featherstone DSO MC (Ret.)\|Rudolph]] - sought to teach Basil control of magic. [[1 DIGITAL GARDEN/7.0 PEOPLE/7.3 NPCs/Annabelle Featherstone (dec.)\|Annabelle Featherstone (dec.)]] remains as a spirit haunting the grounds of [[1 DIGITAL GARDEN/8.0 PLACES/8.5 Wider World/8.5.0 General Locations/8.5.0.01 Mallory Court, Leamington Spa\|Mallory Court]]
+
+Event:: In part to avoid contact with the ghost of [[1 DIGITAL GARDEN/7.0 PEOPLE/7.3 NPCs/Annabelle Featherstone (dec.)\|his mother]], [[1 DIGITAL GARDEN/7.0 PEOPLE/7.1 PCs/Basil Featherstone (Nick)\|Basil]] then went away to boarding school for long stretches.

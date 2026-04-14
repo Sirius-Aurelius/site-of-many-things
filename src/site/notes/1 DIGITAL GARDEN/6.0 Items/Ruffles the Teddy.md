@@ -1,0 +1,18 @@
+---
+{"dg-publish":true,"permalink":"/1-digital-garden/6-0-items/ruffles-the-teddy/","tags":["#item","#mundane"]}
+---
+
+*Muggle soft toy, common*
+
+## Description
+[[1 DIGITAL GARDEN/7.0 PEOPLE/7.1 PCs/Basil Featherstone (Nick)\|Basil]]'s childhood companion and witness to the death of [[1 DIGITAL GARDEN/7.0 PEOPLE/7.3 NPCs/Annabelle Featherstone (dec.)\|Annabelle Featherstone (dec.)]]. Ruffles was badly singed on the night Basil's mother died
+
+# Mentions
+
+| Session                                                                                                                                     | Interactions                                                                                                                                                                                                                                                                                                                                                                                              |
+| ------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [[1 DIGITAL GARDEN/9.0 Chronicles/Session -00 - The Death of Annabelle Featherstone\|Session -00 - The Death of Annabelle Featherstone]] | Aged about 7-8 years, [[1 DIGITAL GARDEN/7.0 PEOPLE/7.1 PCs/Basil Featherstone (Nick)\|Basil]] first began to see spirits. It was during this time that he took [[1 DIGITAL GARDEN/6.0 Items/Ruffles the Teddy\|Ruffles the Teddy]] as his companion and comforter. The spirits would often visit him at night, often causing [[1 DIGITAL GARDEN/7.0 PEOPLE/7.1 PCs/Basil Featherstone (Nick)\|Basil]] night terrors                                                                                                            |
+| [[1 DIGITAL GARDEN/9.0 Chronicles/Session -00 - The Death of Annabelle Featherstone\|Session -00 - The Death of Annabelle Featherstone]] | One night, whilst half drunk, [[1 DIGITAL GARDEN/7.0 PEOPLE/7.3 NPCs/Annabelle Featherstone (dec.)\|Annabelle Featherstone (dec.)]] sought to tuck [[1 DIGITAL GARDEN/7.0 PEOPLE/7.1 PCs/Basil Featherstone (Nick)\|Basil]] in - a fairly uncharacteristic act - Basil awoke from a night terror to see her looming over him. There was a flash of light and [[1 DIGITAL GARDEN/7.0 PEOPLE/7.3 NPCs/Annabelle Featherstone (dec.)\|Annabelle]] lay dead. [[1 DIGITAL GARDEN/6.0 Items/Ruffles the Teddy\|Ruffles the Teddy]] was badly singed on the bed beside [[1 DIGITAL GARDEN/7.0 PEOPLE/7.1 PCs/Basil Featherstone (Nick)\|Basil]] |
+| [[1 DIGITAL GARDEN/9.0 Chronicles/Session 11 - First Year Flyby\|Session 11 - First Year Flyby]]                                         | Whilst attempting to learn [[1 DIGITAL GARDEN/3.0 Spells/Inanimatus Conjurus\|Inanimatus Conjurus]], [[1 DIGITAL GARDEN/7.0 PEOPLE/7.1 PCs/Basil Featherstone (Nick)\|Basil]] conjured a singed and scorched version of [[1 DIGITAL GARDEN/6.0 Items/Ruffles the Teddy\|Ruffles the Teddy]]. He flees [[1 DIGITAL GARDEN/7.0 PEOPLE/7.3 NPCs/Albus Dumbledore\|Prof. Dumbledore]]'s class, failing to learn the spell in the process                                                                                                                                              |
+
+{ .block-language-dataview}

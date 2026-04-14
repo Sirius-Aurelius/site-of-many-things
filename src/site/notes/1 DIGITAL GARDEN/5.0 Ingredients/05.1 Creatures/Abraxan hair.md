@@ -10,10 +10,10 @@
 
 ## Used in:
 
-- [[1 DIGITAL GARDEN/4.0 Potions/Gregory's Unctuous Unction (Love)\|Gregory's Unctuous Unction (Love)]]
-- [[1 DIGITAL GARDEN/4.0 Potions/Exstimulo Potion\|Exstimulo Potion]]
-- [[1 DIGITAL GARDEN/4.0 Potions/Beguiling Bubbles (Love)\|Beguiling Bubbles (Love)]]
 - [[1 DIGITAL GARDEN/10.0 CREATURES/WW Bestiary/Winged Horses\|Winged Horses]]
+- [[1 DIGITAL GARDEN/4.0 Potions/Gregory's Unctuous Unction (Love)\|Gregory's Unctuous Unction (Love)]]
+- [[1 DIGITAL GARDEN/4.0 Potions/Beguiling Bubbles (Love)\|Beguiling Bubbles (Love)]]
+- [[1 DIGITAL GARDEN/4.0 Potions/Exstimulo Potion\|Exstimulo Potion]]
 
 { .block-language-dataview}
 

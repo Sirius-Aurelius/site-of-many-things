@@ -10,8 +10,8 @@
 
 ## Used in:
 
-- [[1 DIGITAL GARDEN/4.0 Potions/Felix Felicis\|Felix Felicis]]
 - [[1 DIGITAL GARDEN/10.0 CREATURES/WW Bestiary/Occamy\|Occamy]]
+- [[1 DIGITAL GARDEN/4.0 Potions/Felix Felicis\|Felix Felicis]]
 
 { .block-language-dataview}
 

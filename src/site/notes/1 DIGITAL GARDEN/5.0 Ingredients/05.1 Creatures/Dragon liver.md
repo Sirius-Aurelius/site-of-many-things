@@ -10,9 +10,9 @@
 
 ## Used in:
 
-- [[1 DIGITAL GARDEN/4.0 Potions/Wolfsbane Potion\|Wolfsbane Potion]]
-- [[1 DIGITAL GARDEN/4.0 Potions/Invigoration Draught\|Invigoration Draught]]
 - [[1 DIGITAL GARDEN/10.0 CREATURES/WW Bestiary/Dragons\|Dragons]]
+- [[1 DIGITAL GARDEN/4.0 Potions/Invigoration Draught\|Invigoration Draught]]
+- [[1 DIGITAL GARDEN/4.0 Potions/Wolfsbane Potion\|Wolfsbane Potion]]
 
 { .block-language-dataview}
 

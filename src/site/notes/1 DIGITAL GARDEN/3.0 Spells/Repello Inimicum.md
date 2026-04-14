@@ -1,8 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/1-digital-garden/3-0-spells/repello-inimicum/"}
+{"dg-publish":true,"permalink":"/1-digital-garden/3-0-spells/repello-inimicum/","tags":["DnDB-done"]}
 ---
 
-The Evil Protection Charm - 3rd-level Charm 
+The Evil Protection Charm - 3rd-level Charm ==Created at L2 for FInchypuffs==
+
 Casting Time: 1 minute 
 Range: Self (20-foot-radius hemisphere) 
 Duration: 1 hour 

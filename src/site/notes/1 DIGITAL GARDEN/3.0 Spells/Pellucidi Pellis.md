@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-digital-garden/3-0-spells/pellucidi-pellis/"}
+{"dg-publish":true,"permalink":"/1-digital-garden/3-0-spells/pellucidi-pellis/","tags":["DnDB-done"]}
 ---
 
 The Disillusionment Charm - 2nd-level Charm 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-digital-garden/3-0-spells/expelliarmus/"}
+{"dg-publish":true,"permalink":"/1-digital-garden/3-0-spells/expelliarmus/","tags":["DnDB-done"]}
 ---
 
 The Disarming Charm - 2nd-level Charm

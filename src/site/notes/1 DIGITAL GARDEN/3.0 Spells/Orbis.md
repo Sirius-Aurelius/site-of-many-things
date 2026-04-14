@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-digital-garden/3-0-spells/orbis/"}
+{"dg-publish":true,"permalink":"/1-digital-garden/3-0-spells/orbis/","tags":["DnDB-done"]}
 ---
 
 The Rooting Spell - 2nd-level Transfiguration 

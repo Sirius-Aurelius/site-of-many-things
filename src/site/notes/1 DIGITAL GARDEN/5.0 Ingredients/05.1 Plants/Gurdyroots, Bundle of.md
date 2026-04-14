@@ -10,8 +10,8 @@
 
 ## Used in:
 
-- [[1 DIGITAL GARDEN/4.0 Potions/Confusing Concoction\|Confusing Concoction]]
 - [[1 DIGITAL GARDEN/4.0 Potions/Babbling Beverage\|Babbling Beverage]]
+- [[1 DIGITAL GARDEN/4.0 Potions/Confusing Concoction\|Confusing Concoction]]
 
 { .block-language-dataview}
 

@@ -10,9 +10,9 @@
 
 ## Used in:
 
+- [[1 DIGITAL GARDEN/10.0 CREATURES/WW Bestiary/Erumpent\|Erumpent]]
 - [[1 DIGITAL GARDEN/4.0 Potions/Felix Felicis\|Felix Felicis]]
 - [[1 DIGITAL GARDEN/4.0 Potions/Erumpent Potion\|Erumpent Potion]]
-- [[1 DIGITAL GARDEN/10.0 CREATURES/WW Bestiary/Erumpent\|Erumpent]]
 
 { .block-language-dataview}
 

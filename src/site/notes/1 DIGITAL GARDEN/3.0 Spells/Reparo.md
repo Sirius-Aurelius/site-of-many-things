@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-digital-garden/3-0-spells/reparo/"}
+{"dg-publish":true,"permalink":"/1-digital-garden/3-0-spells/reparo/","tags":["DnDB-done"]}
 ---
 
 The Mending Charm - 2nd-level Charm (ritual) 

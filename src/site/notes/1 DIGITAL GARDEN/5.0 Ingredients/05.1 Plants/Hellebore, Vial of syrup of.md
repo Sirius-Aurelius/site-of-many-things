@@ -10,9 +10,9 @@
 
 ## Used in:
 
+- [[1 DIGITAL GARDEN/4.0 Potions/Draught of Peace\|Draught of Peace]]
 - [[1 DIGITAL GARDEN/4.0 Potions/Volubilis Potion\|Volubilis Potion]]
 - [[1 DIGITAL GARDEN/4.0 Potions/Noxious Potion\|Noxious Potion]]
-- [[1 DIGITAL GARDEN/4.0 Potions/Draught of Peace\|Draught of Peace]]
 
 { .block-language-dataview}
 

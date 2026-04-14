@@ -10,9 +10,9 @@
 
 ## Used in:
 
-- [[1 DIGITAL GARDEN/9.0 Chronicles/Session 06 - Arania Exumai!\|Session 06 - Arania Exumai!]]
 - [[1 DIGITAL GARDEN/4.0 Potions/Veritaserum\|Veritaserum]]
 - [[1 DIGITAL GARDEN/4.0 Potions/Death-Cap Draught\|Death-Cap Draught]]
+- [[1 DIGITAL GARDEN/9.0 Chronicles/Session 06 - Arania Exumai!\|Session 06 - Arania Exumai!]]
 
 { .block-language-dataview}
 

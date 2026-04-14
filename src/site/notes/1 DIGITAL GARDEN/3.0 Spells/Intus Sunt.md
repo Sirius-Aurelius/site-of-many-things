@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-digital-garden/3-0-spells/intus-sunt/"}
+{"dg-publish":true,"permalink":"/1-digital-garden/3-0-spells/intus-sunt/","tags":["DnDB-done"]}
 ---
 
 The Entrail-Expelling Curse - 3rd-level Healing (ritual) 

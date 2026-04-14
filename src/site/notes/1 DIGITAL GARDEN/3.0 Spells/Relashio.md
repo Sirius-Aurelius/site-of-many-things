@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-digital-garden/3-0-spells/relashio/"}
+{"dg-publish":true,"permalink":"/1-digital-garden/3-0-spells/relashio/","tags":["DnDB-done"]}
 ---
 
 The Revulsion Jinx - 2nd-Level Curse 

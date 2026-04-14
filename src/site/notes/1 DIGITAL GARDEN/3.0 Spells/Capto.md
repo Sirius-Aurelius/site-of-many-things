@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-digital-garden/3-0-spells/capto/"}
+{"dg-publish":true,"permalink":"/1-digital-garden/3-0-spells/capto/","tags":["DnDB-done"]}
 ---
 
 The Gripping Charm - Charm cantrip 

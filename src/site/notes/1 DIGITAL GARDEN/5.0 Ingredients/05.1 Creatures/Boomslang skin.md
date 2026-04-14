@@ -10,9 +10,9 @@
 
 ## Used in:
 
-- [[1 DIGITAL GARDEN/4.0 Potions/Polyjuice Potion\|Polyjuice Potion]]
-- [[1 DIGITAL GARDEN/4.0 Potions/Invisibility Potion\|Invisibility Potion]]
 - [[1 DIGITAL GARDEN/10.0 CREATURES/WW Bestiary/Boomslang\|Boomslang]]
+- [[1 DIGITAL GARDEN/4.0 Potions/Invisibility Potion\|Invisibility Potion]]
+- [[1 DIGITAL GARDEN/4.0 Potions/Polyjuice Potion\|Polyjuice Potion]]
 
 { .block-language-dataview}
 

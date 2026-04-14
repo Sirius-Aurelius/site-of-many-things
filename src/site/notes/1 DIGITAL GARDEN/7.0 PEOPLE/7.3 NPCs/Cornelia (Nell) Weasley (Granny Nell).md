@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-digital-garden/7-0-people/7-3-np-cs/cornelia-nell-weasley-granny-nell/","tags":["#person","wider-world","gryffindor"]}
+{"dg-publish":true,"permalink":"/1-digital-garden/7-0-people/7-3-np-cs/cornelia-nell-weasley-granny-nell/","tags":["#person","wider-world","gryffindor","OrderOfAncient"]}
 ---
 
 ![[==LINK TO CHARACTER PORTRAIT IMAGE==\|left]]
@@ -8,6 +8,8 @@
 >**ThreeWordSummary**:: 
 >**UsuallyFoundIn**:: [[1 DIGITAL GARDEN/8.0 PLACES/8.5 Wider World/8.5.2 London/8.5.2.01 The Weasley Tentement\|The Weasley Tentement]]
 
+### Statblock (DM Only)
+- [[1 DIGITAL GARDEN/7.0 PEOPLE/7.3 NPCs/Statblocks/Diviner Witch (Granny Nell) - CR 12\|Diviner Witch (Granny Nell) - CR 12]]
 # Description
 
 From player back story:
@@ -19,10 +21,14 @@ From player back story:
 
 >_Gran Nell was the only one Cassie truly trusted with the full extent of her premonitions, often sharing hushed whispers in the dim corners of their tent-home. Her grandmother's knowing nods and gentle guidance taught Cassie how to lean into her gift, even when others might not understand it._
 
+## Canon/Additional Player Notes
+
+- Aged c.
 # Interactions
 
-| Session | Interactions |
-| ------- | ------------ |
+| Session                                                                                                                     | Interactions                                                                                                                                                                                                                                                                                    |
+| --------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [[1 DIGITAL GARDEN/9.0 Chronicles/Session 10 - The Keys to the Broom Closet\|Session 10 - The Keys to the Broom Closet]] | [[1 DIGITAL GARDEN/7.0 PEOPLE/7.3 NPCs/Cornelia (Nell) Weasley (Granny Nell)\|Granny Nell]] (Cornelia Weasley) reacts with unnerving urgency to [[1 DIGITAL GARDEN/7.0 PEOPLE/7.1 PCs/Cassie Weasley (Karima)\|Cassie]]'s report of recent school events; after unlocking a private bureau and retrieving a sheaf of papers, she disapparates to an unknown destination. |
 
 { .block-language-dataview}
 

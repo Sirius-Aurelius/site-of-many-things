@@ -10,8 +10,8 @@
 
 ## Used in:
 
-- [[1 DIGITAL GARDEN/4.0 Potions/Veritaserum\|Veritaserum]]
 - [[1 DIGITAL GARDEN/11.0 Plants/Thaumatagoria\|Thaumatagoria]]
+- [[1 DIGITAL GARDEN/4.0 Potions/Veritaserum\|Veritaserum]]
 
 { .block-language-dataview}
 

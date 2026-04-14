@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-digital-garden/4-0-potions/confusing-concoction/","tags":["potion","yr1","common"]}
+{"dg-publish":true,"permalink":"/1-digital-garden/4-0-potions/confusing-concoction/","tags":["potion","yr1","common","DnDB-done"]}
 ---
 
 *Potion, common* 

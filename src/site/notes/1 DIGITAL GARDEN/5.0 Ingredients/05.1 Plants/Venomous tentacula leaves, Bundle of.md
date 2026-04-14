@@ -11,10 +11,10 @@
 ## Used in:
 
 - [[z_Templates/Plant\|Plant]]
-- [[1 DIGITAL GARDEN/4.0 Potions/Erumpent Potion\|Erumpent Potion]]
-- [[1 DIGITAL GARDEN/4.0 Potions/Drink of Despair\|Drink of Despair]]
-- [[1 DIGITAL GARDEN/4.0 Potions/Death-Cap Draught\|Death-Cap Draught]]
 - [[1 DIGITAL GARDEN/11.0 Plants/Venomous Tentacula\|Venomous Tentacula]]
+- [[1 DIGITAL GARDEN/4.0 Potions/Drink of Despair\|Drink of Despair]]
+- [[1 DIGITAL GARDEN/4.0 Potions/Erumpent Potion\|Erumpent Potion]]
+- [[1 DIGITAL GARDEN/4.0 Potions/Death-Cap Draught\|Death-Cap Draught]]
 
 { .block-language-dataview}
 

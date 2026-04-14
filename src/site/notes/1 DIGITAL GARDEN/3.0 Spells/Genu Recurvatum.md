@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-digital-garden/3-0-spells/genu-recurvatum/"}
+{"dg-publish":true,"permalink":"/1-digital-garden/3-0-spells/genu-recurvatum/","tags":["DnDB-done"]}
 ---
 
 The Knee-Reversal Hex - Curse cantrip 

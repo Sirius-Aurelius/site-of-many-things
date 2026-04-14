@@ -9,3 +9,4 @@
 Purchasable from [[1 DIGITAL GARDEN/8.0 PLACES/8.3 Hogsmeade Village/8.3.20 Honeydukes Sweet Shop\|Honeydukes Sweet Shop]] in [[1 DIGITAL GARDEN/8.0 PLACES/8.3 Hogsmeade Village/8.3.01 Hogsmeade Village - Overview\|Hogsmeade Village]]
 
 ## d1000 Flavours table
+

@@ -10,8 +10,8 @@
 
 ## Used in:
 
-- [[1 DIGITAL GARDEN/4.0 Potions/Dreamless Sleep Potion\|Dreamless Sleep Potion]]
 - [[1 DIGITAL GARDEN/4.0 Potions/Baneberry Poison\|Baneberry Poison]]
+- [[1 DIGITAL GARDEN/4.0 Potions/Dreamless Sleep Potion\|Dreamless Sleep Potion]]
 
 { .block-language-dataview}
 

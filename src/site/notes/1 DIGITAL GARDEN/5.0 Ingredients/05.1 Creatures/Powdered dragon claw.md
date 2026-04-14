@@ -10,9 +10,9 @@
 
 ## Used in:
 
-- [[1 DIGITAL GARDEN/4.0 Potions/Wit-Sharpening Potion\|Wit-Sharpening Potion]]
-- [[1 DIGITAL GARDEN/4.0 Potions/Baruffio's Brain Elixir\|Baruffio's Brain Elixir]]
 - [[1 DIGITAL GARDEN/10.0 CREATURES/WW Bestiary/Dragons\|Dragons]]
+- [[1 DIGITAL GARDEN/4.0 Potions/Baruffio's Brain Elixir\|Baruffio's Brain Elixir]]
+- [[1 DIGITAL GARDEN/4.0 Potions/Wit-Sharpening Potion\|Wit-Sharpening Potion]]
 
 { .block-language-dataview}
 

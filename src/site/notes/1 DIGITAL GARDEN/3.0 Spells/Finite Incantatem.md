@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-digital-garden/3-0-spells/finite-incantatem/"}
+{"dg-publish":true,"permalink":"/1-digital-garden/3-0-spells/finite-incantatem/","tags":["DnDB-done"]}
 ---
 
 The General Counter-spell - 2nd-level Charm 
@@ -11,4 +11,4 @@ Choose any creature, object, or magical effect within range. One non-Transfigura
 
 For a spell of a higher level on the target, make an ability check using your spellcasting ability. The DC equals 10 + the spell's level. On a successful check, the spell ends. 
 
-**At Higher Levels**. When you cast this spell using a spell slot of 3rd level or higher, you automatically end the effects of a non-Transfiguration spell on the target if the spell's leve
+**At Higher Levels**. When you cast this spell using a spell slot of 3rd level or higher, you automatically end the effects of a non-Transfiguration spell on the target if the spell's level is equal to or less than the level of the spell slot you used.

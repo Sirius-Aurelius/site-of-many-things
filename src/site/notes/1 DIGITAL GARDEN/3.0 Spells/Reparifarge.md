@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-digital-garden/3-0-spells/reparifarge/"}
+{"dg-publish":true,"permalink":"/1-digital-garden/3-0-spells/reparifarge/","tags":["DnDB-done"]}
 ---
 
 The Untransfiguration Incantation - 2nd-level Transfiguration 

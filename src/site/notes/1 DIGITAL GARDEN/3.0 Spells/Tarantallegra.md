@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-digital-garden/3-0-spells/tarantallegra/"}
+{"dg-publish":true,"permalink":"/1-digital-garden/3-0-spells/tarantallegra/","tags":["DnDB-done"]}
 ---
 
 The Dancing Feet Jinx - 2nd-level Curse

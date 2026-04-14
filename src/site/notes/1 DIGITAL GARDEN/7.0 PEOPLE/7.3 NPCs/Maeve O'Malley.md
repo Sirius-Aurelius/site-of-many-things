@@ -16,8 +16,9 @@ Relationships:: Sister of [[1 DIGITAL GARDEN/7.0 PEOPLE/7.3 NPCs/Finnian (Finn) 
 
 # Interactions
 
-| Session | Interactions |
-| ------- | ------------ |
+| Session                                                                                   | Interactions                                                                                                                                                                                                                                                                       |
+| ----------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [[1 DIGITAL GARDEN/9.0 Chronicles/Session 14 - Spring 1940\|Session 14 - Spring 1940]] | [[1 DIGITAL GARDEN/7.0 PEOPLE/7.1 PCs/Vi Thorne (Charlie)\|Vi]] forms her research group to explore a potion that can restore expended arcana (sorcery points/spell slots). The initial group comprises [[1 DIGITAL GARDEN/7.0 PEOPLE/7.3 NPCs/Beatrice (Madam) Willow\|Madam Willow]], [[1 DIGITAL GARDEN/7.0 PEOPLE/7.3 NPCs/Horace Slughorn\|Prof. Slughorn]], [[1 DIGITAL GARDEN/7.0 PEOPLE/7.3 NPCs/Fizzy\|Fizzy]] & [[1 DIGITAL GARDEN/7.0 PEOPLE/7.3 NPCs/Maeve O'Malley\|Maeve O'Malley]] |
 
 { .block-language-dataview}
 
@@ -30,8 +31,8 @@ Relationship::
 | Related to:                                                                                  | Their relationship to this person                                                                         |
 | -------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------- |
 | [[1 DIGITAL GARDEN/7.0 PEOPLE/7.3 NPCs/Aoife O'Malley\|Aoife O'Malley]]                   | Sister of [[1 DIGITAL GARDEN/7.0 PEOPLE/7.3 NPCs/Cian O'Malley\|Cian O'Malley]], [[1 DIGITAL GARDEN/7.0 PEOPLE/7.3 NPCs/Maeve O'Malley\|Maeve O'Malley]], [[1 DIGITAL GARDEN/7.0 PEOPLE/7.3 NPCs/Declan O'Malley\|Declan O'Malley]] & [[1 DIGITAL GARDEN/7.0 PEOPLE/7.3 NPCs/Finnian (Finn) O'Malley\|Finnian (Finn) O'Malley]]        |
-| [[1 DIGITAL GARDEN/7.0 PEOPLE/7.3 NPCs/Cian O'Malley\|Cian O'Malley]]                     | Brother of [[1 DIGITAL GARDEN/7.0 PEOPLE/7.3 NPCs/Aoife O'Malley\|Aoife O'Malley]], [[1 DIGITAL GARDEN/7.0 PEOPLE/7.3 NPCs/Maeve O'Malley\|Maeve O'Malley]], [[1 DIGITAL GARDEN/7.0 PEOPLE/7.3 NPCs/Declan O'Malley\|Declan O'Malley]] & [[1 DIGITAL GARDEN/7.0 PEOPLE/7.3 NPCs/Finnian (Finn) O'Malley\|Finnian (Finn) O'Malley]]      |
-| [[1 DIGITAL GARDEN/7.0 PEOPLE/7.3 NPCs/Declan O'Malley\|Declan O'Malley]]                 | Brother of [[1 DIGITAL GARDEN/7.0 PEOPLE/7.3 NPCs/Aoife O'Malley\|Aoife O'Malley]], [[1 DIGITAL GARDEN/7.0 PEOPLE/7.3 NPCs/Cian O'Malley\|Cian O'Malley]], [[1 DIGITAL GARDEN/7.0 PEOPLE/7.3 NPCs/Maeve O'Malley\|Maeve O'Malley]] & [[1 DIGITAL GARDEN/7.0 PEOPLE/7.3 NPCs/Finnian (Finn) O'Malley\|Finnian (Finn) O'Malley]]        |
 | [[1 DIGITAL GARDEN/7.0 PEOPLE/7.3 NPCs/Finnian (Finn) O'Malley\|Finnian (Finn) O'Malley]] | Relationship:: Brother of [[1 DIGITAL GARDEN/7.0 PEOPLE/7.3 NPCs/Aoife O'Malley\|Aoife O'Malley]], [[1 DIGITAL GARDEN/7.0 PEOPLE/7.3 NPCs/Cian O'Malley\|Cian O'Malley]], [[1 DIGITAL GARDEN/7.0 PEOPLE/7.3 NPCs/Maeve O'Malley\|Maeve O'Malley]] & [[1 DIGITAL GARDEN/7.0 PEOPLE/7.3 NPCs/Declan O'Malley\|Declan O'Malley]] |
+| [[1 DIGITAL GARDEN/7.0 PEOPLE/7.3 NPCs/Declan O'Malley\|Declan O'Malley]]                 | Brother of [[1 DIGITAL GARDEN/7.0 PEOPLE/7.3 NPCs/Aoife O'Malley\|Aoife O'Malley]], [[1 DIGITAL GARDEN/7.0 PEOPLE/7.3 NPCs/Cian O'Malley\|Cian O'Malley]], [[1 DIGITAL GARDEN/7.0 PEOPLE/7.3 NPCs/Maeve O'Malley\|Maeve O'Malley]] & [[1 DIGITAL GARDEN/7.0 PEOPLE/7.3 NPCs/Finnian (Finn) O'Malley\|Finnian (Finn) O'Malley]]        |
+| [[1 DIGITAL GARDEN/7.0 PEOPLE/7.3 NPCs/Cian O'Malley\|Cian O'Malley]]                     | Brother of [[1 DIGITAL GARDEN/7.0 PEOPLE/7.3 NPCs/Aoife O'Malley\|Aoife O'Malley]], [[1 DIGITAL GARDEN/7.0 PEOPLE/7.3 NPCs/Maeve O'Malley\|Maeve O'Malley]], [[1 DIGITAL GARDEN/7.0 PEOPLE/7.3 NPCs/Declan O'Malley\|Declan O'Malley]] & [[1 DIGITAL GARDEN/7.0 PEOPLE/7.3 NPCs/Finnian (Finn) O'Malley\|Finnian (Finn) O'Malley]]      |
 
 { .block-language-dataview}

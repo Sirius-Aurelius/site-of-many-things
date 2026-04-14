@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-digital-garden/3-0-spells/reducio/"}
+{"dg-publish":true,"permalink":"/1-digital-garden/3-0-spells/reducio/","tags":["DnDB-done"]}
 ---
 
 The Shrinking Charm - 1st-level Charm (ritual) 

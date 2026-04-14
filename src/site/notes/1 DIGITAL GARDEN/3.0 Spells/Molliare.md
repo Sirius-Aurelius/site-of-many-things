@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-digital-garden/3-0-spells/molliare/"}
+{"dg-publish":true,"permalink":"/1-digital-garden/3-0-spells/molliare/","tags":["DnDB-done"]}
 ---
 
 The Cushioning Charm - Charm Cantrip 

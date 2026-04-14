@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-digital-garden/3-0-spells/epoximise/"}
+{"dg-publish":true,"permalink":"/1-digital-garden/3-0-spells/epoximise/","tags":["DnDB-done"]}
 ---
 
 The Sticking Spell - Transfiguration Cantrip

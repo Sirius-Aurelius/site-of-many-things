@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-digital-garden/3-0-spells/bombarda-dark/"}
+{"dg-publish":true,"permalink":"/1-digital-garden/3-0-spells/bombarda-dark/","tags":["DnDB-done"]}
 ---
 
 The Exploding Charm - Curse cantrip 

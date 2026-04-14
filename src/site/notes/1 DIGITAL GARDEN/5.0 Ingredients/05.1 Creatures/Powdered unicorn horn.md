@@ -10,9 +10,9 @@
 
 ## Used in:
 
+- [[1 DIGITAL GARDEN/10.0 CREATURES/WW Bestiary/Unicorn\|Unicorn]]
 - [[1 DIGITAL GARDEN/4.0 Potions/Wolfsbane Potion\|Wolfsbane Potion]]
 - [[1 DIGITAL GARDEN/4.0 Potions/Essence of Dittany\|Essence of Dittany]]
-- [[1 DIGITAL GARDEN/10.0 CREATURES/WW Bestiary/Unicorn\|Unicorn]]
 
 { .block-language-dataview}
 

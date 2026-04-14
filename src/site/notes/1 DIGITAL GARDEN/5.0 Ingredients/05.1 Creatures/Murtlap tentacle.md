@@ -10,10 +10,10 @@
 
 ## Used in:
 
-- [[1 DIGITAL GARDEN/4.0 Potions/Skele-Gro\|Skele-Gro]]
-- [[1 DIGITAL GARDEN/4.0 Potions/Murtlap Essence\|Murtlap Essence]]
-- [[1 DIGITAL GARDEN/4.0 Potions/Felix Felicis\|Felix Felicis]]
 - [[1 DIGITAL GARDEN/10.0 CREATURES/WW Bestiary/Murtlap\|Murtlap]]
+- [[1 DIGITAL GARDEN/4.0 Potions/Skele-Gro\|Skele-Gro]]
+- [[1 DIGITAL GARDEN/4.0 Potions/Felix Felicis\|Felix Felicis]]
+- [[1 DIGITAL GARDEN/4.0 Potions/Murtlap Essence\|Murtlap Essence]]
 
 { .block-language-dataview}
 

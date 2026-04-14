@@ -10,9 +10,9 @@
 
 ## Used in:
 
+- [[1 DIGITAL GARDEN/4.0 Potions/Cupid Crystals (Love)\|Cupid Crystals (Love)]]
 - [[1 DIGITAL GARDEN/4.0 Potions/Pet Tonic\|Pet Tonic]]
 - [[1 DIGITAL GARDEN/4.0 Potions/Heartbreak Teardrops (Love)\|Heartbreak Teardrops (Love)]]
-- [[1 DIGITAL GARDEN/4.0 Potions/Cupid Crystals (Love)\|Cupid Crystals (Love)]]
 
 { .block-language-dataview}
 

@@ -10,9 +10,9 @@
 
 ## Used in:
 
-- [[1 DIGITAL GARDEN/4.0 Potions/Sleeping Draught\|Sleeping Draught]]
 - [[1 DIGITAL GARDEN/4.0 Potions/Gregory's Unctuous Unction (Love)\|Gregory's Unctuous Unction (Love)]]
 - [[1 DIGITAL GARDEN/4.0 Potions/Befuddlement Draught\|Befuddlement Draught]]
+- [[1 DIGITAL GARDEN/4.0 Potions/Sleeping Draught\|Sleeping Draught]]
 
 { .block-language-dataview}
 

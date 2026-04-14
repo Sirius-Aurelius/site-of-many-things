@@ -10,8 +10,9 @@
 
 ## Used in:
 
-- [[1 DIGITAL GARDEN/4.0 Potions/Veritaserum\|Veritaserum]]
+- [[0 DM SCREEN/0 LIVE SESSION NOTES/Session 15 - Castle Combe, Easter 1940\|Session 15 - Castle Combe, Easter 1940]]
 - [[1 DIGITAL GARDEN/10.0 CREATURES/WW Bestiary/Demiguise\|Demiguise]]
+- [[1 DIGITAL GARDEN/4.0 Potions/Veritaserum\|Veritaserum]]
 
 { .block-language-dataview}
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-digital-garden/3-0-spells/vulnera-sanentur/"}
+{"dg-publish":true,"permalink":"/1-digital-garden/3-0-spells/vulnera-sanentur/","tags":["DnDB-done"]}
 ---
 
 The Regenerating Spell - 6th-level Healing

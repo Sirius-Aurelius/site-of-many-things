@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-digital-garden/3-0-spells/vigilatus/"}
+{"dg-publish":true,"permalink":"/1-digital-garden/3-0-spells/vigilatus/","tags":["DnDB-done"]}
 ---
 
 The Intruder Charm - 1st-level Charm (ritual)

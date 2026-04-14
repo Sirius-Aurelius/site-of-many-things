@@ -12,6 +12,7 @@ Facilitates water-breathing... Insofar as is causes the eater to sprout gills an
 
 ## Used in:
 
+- [[1 DIGITAL GARDEN/4.0 Potions/Gillyweed, Extract of\|Gillyweed, Extract of]]
 - [[1 DIGITAL GARDEN/4.0 Potions/Gillyweed\|Gillyweed]]
 
 { .block-language-dataview}

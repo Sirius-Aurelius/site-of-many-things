@@ -10,8 +10,8 @@
 
 ## Used in:
 
-- [[1 DIGITAL GARDEN/4.0 Potions/Fire Protection Potion\|Fire Protection Potion]]
 - [[1 DIGITAL GARDEN/4.0 Potions/Aging Potion\|Aging Potion]]
+- [[1 DIGITAL GARDEN/4.0 Potions/Fire Protection Potion\|Fire Protection Potion]]
 
 { .block-language-dataview}
 

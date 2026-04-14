@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-digital-garden/3-0-spells/slugulus-eructo/"}
+{"dg-publish":true,"permalink":"/1-digital-garden/3-0-spells/slugulus-eructo/","tags":["DnDB-done"]}
 ---
 
 The Slug-Vomiting Hex - 2nd-level Curse
@@ -7,7 +7,7 @@ Casting Time: 1 action
 Range: 60 feet
 Duration: 1 round
 
-This particularly nasty hex causes one to spit up slugs for the duration. Make a ranged spell attack against a creature within range. On a hit, it takes 3d8 psychic damage and gains one level of exhaustion. This spell cannot cause it to reachmore than 5 levels of exhaustion. 
+This particularly nasty hex causes one to spit up slugs for the duration. Make a ranged spell attack against a creature within range. On a hit, it takes 3d8 psychic damage and gains one level of exhaustion. This spell cannot cause it to reach more than 5 levels of exhaustion. 
 
 If it tries to cast a spell verbally before the end of its next turn, it must first succeed on a Constitution saving throw, or the casting fails and the spell is wasted.
 

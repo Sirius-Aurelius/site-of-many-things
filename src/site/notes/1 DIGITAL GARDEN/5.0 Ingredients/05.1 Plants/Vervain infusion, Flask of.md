@@ -10,10 +10,10 @@
 
 ## Used in:
 
-- [[1 DIGITAL GARDEN/4.0 Potions/Wound-Cleaning Potion\|Wound-Cleaning Potion]]
 - [[1 DIGITAL GARDEN/4.0 Potions/Pepperup Potion\|Pepperup Potion]]
-- [[1 DIGITAL GARDEN/4.0 Potions/Dr Ubbly's Oblivious Unction\|Dr Ubbly's Oblivious Unction]]
+- [[1 DIGITAL GARDEN/4.0 Potions/Wound-Cleaning Potion\|Wound-Cleaning Potion]]
 - [[1 DIGITAL GARDEN/4.0 Potions/Blood-Replenishing Potion\|Blood-Replenishing Potion]]
+- [[1 DIGITAL GARDEN/4.0 Potions/Dr Ubbly's Oblivious Unction\|Dr Ubbly's Oblivious Unction]]
 
 { .block-language-dataview}
 

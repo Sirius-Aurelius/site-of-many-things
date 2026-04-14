@@ -10,9 +10,9 @@
 
 ## Used in:
 
+- [[1 DIGITAL GARDEN/4.0 Potions/Baruffio's Brain Elixir\|Baruffio's Brain Elixir]]
 - [[1 DIGITAL GARDEN/4.0 Potions/Dreamless Sleep Potion\|Dreamless Sleep Potion]]
 - [[1 DIGITAL GARDEN/4.0 Potions/Dr Ubbly's Oblivious Unction\|Dr Ubbly's Oblivious Unction]]
-- [[1 DIGITAL GARDEN/4.0 Potions/Baruffio's Brain Elixir\|Baruffio's Brain Elixir]]
 
 { .block-language-dataview}
 

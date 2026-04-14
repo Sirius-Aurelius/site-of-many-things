@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-digital-garden/3-0-spells/melofors/"}
+{"dg-publish":true,"permalink":"/1-digital-garden/3-0-spells/melofors/","tags":["DnDB-done"]}
 ---
 
 The Pumpkin-Conjuring Spell - 3rd-level Transfiguration 

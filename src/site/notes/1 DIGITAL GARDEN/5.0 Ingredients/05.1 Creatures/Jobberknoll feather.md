@@ -11,9 +11,9 @@
 ## Used in:
 
 
-- [[1 DIGITAL GARDEN/4.0 Potions/Volubilis Potion\|Volubilis Potion]]
 - [[1 DIGITAL GARDEN/4.0 Potions/Veritaserum\|Veritaserum]]
 - [[1 DIGITAL GARDEN/4.0 Potions/Memory Potion\|Memory Potion]]
+- [[1 DIGITAL GARDEN/4.0 Potions/Volubilis Potion\|Volubilis Potion]]
 
 { .block-language-dataview}
 

@@ -10,9 +10,9 @@
 
 ## Used in:
 
-- [[1 DIGITAL GARDEN/4.0 Potions/Kissing Concoction (Love)\|Kissing Concoction (Love)]]
 - [[1 DIGITAL GARDEN/4.0 Potions/Draught of Peace\|Draught of Peace]]
 - [[1 DIGITAL GARDEN/4.0 Potions/Amortentia (Love)\|Amortentia (Love)]]
+- [[1 DIGITAL GARDEN/4.0 Potions/Kissing Concoction (Love)\|Kissing Concoction (Love)]]
 
 { .block-language-dataview}
 

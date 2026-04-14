@@ -2,9 +2,9 @@
 {"dg-publish":true,"permalink":"/1-digital-garden/7-0-people/7-3-np-cs/silvanus-kettleburn/","tags":["#person","hogwarts","hogwarts-faculty","professor","#hufflepuff"]}
 ---
 
+![Silvanus Kettleburn.png](/img/user/1%20DIGITAL%20GARDEN/7.0%20PEOPLE/7.3%20NPCs/Headshots/Silvanus%20Kettleburn.png)>
 >[!info] 
->[[ ==CHARACTER PORTRAIT HERE (with |left|300)==
->**Role**:: Care of Magical Creatures Professor at [[1 DIGITAL GARDEN/8.0 PLACES/8.2 Hogwarts School/8.2.0 Hogwarts School - Overview\|Hogwarts School of Witchcraft & Wizardry]]
+>>**Role**:: Care of Magical Creatures Professor at [[1 DIGITAL GARDEN/8.0 PLACES/8.2 Hogwarts School/8.2.0 Hogwarts School - Overview\|Hogwarts School of Witchcraft & Wizardry]]
 >**ThreeWordSummary**:: Grizzled, animal-chewed, wildling
 >**UsuallyFoundIn**:: [[1 DIGITAL GARDEN/8.0 PLACES/8.2 Hogwarts School/8.2.03 Care of Magical Creatures 'classroom'\|Care of Magical Creatures 'classroom']], [[1 DIGITAL GARDEN/8.0 PLACES/8.4 Hogwarts Valley/8.4.1.0 Forbidden Forest\|Forbidden Forest]]
 

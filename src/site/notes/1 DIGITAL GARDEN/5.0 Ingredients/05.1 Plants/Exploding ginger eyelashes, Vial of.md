@@ -10,9 +10,9 @@
 
 ## Used in:
 
-- [[1 DIGITAL GARDEN/4.0 Potions/Swelling Solution\|Swelling Solution]]
 - [[1 DIGITAL GARDEN/4.0 Potions/Garrotting Gas\|Garrotting Gas]]
 - [[1 DIGITAL GARDEN/4.0 Potions/Erumpent Potion\|Erumpent Potion]]
+- [[1 DIGITAL GARDEN/4.0 Potions/Swelling Solution\|Swelling Solution]]
 
 { .block-language-dataview}
 

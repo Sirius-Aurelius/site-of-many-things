@@ -10,8 +10,8 @@
 
 ## Used in:
 
-- [[1 DIGITAL GARDEN/4.0 Potions/Essence of Dittany\|Essence of Dittany]]
 - [[1 DIGITAL GARDEN/4.0 Potions/Amortentia (Love)\|Amortentia (Love)]]
+- [[1 DIGITAL GARDEN/4.0 Potions/Essence of Dittany\|Essence of Dittany]]
 
 { .block-language-dataview}
 

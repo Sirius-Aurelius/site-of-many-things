@@ -10,9 +10,9 @@
 
 ## Used in:
 
+- [[1 DIGITAL GARDEN/10.0 CREATURES/WW Bestiary/Bundimun\|Bundimun]]
 - [[1 DIGITAL GARDEN/4.0 Potions/Garrotting Gas\|Garrotting Gas]]
 - [[1 DIGITAL GARDEN/4.0 Potions/Doxycide\|Doxycide]]
-- [[1 DIGITAL GARDEN/10.0 CREATURES/WW Bestiary/Bundimun\|Bundimun]]
 
 { .block-language-dataview}
 

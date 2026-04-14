@@ -29,7 +29,7 @@ Event:: [[1 DIGITAL GARDEN/7.0 PEOPLE/7.1 PCs/Cassie Weasley (Karima)\|Cassie We
 
 Event:: [[1 DIGITAL GARDEN/7.0 PEOPLE/7.3 NPCs/Penelope (Penny) Perkins\|Penelope (Penny) Perkins]] expresses an interest in becoming a [[1 DIGITAL GARDEN/7.0 PEOPLE/7.2 Factions/07.2.15 D.I.A.D.E.M.s\|DIADEM]] and undertakes to submit her needless homework anyway
 
-Event:: [[1 DIGITAL GARDEN/7.0 PEOPLE/7.1 PCs/Basil Featherstone (Nick)\|Basil Featherstone]] zones out in the Common Room, during which he experiences a vision of a busy War Room (demanding studiousness and attention to detail in coming days). This vision came via the face vortex of a medieval barber surgeon.
+Event:: [[1 DIGITAL GARDEN/7.0 PEOPLE/7.1 PCs/Basil Featherstone (Nick)\|Basil Featherstone]] zones out in the [[1 DIGITAL GARDEN/8.0 PLACES/8.2 Hogwarts School/8.3.01.01 Hufflepuff Common Room\|Hufflepuff Common Room]], during which he experiences a vision of a busy War Room (demanding studiousness and attention to detail in coming days). This vision came via the face vortex of a medieval barber surgeon.
 
 Event:: [[1 DIGITAL GARDEN/7.0 PEOPLE/7.1 PCs/Cassie Weasley (Karima)\|Cassie Weasley]], [[1 DIGITAL GARDEN/7.0 PEOPLE/7.1 PCs/Vi Thorne (Charlie)\|Vi Thorne]] & [[1 DIGITAL GARDEN/7.0 PEOPLE/7.1 PCs/Basil Featherstone (Nick)\|Basil Featherstone]] meet their Head of House [[1 DIGITAL GARDEN/7.0 PEOPLE/7.3 NPCs/Mirabel Garlick\|Mirabel Garlick]] and learn she has been acting Herbology Professor for 8 years since the disappearance of [[1 DIGITAL GARDEN/7.0 PEOPLE/7.3 NPCs/Septimus Finch\|Septimus Finch]] from the [[1 DIGITAL GARDEN/8.0 PLACES/8.4 Hogwarts Valley/8.4.1.0 Forbidden Forest\|Forbidden Forest]] whilst gathering supplies
 

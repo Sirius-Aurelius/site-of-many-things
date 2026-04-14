@@ -10,11 +10,11 @@
 
 ## Used in:
 
-- [[1 DIGITAL GARDEN/4.0 Potions/Mandrake Restorative Draught\|Mandrake Restorative Draught]]
-- [[1 DIGITAL GARDEN/4.0 Potions/Fatiguing Fusion\|Fatiguing Fusion]]
-- [[1 DIGITAL GARDEN/4.0 Potions/Antidote of Uncommon Poisons\|Antidote of Uncommon Poisons]]
-- [[1 DIGITAL GARDEN/4.0 Potions/Aging Potion\|Aging Potion]]
 - [[1 DIGITAL GARDEN/10.0 CREATURES/WW Bestiary/Chizpurfle\|Chizpurfle]]
+- [[1 DIGITAL GARDEN/4.0 Potions/Aging Potion\|Aging Potion]]
+- [[1 DIGITAL GARDEN/4.0 Potions/Fatiguing Fusion\|Fatiguing Fusion]]
+- [[1 DIGITAL GARDEN/4.0 Potions/Mandrake Restorative Draught\|Mandrake Restorative Draught]]
+- [[1 DIGITAL GARDEN/4.0 Potions/Antidote of Uncommon Poisons\|Antidote of Uncommon Poisons]]
 
 { .block-language-dataview}
 

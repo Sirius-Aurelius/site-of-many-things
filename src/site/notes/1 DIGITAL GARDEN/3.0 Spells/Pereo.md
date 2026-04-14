@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-digital-garden/3-0-spells/pereo/"}
+{"dg-publish":true,"permalink":"/1-digital-garden/3-0-spells/pereo/","tags":["DnDB-done"]}
 ---
 
 The Extinguishing Charm - Charm Cantrip 

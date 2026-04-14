@@ -12,7 +12,6 @@ None
 
 ### Cured by
 - [[1 DIGITAL GARDEN/4.0 Potions/Blemish Blitzer\|Blemish Blitzer]]
-- 
 
 ## Recipe:
 

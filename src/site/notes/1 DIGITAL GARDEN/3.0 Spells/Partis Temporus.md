@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-digital-garden/3-0-spells/partis-temporus/"}
+{"dg-publish":true,"permalink":"/1-digital-garden/3-0-spells/partis-temporus/","tags":["DnDB-done"]}
 ---
 
 The Barrier-Opening Charm - 2nd-level Charm 
