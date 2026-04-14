@@ -32,7 +32,7 @@ These cards represent widely known figures or those with significant historical 
     
 - [ ] **#18 Uric the Oddball:** Famous for eccentric behaviour, such as wearing a jellyfish hat.
     
-- [ ] **#19 Newt Scamander:** Famed magizoologist and author of Fantastic Beasts and Where to Find Them. See Newt Scamander (Portrait)
+- [ ] **#19 Newt Scamander:** Famed magizoologist and author of Fantastic Beasts and Where to Find Them. (See [[1 DIGITAL GARDEN/7.0 PEOPLE/7.3 NPCs/Newt Scamander (Portrait)\|Newt Scamander (Portrait)]])
     
 - [ ] **#28 Tilly Toke:** Saved Muggle lives during the 1932 Ilfracombe Incident.
     
@@ -52,7 +52,7 @@ These cards represent widely known figures or those with significant historical 
     
 - [ ] **#47 Edgar Stroulger:** Inventor of the Sneakoscope.
     
-- [ ] **#49 Elladora Ketteridge:** Accidentally discovered the properties of Gillyweed. See Elladora (Ella) Ketteridge (Portrait)
+- [ ] **#49 Elladora Ketteridge:** Accidentally discovered the properties of Gillyweed. (See [[1 DIGITAL GARDEN/7.0 PEOPLE/7.3 NPCs/Elladora (Ella) Ketteridge (Portrait)\|Elladora (Ella) Ketteridge (Portrait)]])
     
 - [ ] **#50 Musidora Barkwith:** Composer whose Wizarding Suite featured an exploding tuba.
     
@@ -161,7 +161,7 @@ These feature more specialised or unusual figures:
     
 - [ ] **#60 Laverne de Montmorency:** 19th-century inventor of several love potions.
     
-- [ ] **#62 Ignatia Wildsmith:** Inventor of Floo Powder. See Ignatia Wildsmith (Portrait)
+- [ ] **#62 Ignatia Wildsmith:** Inventor of Floo Powder. (See [[1 DIGITAL GARDEN/7.0 PEOPLE/7.3 NPCs/Ignatia Wildsmith (Portrait)\|Ignatia Wildsmith (Portrait)]])
     
 - [ ] **#65 Gondoline Oliphant:** Famous for studying the habits of trolls.
     
@@ -210,13 +210,13 @@ The rarest cards, featuring legendary figures:
     
 - [ ] **#69 Bertie Bott:** Accidentally created Every Flavour Beans.
     
-- [ ] **#72 Helga Hufflepuff:** One of the four founders of Hogwarts. See Helga Hufflepuff (Portrait)
+- [ ] **#72 Helga Hufflepuff:** One of the four founders of Hogwarts. (See [[1 DIGITAL GARDEN/7.0 PEOPLE/7.3 NPCs/Helga Hufflepuff (Portrait)\|Helga Hufflepuff (Portrait)]])
     
 - [ ] **#74 Montague Knightley:** Wizard's Chess Champion.
     
 - [ ] **#82 Rowena Ravenclaw:** One of the four founders of Hogwarts.
     
-- [ ] **#100 Albus Dumbledore:** Transfiguration Professor.
+- [ ] **#100 Albus Dumbledore:** Transfiguration Professor. (See [[1 DIGITAL GARDEN/7.0 PEOPLE/7.3 NPCs/Albus Dumbledore\|Albus Dumbledore]])
 # Mentions
 
 | Session | Interactions |
