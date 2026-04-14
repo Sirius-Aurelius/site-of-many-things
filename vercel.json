@@ -6,7 +6,7 @@
   "redirects": [
     {
       "source": "/(.*)",
-      "destination": "https://your-new-garden-url.com/$1",
+      "destination": "https://hufflepuff-heroes.vercel.app//$1",
       "permanent": true
     }
   ]
